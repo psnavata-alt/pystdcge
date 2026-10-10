@@ -1,0 +1,47 @@
+# USDA Economic Research Service, International Food Consumption Patterns data product (2005 ICP data; 144 countries), Philippines rows.
+# Muhammad, A., J.L. Seale Jr., B. Meade and A. Regmi (2011), International Evidence on Food Consumption Patterns: An Update Using 2005 International Comparison Program Data, USDA ERS Technical Bulletin TB-1929. Files updated by ERS 4 Sep 2013 (budget shares 11 Feb 2011).
+# Downloaded 2 Oct 2026 from https://www.ers.usda.gov/data-products/international-food-consumption-patterns (originals in USDA_ERS_2005ICP/). 'frisch' = own-price elasticity with the marginal utility of income held constant (ERS 'compensated'/'unconditional').
+table,category,philippines,source_file
+own_price_frisch_broad,"Food, beverages & tobacco",-0.555,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Clothing & footwear,-0.709,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Housing,-0.786,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,House furnishing,-0.772,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Medical & health,-1.078,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Transport & communication,-0.87,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Recreation,-1.271,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Education,-0.68,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_broad,Other,-1.084,compensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005-marginal-utility-of-income-held-constant.xls
+income_broad,"Food, beverages & tobacco",0.756,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Clothing & footwear,0.967,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Housing,1.071,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,House furnishing,1.053,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Medical & health,1.47,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Transport & communication,1.186,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Recreation,1.733,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Education,0.927,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_broad,Other,1.478,income-elasticities-for-broad-consumption-categories-144-countries-2005.xls
+income_food_sub,Cereals,0.430191,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Meats,0.749276,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Fish,0.619667,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Dairy,0.774836,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Oils & fats,0.455654,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Fruits,0.570382,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Food Other,1.089147,income-elasticities-for-food-subcategories-144-countries-2005.xls
+income_food_sub,Bev. & Tobacco,1.012505,income-elasticities-for-food-subcategories-144-countries-2005.xls
+own_price_uncompensated_broad,"Food, beverages & tobacco",-0.704,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Clothing & footwear,-0.725,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Housing,-0.821,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,House furnishing,-0.785,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Medical & health,-1.073,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Transport & communication,-0.888,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Recreation,-1.254,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Education,-0.69,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_uncompensated_broad,Other,-1.076,uncompensated-own-price-elasticity-for-broad-consumption-groups-144-countries-2005.xls
+own_price_frisch_food_sub,Cereals,-0.31557,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Meats,-0.549638,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Fish,-0.454562,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Dairy,-0.568388,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Oils & Fats,-0.334249,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Fruits & Veg.,-0.418409,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Food Other,-0.798953,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls
+own_price_frisch_food_sub,Bev. & Tobacco,-0.742732,unconditional-own-price-elasticity-for-for-subcategories-144-countries-2005-marginal-utility-of-income-held-constant.xls

@@ -1,0 +1,84 @@
+kind,code,gtap,sigma_q_gtap,sigma_q_ph,sigma_q_ph_source,omega_t_gtap,omega_t_pcgem,sigma_va_gtap
+commodity,cmaiz,GRO,1.3,3.715,Kapuscinski-Warr 1999 ECM (commodities [1]; 100% of group imports),1.3,0.3,
+commodity,crice,PDR,5.05,5.05,GTAP 9 ESUBD (PHL import-weighted),5.05,0.3,
+commodity,cocer,GRO,1.3,1.3,GTAP 9 ESUBD (PHL import-weighted),1.3,0.3,
+commodity,cpuls,V_F,1.85,1.85,GTAP 9 ESUBD (PHL import-weighted),1.85,1.5,
+commodity,coils,OSD,2.45,2.45,GTAP 9 ESUBD (PHL import-weighted),2.45,2.0,
+commodity,croot,V_F,1.85,1.85,GTAP 9 ESUBD (PHL import-weighted),1.85,1.5,
+commodity,cvege,V_F,1.85,1.85,GTAP 9 ESUBD (PHL import-weighted),1.85,1.5,
+commodity,csugr,C_B,2.7,2.7,GTAP 9 ESUBD (PHL import-weighted),2.7,2.0,
+commodity,ctoba,OCR,3.25,3.25,GTAP 9 ESUBD (PHL import-weighted),3.25,0.3,
+commodity,ccott,PFB,2.5,2.5,GTAP 9 ESUBD (PHL import-weighted),2.5,0.3,
+commodity,cfrui,V_F,1.85,1.032,Kapuscinski-Warr 1999 ECM (commodities [2]; 100% of group imports),1.85,1.5,
+commodity,ccoff,OCR,3.25,3.25,GTAP 9 ESUBD (PHL import-weighted),3.25,0.3,
+commodity,cocrp,OCR,3.25,3.25,GTAP 9 ESUBD (PHL import-weighted),3.25,0.3,
+commodity,ccatt,CTL,2.0,2.0,GTAP 9 ESUBD (PHL import-weighted),2.0,0.3,
+commodity,cpoul,OAP,1.3,1.394,Kapuscinski-Warr 1999 ECM (commodities [7]; 100% of group imports),1.3,0.3,
+commodity,coliv,OAP RMK WOL,1.4389,1.32,Kapuscinski-Warr 1999 ECM (commodities [8]; 100% of group imports),1.3002,0.3,
+commodity,cfore,FRS,2.5,0.829,Kapuscinski-Warr 1999 ECM (commodities [10]; 100% of group imports),2.5,0.3,
+commodity,cfish,FSH,1.25,1.25,GTAP 9 ESUBD (PHL import-weighted),1.25,1.5,
+commodity,cmine,COA OIL GAS OMN,3.8016,0.6754,"Kapuscinski-Warr 1999 ECM (commodities [11, 12]; 100% of group imports)",1.0757,1.5,
+commodity,cfood,CMT OMT VOL MIL PCR SGR OFD,2.8625,1.0252,"Kapuscinski-Warr 1999 ECM (commodities [14, 15, 16, 18]; 67% of group imports)",2.539,0.92,
+commodity,cbeve,B_T,1.15,1.15,GTAP 9 ESUBD (PHL import-weighted),1.15,1.5,
+commodity,ctext,TEX WAP LEA,3.7909,0.651,Kapuscinski-Warr 1999 ECM (commodities [22]; 96% of group imports),3.7372,1.6,
+commodity,cwood,LUM PPP,3.0979,3.0979,GTAP 9 ESUBD (PHL import-weighted),3.2881,1.2,
+commodity,cchem,P_C CRP,2.9148,2.9148,GTAP 9 ESUBD (PHL import-weighted),3.0117,0.8,
+commodity,cnmet,NMM,2.9,0.587,Kapuscinski-Warr 1999 ECM (commodities [29]; 100% of group imports),2.9,1.5,
+commodity,cmetl,I_S NFM FMP,3.5563,0.241,Kapuscinski-Warr 1999 ECM (commodities [30]; 100% of group imports),3.975,1.5,
+commodity,cmach,ELE OME MVH OTN,4.0994,1.0486,"Kapuscinski-Warr 1999 ECM (commodities [30, 31, 32]; 100% of group imports)",4.2557,2.15,
+commodity,coman,OMF,3.75,1.043,Kapuscinski-Warr 1999 ECM (commodities [33]; 100% of group imports),3.75,0.6,
+commodity,celec,ELY GDT,2.8,2.8,GTAP 9 ESUBD (PHL import-weighted),2.8,0.3,
+commodity,cwatr,WTR,2.8,2.8,GTAP 9 ESUBD (PHL import-weighted),2.8,0.3,
+commodity,ccons,CNS,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,ctrad,TRD,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,ctran,OTP WTP ATP,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,chotl,TRD,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,ccomm,CMN,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,cfsrv,OFI ISR,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,creal,OBS DWE,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,cbsrv,OBS,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,cpadm,OSG,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,ceduc,OSG,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,cheal,OSG,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+commodity,cosrv,ROS,1.9,1.9,GTAP 9 ESUBD (PHL import-weighted),1.9,0.3,
+activity,amaiz,GRO,,,,,,0.2611
+activity,arice,PDR,,,,,,0.2611
+activity,apuls,V_F,,,,,,0.2611
+activity,aoils,OSD,,,,,,0.2611
+activity,aroot,V_F,,,,,,0.2611
+activity,avege,V_F,,,,,,0.2611
+activity,asugr,C_B,,,,,,0.2611
+activity,atoba,OCR,,,,,,0.2611
+activity,acott,PFB,,,,,,0.2611
+activity,afrui,V_F,,,,,,0.2611
+activity,acoff,OCR,,,,,,0.2611
+activity,aocrp,OCR,,,,,,0.2611
+activity,acatt,CTL,,,,,,0.2611
+activity,apoul,OAP,,,,,,0.2611
+activity,aoliv,OAP RMK WOL,,,,,,0.2611
+activity,afore,FRS,,,,,,0.2
+activity,afish,FSH,,,,,,0.2
+activity,amine,COA OIL GAS OMN,,,,,,0.2
+activity,afood,CMT OMT VOL MIL PCR SGR OFD,,,,,,1.12
+activity,abeve,B_T,,,,,,1.12
+activity,atext,TEX WAP LEA,,,,,,1.26
+activity,awood,LUM PPP,,,,,,1.26
+activity,achem,P_C CRP,,,,,,1.26
+activity,anmet,NMM,,,,,,1.26
+activity,ametl,I_S NFM FMP,,,,,,1.26
+activity,amach,ELE OME MVH OTN,,,,,,1.26
+activity,aoman,OMF,,,,,,1.26
+activity,aelec,ELY GDT,,,,,,1.26
+activity,awatr,WTR,,,,,,1.26
+activity,acons,CNS,,,,,,1.4
+activity,atrad,TRD,,,,,,1.68
+activity,atran,OTP WTP ATP,,,,,,1.68
+activity,ahotl,TRD,,,,,,1.68
+activity,acomm,CMN,,,,,,1.26
+activity,afsrv,OFI ISR,,,,,,1.26
+activity,areal,OBS DWE,,,,,,1.26
+activity,absrv,OBS,,,,,,1.26
+activity,apadm,OSG,,,,,,1.26
+activity,aeduc,OSG,,,,,,1.26
+activity,aheal,OSG,,,,,,1.26
+activity,aosrv,ROS,,,,,,1.26

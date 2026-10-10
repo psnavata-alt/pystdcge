@@ -1,0 +1,83 @@
+# Map from the 80 industries of PSA's 2018 I-O table to the LFS major industry groups (2009 PSIC sections),
+# by I-O industry code. Built 26 Sept 2026 for pystdcge.iomodel.jobs; 19 groups.
+io_code,io_industry,group
+01,Palay,Agriculture and forestry
+02,Corn,Agriculture and forestry
+03,Coconut including copra,Agriculture and forestry
+04,Sugarcane including muscovado sugar-making in the farm,Agriculture and forestry
+05,Banana,Agriculture and forestry
+06,Mango,Agriculture and forestry
+07,Pineapple,Agriculture and forestry
+08,Coffee,Agriculture and forestry
+09,Cassava,Agriculture and forestry
+10,Rubber,Agriculture and forestry
+11,Cacao,Agriculture and forestry
+12,Abaca,Agriculture and forestry
+13,Tobacco,Agriculture and forestry
+14,"Other agricultural crops, n.e.c.",Agriculture and forestry
+15,Livestock,Agriculture and forestry
+16,Poultry and egg production,Agriculture and forestry
+17,Other animal production,Agriculture and forestry
+18,Forestry and logging,Agriculture and forestry
+19,Fishing and aquaculture,Fishing and aquaculture
+20,"Support activities to agriculture, forestry and fishing",Agriculture and forestry
+21,Coal,Mining and quarrying
+22,Crude petroleum and natural gas,Mining and quarrying
+23,Gold and other precious metal ores,Mining and quarrying
+24,Nickel ores,Mining and quarrying
+25,Copper ores,Mining and quarrying
+26,"Stone quarrying, and other mining and quarrying",Mining and quarrying
+27,Food products,Manufacturing
+28,Beverages,Manufacturing
+29,Tobacco products,Manufacturing
+30,Textiles,Manufacturing
+31,Wearing apparel,Manufacturing
+32,"Leather and related products, including footwear",Manufacturing
+33,"Wood, bamboo, cane, rattan articles and related products",Manufacturing
+34,Paper and paper products,Manufacturing
+35,Printing and reproduction of recorded media,Manufacturing
+36,Coke and refined petroleum products,Manufacturing
+37,Chemical and chemical products,Manufacturing
+38,Basic pharmaceutical products and pharmaceutical preparations,Manufacturing
+39,Rubber and plastic products,Manufacturing
+40,Other non-metallic mineral products,Manufacturing
+41,Basic metals,Manufacturing
+42,"Fabricated metal products, except machinery and equipment",Manufacturing
+43,"Computer, electronic and optical products",Manufacturing
+44,Electrical equipment,Manufacturing
+45,Machinery and equipment except electrical,Manufacturing
+46,Transport equipment,Manufacturing
+47,Furniture,Manufacturing
+48,Other manufacturing,Manufacturing
+49,Electricity,"Electricity, gas, steam and air-con supply"
+50,Steam,"Electricity, gas, steam and air-con supply"
+51,Water supply,"Water supply, sewerage, waste mgt"
+52,"Sewerage, and waste management and remediation activities","Water supply, sewerage, waste mgt"
+53,Construction,Construction
+54,"Wholesale trade, except of motor vehicles and motorcycles",Wholesale and retail trade; repair of vehicles
+55,"Retail trade, except of motor vehicles and motorcycles",Wholesale and retail trade; repair of vehicles
+56,Sale and repair of motor vehicles and motorcycles,Wholesale and retail trade; repair of vehicles
+57,Land transport,Transportation and storage
+58,Water transport,Transportation and storage
+59,Air transport,Transportation and storage
+60,"Warehousing and storage, and support activities for transportation",Transportation and storage
+61,Postal and courier activities,Transportation and storage
+62,Accommodation,Accommodation and food services
+63,Food and beverage service activities,Accommodation and food services
+64,Information and publishing,Information and communication
+65,Communication,Information and communication
+66,Banking institutions,Financial and insurance
+67,Non-banks,Financial and insurance
+68,Insurance and pension funding except compulsory social security,Financial and insurance
+69,Activities auxiliary to financial services activities,Financial and insurance
+70,Real estate,Real estate
+71,Ownership of dwellings,Real estate
+72,"Professional, Scientific and Technical Activities; Administrative and Support Service Activities","Professional, admin and support services"
+73,Public Administration and Defense; Compulsory social security,Public administration and defense
+74,Public education,Education
+75,Private education,Education
+76,Public human health,Human health and social work
+77,Private human health,Human health and social work
+78,Social work activities,Human health and social work
+79,"Arts, entertainment and recreation","Arts, entertainment and recreation"
+80,Other service activities,Other service activities

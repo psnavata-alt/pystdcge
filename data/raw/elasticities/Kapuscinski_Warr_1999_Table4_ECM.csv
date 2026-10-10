@@ -1,0 +1,37 @@
+# Kapuscinski, C.A. and P.G. Warr (1999), "Estimation of Armington elasticities: an application to the Philippines", Economic Modelling 16: 257-278.
+# Table 4, column (7) "ECM" (basic error-correction model; the authors' preferred specification, p. 273: "provides an adequate characterisation ... statistically significant estimates ... suitable for use"), and Table 1 (import shares, % of the total of included commodities; sample averages, mid-1970s to late 1980s).
+# Transcribed from the page images by Claude Code on 2 Oct 2026 (text layer unusable); checked twice against rotated 2.2x renders. significant = 1 where the table marks the estimate with an asterisk (10% level or better).
+no,commodity,ecm,significant,import_share
+1,Corn,3.715,1,0.46
+2,Banana and other fruits and nuts,1.032,1,0.09
+3,Vegetables,0.722,0,0.17
+4,Rootcrops,-1.086,0,0.01
+5,Other commercial crops,-0.056,0,4.10
+6,Hogs,0.331,0,0.03
+7,Chicken and poultry products,1.394,1,0.06
+8,Other livestock,1.320,1,0.02
+9,Marine fishing,1.060,0,0.24
+10,Forestry and logging,0.829,1,0.06
+11,"Crude oil, coal and natural gas",0.650,1,26.20
+12,Other mining,1.111,1,1.53
+13,Rice and corn milling,0.614,0,0.00
+14,Sugar milling and refining,4.104,1,0.16
+15,Milk and dairy products,0.753,1,2.02
+16,Oils and fats,1.376,1,0.76
+17,Meat and meat products,-0.828,0,0.14
+18,Flour milling,0.722,1,0.69
+19,Animal feeds,-0.224,0,1.41
+20,Other foods,0.112,0,0.25
+21,Beverages and tobacco,0.324,0,0.25
+22,Textile and knitting mills,0.651,1,8.80
+23,Garments and footwear,0.241,0,0.34
+24,Wood products,-0.013,0,0.57
+25,Paper products,0.600,1,0.17
+26,Fertilizer,-0.223,0,2.18
+27,Other rubber and chemical products,-0.680,0,13.68
+28,Coal and petroleum products,0.558,0,3.71
+29,Cement and non-metallic minerals,0.587,1,5.79
+30,Metal products and non-electrical machinery,0.241,1,10.66
+31,"Electrical machinery, equipment and parts",1.760,1,8.83
+32,Motor vehicle,2.006,1,2.43
+33,Miscellaneous manufacturing,1.043,1,4.21

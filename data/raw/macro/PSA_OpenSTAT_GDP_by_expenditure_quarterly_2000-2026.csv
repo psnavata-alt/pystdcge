@@ -1,0 +1,1911 @@
+# Source: PSA OpenSTAT table 0012B5BEXQ1, Gross National Income and Gross Domestic Product by Expenditure (quarterly). https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/2B/NA/QT/1SUM/0012B5BEXQ1.px
+# Downloaded 2026-09-30 09:23 by Claude (AI assistant) through the PXWeb API. Million pesos; not seasonally adjusted; as published on that date (latest revisions).
+expenditure,valuation,year,quarter,value_million_php
+Household final consumption expenditure,At Current Prices,2000,Q1,600429.0
+Government final consumption expenditure,At Current Prices,2000,Q1,90432.0
+Gross capital formation,At Current Prices,2000,Q1,166151.0
+Gross fixed capital formation,At Current Prices,2000,Q1,172883.0
+Construction,At Current Prices,2000,Q1,87690.0
+Exports of goods and services,At Current Prices,2000,Q1,340182.0
+Imports of goods and services,At Current Prices,2000,Q1,348764.0
+Statistical discrepancy,At Current Prices,2000,Q1,1968.0
+Gross Domestic Product,At Current Prices,2000,Q1,850396.0
+Household final consumption expenditure,At Current Prices,2000,Q2,652947.0
+Government final consumption expenditure,At Current Prices,2000,Q2,107541.0
+Gross capital formation,At Current Prices,2000,Q2,129082.0
+Gross fixed capital formation,At Current Prices,2000,Q2,171823.0
+Construction,At Current Prices,2000,Q2,83691.0
+Exports of goods and services,At Current Prices,2000,Q2,354091.0
+Imports of goods and services,At Current Prices,2000,Q2,347437.0
+Statistical discrepancy,At Current Prices,2000,Q2,8509.0
+Gross Domestic Product,At Current Prices,2000,Q2,904732.0
+Household final consumption expenditure,At Current Prices,2000,Q3,654886.0
+Government final consumption expenditure,At Current Prices,2000,Q3,101030.0
+Gross capital formation,At Current Prices,2000,Q3,134397.0
+Gross fixed capital formation,At Current Prices,2000,Q3,178842.0
+Construction,At Current Prices,2000,Q3,89031.0
+Exports of goods and services,At Current Prices,2000,Q3,426877.0
+Imports of goods and services,At Current Prices,2000,Q3,399891.0
+Statistical discrepancy,At Current Prices,2000,Q3,-3656.0
+Gross Domestic Product,At Current Prices,2000,Q3,913644.0
+Household final consumption expenditure,At Current Prices,2000,Q4,743547.0
+Government final consumption expenditure,At Current Prices,2000,Q4,110046.0
+Gross capital formation,At Current Prices,2000,Q4,150309.0
+Gross fixed capital formation,At Current Prices,2000,Q4,192638.0
+Construction,At Current Prices,2000,Q4,90419.0
+Exports of goods and services,At Current Prices,2000,Q4,481527.0
+Imports of goods and services,At Current Prices,2000,Q4,449824.0
+Statistical discrepancy,At Current Prices,2000,Q4,-6820.0
+Gross Domestic Product,At Current Prices,2000,Q4,1028784.0
+Household final consumption expenditure,At Current Prices,2001,Q1,674223.0
+Government final consumption expenditure,At Current Prices,2001,Q1,96420.0
+Gross capital formation,At Current Prices,2001,Q1,149172.0
+Gross fixed capital formation,At Current Prices,2001,Q1,182009.0
+Construction,At Current Prices,2001,Q1,84858.0
+Exports of goods and services,At Current Prices,2001,Q1,437967.0
+Imports of goods and services,At Current Prices,2001,Q1,431754.0
+Statistical discrepancy,At Current Prices,2001,Q1,-92.0
+Gross Domestic Product,At Current Prices,2001,Q1,925936.0
+Household final consumption expenditure,At Current Prices,2001,Q2,711777.0
+Government final consumption expenditure,At Current Prices,2001,Q2,115588.0
+Gross capital formation,At Current Prices,2001,Q2,210326.0
+Gross fixed capital formation,At Current Prices,2001,Q2,182548.0
+Construction,At Current Prices,2001,Q2,89603.0
+Exports of goods and services,At Current Prices,2001,Q2,397172.0
+Imports of goods and services,At Current Prices,2001,Q2,451889.0
+Statistical discrepancy,At Current Prices,2001,Q2,7236.0
+Gross Domestic Product,At Current Prices,2001,Q2,990210.0
+Household final consumption expenditure,At Current Prices,2001,Q3,726832.0
+Government final consumption expenditure,At Current Prices,2001,Q3,106211.0
+Gross capital formation,At Current Prices,2001,Q3,204708.0
+Gross fixed capital formation,At Current Prices,2001,Q3,178241.0
+Construction,At Current Prices,2001,Q3,88516.0
+Exports of goods and services,At Current Prices,2001,Q3,415770.0
+Imports of goods and services,At Current Prices,2001,Q3,453330.0
+Statistical discrepancy,At Current Prices,2001,Q3,-3425.0
+Gross Domestic Product,At Current Prices,2001,Q3,996766.0
+Household final consumption expenditure,At Current Prices,2001,Q4,821054.0
+Government final consumption expenditure,At Current Prices,2001,Q4,114072.0
+Gross capital formation,At Current Prices,2001,Q4,198224.0
+Gross fixed capital formation,At Current Prices,2001,Q4,194140.0
+Construction,At Current Prices,2001,Q4,91484.0
+Exports of goods and services,At Current Prices,2001,Q4,405352.0
+Imports of goods and services,At Current Prices,2001,Q4,423496.0
+Statistical discrepancy,At Current Prices,2001,Q4,-3718.0
+Gross Domestic Product,At Current Prices,2001,Q4,1111487.0
+Household final consumption expenditure,At Current Prices,2002,Q1,725177.0
+Government final consumption expenditure,At Current Prices,2002,Q1,95652.0
+Gross capital formation,At Current Prices,2002,Q1,196365.0
+Gross fixed capital formation,At Current Prices,2002,Q1,184484.0
+Construction,At Current Prices,2002,Q1,86303.0
+Exports of goods and services,At Current Prices,2002,Q1,406393.0
+Imports of goods and services,At Current Prices,2002,Q1,414347.0
+Statistical discrepancy,At Current Prices,2002,Q1,-2661.0
+Gross Domestic Product,At Current Prices,2002,Q1,1006579.0
+Household final consumption expenditure,At Current Prices,2002,Q2,781357.0
+Government final consumption expenditure,At Current Prices,2002,Q2,118854.0
+Gross capital formation,At Current Prices,2002,Q2,218962.0
+Gross fixed capital formation,At Current Prices,2002,Q2,206215.0
+Construction,At Current Prices,2002,Q2,106822.0
+Exports of goods and services,At Current Prices,2002,Q2,418057.0
+Imports of goods and services,At Current Prices,2002,Q2,467046.0
+Statistical discrepancy,At Current Prices,2002,Q2,3807.0
+Gross Domestic Product,At Current Prices,2002,Q2,1073992.0
+Household final consumption expenditure,At Current Prices,2002,Q3,797033.0
+Government final consumption expenditure,At Current Prices,2002,Q3,113794.0
+Gross capital formation,At Current Prices,2002,Q3,211646.0
+Gross fixed capital formation,At Current Prices,2002,Q3,192604.0
+Construction,At Current Prices,2002,Q3,92185.0
+Exports of goods and services,At Current Prices,2002,Q3,456775.0
+Imports of goods and services,At Current Prices,2002,Q3,511228.0
+Statistical discrepancy,At Current Prices,2002,Q3,-8323.0
+Gross Domestic Product,At Current Prices,2002,Q3,1059697.0
+Household final consumption expenditure,At Current Prices,2002,Q4,876877.0
+Government final consumption expenditure,At Current Prices,2002,Q4,118503.0
+Gross capital formation,At Current Prices,2002,Q4,263114.0
+Gross fixed capital formation,At Current Prices,2002,Q4,214758.0
+Construction,At Current Prices,2002,Q4,95708.0
+Exports of goods and services,At Current Prices,2002,Q4,459246.0
+Imports of goods and services,At Current Prices,2002,Q4,514627.0
+Statistical discrepancy,At Current Prices,2002,Q4,7177.0
+Gross Domestic Product,At Current Prices,2002,Q4,1210291.0
+Household final consumption expenditure,At Current Prices,2003,Q1,801177.0
+Government final consumption expenditure,At Current Prices,2003,Q1,102139.0
+Gross capital formation,At Current Prices,2003,Q1,250364.0
+Gross fixed capital formation,At Current Prices,2003,Q1,216457.0
+Construction,At Current Prices,2003,Q1,103085.0
+Exports of goods and services,At Current Prices,2003,Q1,468700.0
+Imports of goods and services,At Current Prices,2003,Q1,529836.0
+Statistical discrepancy,At Current Prices,2003,Q1,-1211.0
+Gross Domestic Product,At Current Prices,2003,Q1,1091333.0
+Household final consumption expenditure,At Current Prices,2003,Q2,845576.0
+Government final consumption expenditure,At Current Prices,2003,Q2,120330.0
+Gross capital formation,At Current Prices,2003,Q2,222701.0
+Gross fixed capital formation,At Current Prices,2003,Q2,220358.0
+Construction,At Current Prices,2003,Q2,105032.0
+Exports of goods and services,At Current Prices,2003,Q2,468734.0
+Imports of goods and services,At Current Prices,2003,Q2,512738.0
+Statistical discrepancy,At Current Prices,2003,Q2,2780.0
+Gross Domestic Product,At Current Prices,2003,Q2,1147383.0
+Household final consumption expenditure,At Current Prices,2003,Q3,859685.0
+Government final consumption expenditure,At Current Prices,2003,Q3,120511.0
+Gross capital formation,At Current Prices,2003,Q3,183345.0
+Gross fixed capital formation,At Current Prices,2003,Q3,211563.0
+Construction,At Current Prices,2003,Q3,103273.0
+Exports of goods and services,At Current Prices,2003,Q3,527198.0
+Imports of goods and services,At Current Prices,2003,Q3,534294.0
+Statistical discrepancy,At Current Prices,2003,Q3,-3891.0
+Gross Domestic Product,At Current Prices,2003,Q3,1152553.0
+Household final consumption expenditure,At Current Prices,2003,Q4,961372.0
+Government final consumption expenditure,At Current Prices,2003,Q4,125555.0
+Gross capital formation,At Current Prices,2003,Q4,264919.0
+Gross fixed capital formation,At Current Prices,2003,Q4,230468.0
+Construction,At Current Prices,2003,Q4,109098.0
+Exports of goods and services,At Current Prices,2003,Q4,531238.0
+Imports of goods and services,At Current Prices,2003,Q4,558866.0
+Statistical discrepancy,At Current Prices,2003,Q4,2322.0
+Gross Domestic Product,At Current Prices,2003,Q4,1326540.0
+Household final consumption expenditure,At Current Prices,2004,Q1,889324.0
+Government final consumption expenditure,At Current Prices,2004,Q1,109222.0
+Gross capital formation,At Current Prices,2004,Q1,287709.0
+Gross fixed capital formation,At Current Prices,2004,Q1,223419.0
+Construction,At Current Prices,2004,Q1,104421.0
+Exports of goods and services,At Current Prices,2004,Q1,516904.0
+Imports of goods and services,At Current Prices,2004,Q1,570312.0
+Statistical discrepancy,At Current Prices,2004,Q1,-9209.0
+Gross Domestic Product,At Current Prices,2004,Q1,1223639.0
+Household final consumption expenditure,At Current Prices,2004,Q2,941246.0
+Government final consumption expenditure,At Current Prices,2004,Q2,125281.0
+Gross capital formation,At Current Prices,2004,Q2,286485.0
+Gross fixed capital formation,At Current Prices,2004,Q2,258352.0
+Construction,At Current Prices,2004,Q2,129080.0
+Exports of goods and services,At Current Prices,2004,Q2,532205.0
+Imports of goods and services,At Current Prices,2004,Q2,591748.0
+Statistical discrepancy,At Current Prices,2004,Q2,12726.0
+Gross Domestic Product,At Current Prices,2004,Q2,1306195.0
+Household final consumption expenditure,At Current Prices,2004,Q3,975651.0
+Government final consumption expenditure,At Current Prices,2004,Q3,123412.0
+Gross capital formation,At Current Prices,2004,Q3,231115.0
+Gross fixed capital formation,At Current Prices,2004,Q3,234499.0
+Construction,At Current Prices,2004,Q3,117243.0
+Exports of goods and services,At Current Prices,2004,Q3,576366.0
+Imports of goods and services,At Current Prices,2004,Q3,611297.0
+Statistical discrepancy,At Current Prices,2004,Q3,4610.0
+Gross Domestic Product,At Current Prices,2004,Q3,1299857.0
+Household final consumption expenditure,At Current Prices,2004,Q4,1112155.0
+Government final consumption expenditure,At Current Prices,2004,Q4,128738.0
+Gross capital formation,At Current Prices,2004,Q4,298389.0
+Gross fixed capital formation,At Current Prices,2004,Q4,271026.0
+Construction,At Current Prices,2004,Q4,129668.0
+Exports of goods and services,At Current Prices,2004,Q4,601346.0
+Imports of goods and services,At Current Prices,2004,Q4,638289.0
+Statistical discrepancy,At Current Prices,2004,Q4,-8127.0
+Gross Domestic Product,At Current Prices,2004,Q4,1494213.0
+Household final consumption expenditure,At Current Prices,2005,Q1,1001726.0
+Government final consumption expenditure,At Current Prices,2005,Q1,116921.0
+Gross capital formation,At Current Prices,2005,Q1,279083.0
+Gross fixed capital formation,At Current Prices,2005,Q1,230416.0
+Construction,At Current Prices,2005,Q1,110306.0
+Exports of goods and services,At Current Prices,2005,Q1,554058.0
+Imports of goods and services,At Current Prices,2005,Q1,590756.0
+Statistical discrepancy,At Current Prices,2005,Q1,-6552.0
+Gross Domestic Product,At Current Prices,2005,Q1,1354481.0
+Household final consumption expenditure,At Current Prices,2005,Q2,1075814.0
+Government final consumption expenditure,At Current Prices,2005,Q2,145367.0
+Gross capital formation,At Current Prices,2005,Q2,264507.0
+Gross fixed capital formation,At Current Prices,2005,Q2,294124.0
+Construction,At Current Prices,2005,Q2,149499.0
+Exports of goods and services,At Current Prices,2005,Q2,588845.0
+Imports of goods and services,At Current Prices,2005,Q2,630600.0
+Statistical discrepancy,At Current Prices,2005,Q2,12861.0
+Gross Domestic Product,At Current Prices,2005,Q2,1456794.0
+Household final consumption expenditure,At Current Prices,2005,Q3,1077433.0
+Government final consumption expenditure,At Current Prices,2005,Q3,127055.0
+Gross capital formation,At Current Prices,2005,Q3,258960.0
+Gross fixed capital formation,At Current Prices,2005,Q3,256963.0
+Construction,At Current Prices,2005,Q3,121966.0
+Exports of goods and services,At Current Prices,2005,Q3,635777.0
+Imports of goods and services,At Current Prices,2005,Q3,652366.0
+Statistical discrepancy,At Current Prices,2005,Q3,-3405.0
+Gross Domestic Product,At Current Prices,2005,Q3,1443454.0
+Household final consumption expenditure,At Current Prices,2005,Q4,1221087.0
+Government final consumption expenditure,At Current Prices,2005,Q4,135235.0
+Gross capital formation,At Current Prices,2005,Q4,296083.0
+Gross fixed capital formation,At Current Prices,2005,Q4,294348.0
+Construction,At Current Prices,2005,Q4,128682.0
+Exports of goods and services,At Current Prices,2005,Q4,661017.0
+Imports of goods and services,At Current Prices,2005,Q4,647966.0
+Statistical discrepancy,At Current Prices,2005,Q4,-2904.0
+Gross Domestic Product,At Current Prices,2005,Q4,1662553.0
+Household final consumption expenditure,At Current Prices,2006,Q1,1106500.0
+Government final consumption expenditure,At Current Prices,2006,Q1,136192.0
+Gross capital formation,At Current Prices,2006,Q1,233514.0
+Gross fixed capital formation,At Current Prices,2006,Q1,267534.0
+Construction,At Current Prices,2006,Q1,124005.0
+Exports of goods and services,At Current Prices,2006,Q1,641771.0
+Imports of goods and services,At Current Prices,2006,Q1,622145.0
+Statistical discrepancy,At Current Prices,2006,Q1,967.0
+Gross Domestic Product,At Current Prices,2006,Q1,1496799.0
+Household final consumption expenditure,At Current Prices,2006,Q2,1189444.0
+Government final consumption expenditure,At Current Prices,2006,Q2,159946.0
+Gross capital formation,At Current Prices,2006,Q2,236650.0
+Gross fixed capital formation,At Current Prices,2006,Q2,331763.0
+Construction,At Current Prices,2006,Q2,175049.0
+Exports of goods and services,At Current Prices,2006,Q2,696436.0
+Imports of goods and services,At Current Prices,2006,Q2,669304.0
+Statistical discrepancy,At Current Prices,2006,Q2,13265.0
+Gross Domestic Product,At Current Prices,2006,Q2,1626437.0
+Household final consumption expenditure,At Current Prices,2006,Q3,1177253.0
+Government final consumption expenditure,At Current Prices,2006,Q3,141229.0
+Gross capital formation,At Current Prices,2006,Q3,242002.0
+Gross fixed capital formation,At Current Prices,2006,Q3,294446.0
+Construction,At Current Prices,2006,Q3,143385.0
+Exports of goods and services,At Current Prices,2006,Q3,684153.0
+Imports of goods and services,At Current Prices,2006,Q3,659692.0
+Statistical discrepancy,At Current Prices,2006,Q3,3853.0
+Gross Domestic Product,At Current Prices,2006,Q3,1588797.0
+Household final consumption expenditure,At Current Prices,2006,Q4,1326777.0
+Government final consumption expenditure,At Current Prices,2006,Q4,156552.0
+Gross capital formation,At Current Prices,2006,Q4,336905.0
+Gross fixed capital formation,At Current Prices,2006,Q4,332424.0
+Construction,At Current Prices,2006,Q4,150683.0
+Exports of goods and services,At Current Prices,2006,Q4,679390.0
+Imports of goods and services,At Current Prices,2006,Q4,643156.0
+Statistical discrepancy,At Current Prices,2006,Q4,-18084.0
+Gross Domestic Product,At Current Prices,2006,Q4,1838384.0
+Household final consumption expenditure,At Current Prices,2007,Q1,1193910.0
+Government final consumption expenditure,At Current Prices,2007,Q1,149629.0
+Gross capital formation,At Current Prices,2007,Q1,228144.0
+Gross fixed capital formation,At Current Prices,2007,Q1,312521.0
+Construction,At Current Prices,2007,Q1,159157.0
+Exports of goods and services,At Current Prices,2007,Q1,690958.0
+Imports of goods and services,At Current Prices,2007,Q1,611209.0
+Statistical discrepancy,At Current Prices,2007,Q1,368.0
+Gross Domestic Product,At Current Prices,2007,Q1,1651799.0
+Household final consumption expenditure,At Current Prices,2007,Q2,1283459.0
+Government final consumption expenditure,At Current Prices,2007,Q2,180494.0
+Gross capital formation,At Current Prices,2007,Q2,270445.0
+Gross fixed capital formation,At Current Prices,2007,Q2,369679.0
+Construction,At Current Prices,2007,Q2,206213.0
+Exports of goods and services,At Current Prices,2007,Q2,671799.0
+Imports of goods and services,At Current Prices,2007,Q2,632923.0
+Statistical discrepancy,At Current Prices,2007,Q2,9742.0
+Gross Domestic Product,At Current Prices,2007,Q2,1783015.0
+Household final consumption expenditure,At Current Prices,2007,Q3,1271515.0
+Government final consumption expenditure,At Current Prices,2007,Q3,160002.0
+Gross capital formation,At Current Prices,2007,Q3,266927.0
+Gross fixed capital formation,At Current Prices,2007,Q3,317427.0
+Construction,At Current Prices,2007,Q3,160476.0
+Exports of goods and services,At Current Prices,2007,Q3,694341.0
+Imports of goods and services,At Current Prices,2007,Q3,655084.0
+Statistical discrepancy,At Current Prices,2007,Q3,-977.0
+Gross Domestic Product,At Current Prices,2007,Q3,1736724.0
+Household final consumption expenditure,At Current Prices,2007,Q4,1452307.0
+Government final consumption expenditure,At Current Prices,2007,Q4,174388.0
+Gross capital formation,At Current Prices,2007,Q4,395464.0
+Gross fixed capital formation,At Current Prices,2007,Q4,358969.0
+Construction,At Current Prices,2007,Q4,168693.0
+Exports of goods and services,At Current Prices,2007,Q4,679257.0
+Imports of goods and services,At Current Prices,2007,Q4,665577.0
+Statistical discrepancy,At Current Prices,2007,Q4,-9132.0
+Gross Domestic Product,At Current Prices,2007,Q4,2026706.0
+Household final consumption expenditure,At Current Prices,2008,Q1,1325318.0
+Government final consumption expenditure,At Current Prices,2008,Q1,154818.0
+Gross capital formation,At Current Prices,2008,Q1,314637.0
+Gross fixed capital formation,At Current Prices,2008,Q1,316029.0
+Construction,At Current Prices,2008,Q1,161650.0
+Exports of goods and services,At Current Prices,2008,Q1,622690.0
+Imports of goods and services,At Current Prices,2008,Q1,634051.0
+Statistical discrepancy,At Current Prices,2008,Q1,12287.0
+Gross Domestic Product,At Current Prices,2008,Q1,1795699.0
+Household final consumption expenditure,At Current Prices,2008,Q2,1452134.0
+Government final consumption expenditure,At Current Prices,2008,Q2,189997.0
+Gross capital formation,At Current Prices,2008,Q2,388095.0
+Gross fixed capital formation,At Current Prices,2008,Q2,398936.0
+Construction,At Current Prices,2008,Q2,220304.0
+Exports of goods and services,At Current Prices,2008,Q2,678281.0
+Imports of goods and services,At Current Prices,2008,Q2,700599.0
+Statistical discrepancy,At Current Prices,2008,Q2,12269.0
+Gross Domestic Product,At Current Prices,2008,Q2,2020177.0
+Household final consumption expenditure,At Current Prices,2008,Q3,1466475.0
+Government final consumption expenditure,At Current Prices,2008,Q3,178814.0
+Gross capital formation,At Current Prices,2008,Q3,403136.0
+Gross fixed capital formation,At Current Prices,2008,Q3,402399.0
+Construction,At Current Prices,2008,Q3,221374.0
+Exports of goods and services,At Current Prices,2008,Q3,739996.0
+Imports of goods and services,At Current Prices,2008,Q3,772337.0
+Statistical discrepancy,At Current Prices,2008,Q3,-17634.0
+Gross Domestic Product,At Current Prices,2008,Q3,1998449.0
+Household final consumption expenditure,At Current Prices,2008,Q4,1647678.0
+Government final consumption expenditure,At Current Prices,2008,Q4,185951.0
+Gross capital formation,At Current Prices,2008,Q4,421026.0
+Gross fixed capital formation,At Current Prices,2008,Q4,418929.0
+Construction,At Current Prices,2008,Q4,224054.0
+Exports of goods and services,At Current Prices,2008,Q4,644325.0
+Imports of goods and services,At Current Prices,2008,Q4,656183.0
+Statistical discrepancy,At Current Prices,2008,Q4,-6922.0
+Gross Domestic Product,At Current Prices,2008,Q4,2235875.0
+Household final consumption expenditure,At Current Prices,2009,Q1,1426912.0
+Government final consumption expenditure,At Current Prices,2009,Q1,170036.0
+Gross capital formation,At Current Prices,2009,Q1,296000.0
+Gross fixed capital formation,At Current Prices,2009,Q1,354330.0
+Construction,At Current Prices,2009,Q1,196027.0
+Exports of goods and services,At Current Prices,2009,Q1,595200.0
+Imports of goods and services,At Current Prices,2009,Q1,584303.0
+Statistical discrepancy,At Current Prices,2009,Q1,-4245.0
+Gross Domestic Product,At Current Prices,2009,Q1,1899600.0
+Household final consumption expenditure,At Current Prices,2009,Q2,1531354.0
+Government final consumption expenditure,At Current Prices,2009,Q2,220378.0
+Gross capital formation,At Current Prices,2009,Q2,334142.0
+Gross fixed capital formation,At Current Prices,2009,Q2,410572.0
+Construction,At Current Prices,2009,Q2,264071.0
+Exports of goods and services,At Current Prices,2009,Q2,619529.0
+Imports of goods and services,At Current Prices,2009,Q2,649962.0
+Statistical discrepancy,At Current Prices,2009,Q2,19840.0
+Gross Domestic Product,At Current Prices,2009,Q2,2075281.0
+Household final consumption expenditure,At Current Prices,2009,Q3,1482901.0
+Government final consumption expenditure,At Current Prices,2009,Q3,213454.0
+Gross capital formation,At Current Prices,2009,Q3,338229.0
+Gross fixed capital formation,At Current Prices,2009,Q3,392002.0
+Construction,At Current Prices,2009,Q3,214392.0
+Exports of goods and services,At Current Prices,2009,Q3,677851.0
+Imports of goods and services,At Current Prices,2009,Q3,658943.0
+Statistical discrepancy,At Current Prices,2009,Q3,-17272.0
+Gross Domestic Product,At Current Prices,2009,Q3,2036219.0
+Household final consumption expenditure,At Current Prices,2009,Q4,1699717.0
+Government final consumption expenditure,At Current Prices,2009,Q4,220625.0
+Gross capital formation,At Current Prices,2009,Q4,494224.0
+Gross fixed capital formation,At Current Prices,2009,Q4,405009.0
+Construction,At Current Prices,2009,Q4,214494.0
+Exports of goods and services,At Current Prices,2009,Q4,642966.0
+Imports of goods and services,At Current Prices,2009,Q4,679887.0
+Statistical discrepancy,At Current Prices,2009,Q4,1677.0
+Gross Domestic Product,At Current Prices,2009,Q4,2379322.0
+Household final consumption expenditure,At Current Prices,2010,Q1,1537553.0
+Government final consumption expenditure,At Current Prices,2010,Q1,218123.0
+Gross capital formation,At Current Prices,2010,Q1,397214.0
+Gross fixed capital formation,At Current Prices,2010,Q1,424987.0
+Construction,At Current Prices,2010,Q1,222222.0
+Exports of goods and services,At Current Prices,2010,Q1,773314.0
+Imports of goods and services,At Current Prices,2010,Q1,765091.0
+Statistical discrepancy,At Current Prices,2010,Q1,-9499.0
+Gross Domestic Product,At Current Prices,2010,Q1,2151614.0
+Household final consumption expenditure,At Current Prices,2010,Q2,1631454.0
+Government final consumption expenditure,At Current Prices,2010,Q2,258927.0
+Gross capital formation,At Current Prices,2010,Q2,465444.0
+Gross fixed capital formation,At Current Prices,2010,Q2,543511.0
+Construction,At Current Prices,2010,Q2,347689.0
+Exports of goods and services,At Current Prices,2010,Q2,769221.0
+Imports of goods and services,At Current Prices,2010,Q2,781763.0
+Statistical discrepancy,At Current Prices,2010,Q2,9563.0
+Gross Domestic Product,At Current Prices,2010,Q2,2352847.0
+Household final consumption expenditure,At Current Prices,2010,Q3,1592490.0
+Government final consumption expenditure,At Current Prices,2010,Q3,216029.0
+Gross capital formation,At Current Prices,2010,Q3,414559.0
+Gross fixed capital formation,At Current Prices,2010,Q3,458090.0
+Construction,At Current Prices,2010,Q3,264018.0
+Exports of goods and services,At Current Prices,2010,Q3,816692.0
+Imports of goods and services,At Current Prices,2010,Q3,766730.0
+Statistical discrepancy,At Current Prices,2010,Q3,-3272.0
+Gross Domestic Product,At Current Prices,2010,Q3,2269768.0
+Household final consumption expenditure,At Current Prices,2010,Q4,1836208.0
+Government final consumption expenditure,At Current Prices,2010,Q4,220585.0
+Gross capital formation,At Current Prices,2010,Q4,644197.0
+Gross fixed capital formation,At Current Prices,2010,Q4,491101.0
+Construction,At Current Prices,2010,Q4,254564.0
+Exports of goods and services,At Current Prices,2010,Q4,730827.0
+Imports of goods and services,At Current Prices,2010,Q4,809801.0
+Statistical discrepancy,At Current Prices,2010,Q4,3208.0
+Gross Domestic Product,At Current Prices,2010,Q4,2625222.0
+Household final consumption expenditure,At Current Prices,2011,Q1,1689009.0
+Government final consumption expenditure,At Current Prices,2011,Q1,193759.0
+Gross capital formation,At Current Prices,2011,Q1,531329.0
+Gross fixed capital formation,At Current Prices,2011,Q1,465441.0
+Construction,At Current Prices,2011,Q1,248542.0
+Exports of goods and services,At Current Prices,2011,Q1,792700.0
+Imports of goods and services,At Current Prices,2011,Q1,863217.0
+Statistical discrepancy,At Current Prices,2011,Q1,7629.0
+Gross Domestic Product,At Current Prices,2011,Q1,2351209.0
+Household final consumption expenditure,At Current Prices,2011,Q2,1816501.0
+Government final consumption expenditure,At Current Prices,2011,Q2,291008.0
+Gross capital formation,At Current Prices,2011,Q2,436755.0
+Gross fixed capital formation,At Current Prices,2011,Q2,481646.0
+Construction,At Current Prices,2011,Q2,281843.0
+Exports of goods and services,At Current Prices,2011,Q2,762280.0
+Imports of goods and services,At Current Prices,2011,Q2,771064.0
+Statistical discrepancy,At Current Prices,2011,Q2,9360.0
+Gross Domestic Product,At Current Prices,2011,Q2,2544840.0
+Household final consumption expenditure,At Current Prices,2011,Q3,1762602.0
+Government final consumption expenditure,At Current Prices,2011,Q3,249213.0
+Gross capital formation,At Current Prices,2011,Q3,494388.0
+Gross fixed capital formation,At Current Prices,2011,Q3,468909.0
+Construction,At Current Prices,2011,Q3,254863.0
+Exports of goods and services,At Current Prices,2011,Q3,727152.0
+Imports of goods and services,At Current Prices,2011,Q3,789806.0
+Statistical discrepancy,At Current Prices,2011,Q3,-14491.0
+Gross Domestic Product,At Current Prices,2011,Q3,2429057.0
+Household final consumption expenditure,At Current Prices,2011,Q4,2049375.0
+Government final consumption expenditure,At Current Prices,2011,Q4,251435.0
+Gross capital formation,At Current Prices,2011,Q4,641524.0
+Gross fixed capital formation,At Current Prices,2011,Q4,508105.0
+Construction,At Current Prices,2011,Q4,277444.0
+Exports of goods and services,At Current Prices,2011,Q4,670515.0
+Imports of goods and services,At Current Prices,2011,Q4,790797.0
+Statistical discrepancy,At Current Prices,2011,Q4,-2498.0
+Gross Domestic Product,At Current Prices,2011,Q4,2819554.0
+Household final consumption expenditure,At Current Prices,2012,Q1,1878447.0
+Government final consumption expenditure,At Current Prices,2012,Q1,255368.0
+Gross capital formation,At Current Prices,2012,Q1,460525.0
+Gross fixed capital formation,At Current Prices,2012,Q1,486238.0
+Construction,At Current Prices,2012,Q1,260538.0
+Exports of goods and services,At Current Prices,2012,Q1,789290.0
+Imports of goods and services,At Current Prices,2012,Q1,849564.0
+Statistical discrepancy,At Current Prices,2012,Q1,5476.0
+Gross Domestic Product,At Current Prices,2012,Q1,2539542.0
+Household final consumption expenditure,At Current Prices,2012,Q2,1963276.0
+Government final consumption expenditure,At Current Prices,2012,Q2,336766.0
+Gross capital formation,At Current Prices,2012,Q2,500764.0
+Gross fixed capital formation,At Current Prices,2012,Q2,549781.0
+Construction,At Current Prices,2012,Q2,326959.0
+Exports of goods and services,At Current Prices,2012,Q2,771207.0
+Imports of goods and services,At Current Prices,2012,Q2,830059.0
+Statistical discrepancy,At Current Prices,2012,Q2,11073.0
+Gross Domestic Product,At Current Prices,2012,Q2,2753027.0
+Household final consumption expenditure,At Current Prices,2012,Q3,1936819.0
+Government final consumption expenditure,At Current Prices,2012,Q3,303401.0
+Gross capital formation,At Current Prices,2012,Q3,522959.0
+Gross fixed capital formation,At Current Prices,2012,Q3,531392.0
+Construction,At Current Prices,2012,Q3,326548.0
+Exports of goods and services,At Current Prices,2012,Q3,756647.0
+Imports of goods and services,At Current Prices,2012,Q3,835873.0
+Statistical discrepancy,At Current Prices,2012,Q3,-11032.0
+Gross Domestic Product,At Current Prices,2012,Q3,2672921.0
+Household final consumption expenditure,At Current Prices,2012,Q4,2246467.0
+Government final consumption expenditure,At Current Prices,2012,Q4,298139.0
+Gross capital formation,At Current Prices,2012,Q4,679284.0
+Gross fixed capital formation,At Current Prices,2012,Q4,636971.0
+Construction,At Current Prices,2012,Q4,383661.0
+Exports of goods and services,At Current Prices,2012,Q4,720876.0
+Imports of goods and services,At Current Prices,2012,Q4,844150.0
+Statistical discrepancy,At Current Prices,2012,Q4,-5516.0
+Gross Domestic Product,At Current Prices,2012,Q4,3095098.0
+Household final consumption expenditure,At Current Prices,2013,Q1,2031658.0
+Government final consumption expenditure,At Current Prices,2013,Q1,298078.0
+Gross capital formation,At Current Prices,2013,Q1,524310.0
+Gross fixed capital formation,At Current Prices,2013,Q1,595491.0
+Construction,At Current Prices,2013,Q1,372894.0
+Exports of goods and services,At Current Prices,2013,Q1,763378.0
+Imports of goods and services,At Current Prices,2013,Q1,830140.0
+Statistical discrepancy,At Current Prices,2013,Q1,-14563.0
+Gross Domestic Product,At Current Prices,2013,Q1,2772721.0
+Household final consumption expenditure,At Current Prices,2013,Q2,2111436.0
+Government final consumption expenditure,At Current Prices,2013,Q2,380841.0
+Gross capital formation,At Current Prices,2013,Q2,553791.0
+Gross fixed capital formation,At Current Prices,2013,Q2,635773.0
+Construction,At Current Prices,2013,Q2,401615.0
+Exports of goods and services,At Current Prices,2013,Q2,810700.0
+Imports of goods and services,At Current Prices,2013,Q2,852552.0
+Statistical discrepancy,At Current Prices,2013,Q2,-10232.0
+Gross Domestic Product,At Current Prices,2013,Q2,2993985.0
+Household final consumption expenditure,At Current Prices,2013,Q3,2098485.0
+Government final consumption expenditure,At Current Prices,2013,Q3,324213.0
+Gross capital formation,At Current Prices,2013,Q3,636098.0
+Gross fixed capital formation,At Current Prices,2013,Q3,589835.0
+Construction,At Current Prices,2013,Q3,344456.0
+Exports of goods and services,At Current Prices,2013,Q3,809385.0
+Imports of goods and services,At Current Prices,2013,Q3,965979.0
+Statistical discrepancy,At Current Prices,2013,Q3,12301.0
+Gross Domestic Product,At Current Prices,2013,Q3,2914503.0
+Household final consumption expenditure,At Current Prices,2013,Q4,2436145.0
+Government final consumption expenditure,At Current Prices,2013,Q4,300375.0
+Gross capital formation,At Current Prices,2013,Q4,773311.0
+Gross fixed capital formation,At Current Prices,2013,Q4,683377.0
+Construction,At Current Prices,2013,Q4,373138.0
+Exports of goods and services,At Current Prices,2013,Q4,771071.0
+Imports of goods and services,At Current Prices,2013,Q4,924012.0
+Statistical discrepancy,At Current Prices,2013,Q4,12493.0
+Gross Domestic Product,At Current Prices,2013,Q4,3369383.0
+Household final consumption expenditure,At Current Prices,2014,Q1,2204907.0
+Government final consumption expenditure,At Current Prices,2014,Q1,318521.0
+Gross capital formation,At Current Prices,2014,Q1,626063.0
+Gross fixed capital formation,At Current Prices,2014,Q1,645117.0
+Construction,At Current Prices,2014,Q1,367225.0
+Exports of goods and services,At Current Prices,2014,Q1,903606.0
+Imports of goods and services,At Current Prices,2014,Q1,1017405.0
+Statistical discrepancy,At Current Prices,2014,Q1,223.0
+Gross Domestic Product,At Current Prices,2014,Q1,3035915.0
+Household final consumption expenditure,At Current Prices,2014,Q2,2291325.0
+Government final consumption expenditure,At Current Prices,2014,Q2,400446.0
+Gross capital formation,At Current Prices,2014,Q2,639480.0
+Gross fixed capital formation,At Current Prices,2014,Q2,696754.0
+Construction,At Current Prices,2014,Q2,447448.0
+Exports of goods and services,At Current Prices,2014,Q2,905643.0
+Imports of goods and services,At Current Prices,2014,Q2,912041.0
+Statistical discrepancy,At Current Prices,2014,Q2,-28129.0
+Gross Domestic Product,At Current Prices,2014,Q2,3296724.0
+Household final consumption expenditure,At Current Prices,2014,Q3,2280899.0
+Government final consumption expenditure,At Current Prices,2014,Q3,332400.0
+Gross capital formation,At Current Prices,2014,Q3,682287.0
+Gross fixed capital formation,At Current Prices,2014,Q3,669982.0
+Construction,At Current Prices,2014,Q3,406491.0
+Exports of goods and services,At Current Prices,2014,Q3,945597.0
+Imports of goods and services,At Current Prices,2014,Q3,1070764.0
+Statistical discrepancy,At Current Prices,2014,Q3,3997.0
+Gross Domestic Product,At Current Prices,2014,Q3,3174416.0
+Household final consumption expenditure,At Current Prices,2014,Q4,2635906.0
+Government final consumption expenditure,At Current Prices,2014,Q4,343430.0
+Gross capital formation,At Current Prices,2014,Q4,815563.0
+Gross fixed capital formation,At Current Prices,2014,Q4,743378.0
+Construction,At Current Prices,2014,Q4,460258.0
+Exports of goods and services,At Current Prices,2014,Q4,857816.0
+Imports of goods and services,At Current Prices,2014,Q4,976851.0
+Statistical discrepancy,At Current Prices,2014,Q4,23910.0
+Gross Domestic Product,At Current Prices,2014,Q4,3699773.0
+Household final consumption expenditure,At Current Prices,2015,Q1,2372797.0
+Government final consumption expenditure,At Current Prices,2015,Q1,324078.0
+Gross capital formation,At Current Prices,2015,Q1,611588.0
+Gross fixed capital formation,At Current Prices,2015,Q1,679548.0
+Construction,At Current Prices,2015,Q1,392268.0
+Exports of goods and services,At Current Prices,2015,Q1,967214.0
+Imports of goods and services,At Current Prices,2015,Q1,1099682.0
+Statistical discrepancy,At Current Prices,2015,Q1,28282.0
+Gross Domestic Product,At Current Prices,2015,Q1,3204277.0
+Household final consumption expenditure,At Current Prices,2015,Q2,2468974.0
+Government final consumption expenditure,At Current Prices,2015,Q2,413473.0
+Gross capital formation,At Current Prices,2015,Q2,683363.0
+Gross fixed capital formation,At Current Prices,2015,Q2,792141.0
+Construction,At Current Prices,2015,Q2,527219.0
+Exports of goods and services,At Current Prices,2015,Q2,948829.0
+Imports of goods and services,At Current Prices,2015,Q2,992806.0
+Statistical discrepancy,At Current Prices,2015,Q2,-27934.0
+Gross Domestic Product,At Current Prices,2015,Q2,3493900.0
+Household final consumption expenditure,At Current Prices,2015,Q3,2436184.0
+Government final consumption expenditure,At Current Prices,2015,Q3,384928.0
+Gross capital formation,At Current Prices,2015,Q3,770421.0
+Gross fixed capital formation,At Current Prices,2015,Q3,758532.0
+Construction,At Current Prices,2015,Q3,452773.0
+Exports of goods and services,At Current Prices,2015,Q3,969929.0
+Imports of goods and services,At Current Prices,2015,Q3,1205212.0
+Statistical discrepancy,At Current Prices,2015,Q3,-25668.0
+Gross Domestic Product,At Current Prices,2015,Q3,3330583.0
+Household final consumption expenditure,At Current Prices,2015,Q4,2827778.0
+Government final consumption expenditure,At Current Prices,2015,Q4,399058.0
+Gross capital formation,At Current Prices,2015,Q4,910443.0
+Gross fixed capital formation,At Current Prices,2015,Q4,869794.0
+Construction,At Current Prices,2015,Q4,518961.0
+Exports of goods and services,At Current Prices,2015,Q4,907961.0
+Imports of goods and services,At Current Prices,2015,Q4,1155163.0
+Statistical discrepancy,At Current Prices,2015,Q4,25320.0
+Gross Domestic Product,At Current Prices,2015,Q4,3915398.0
+Household final consumption expenditure,At Current Prices,2016,Q1,2547013.0
+Government final consumption expenditure,At Current Prices,2016,Q1,368652.0
+Gross capital formation,At Current Prices,2016,Q1,782499.0
+Gross fixed capital formation,At Current Prices,2016,Q1,824958.0
+Construction,At Current Prices,2016,Q1,455132.0
+Exports of goods and services,At Current Prices,2016,Q1,1010940.0
+Imports of goods and services,At Current Prices,2016,Q1,1298718.0
+Statistical discrepancy,At Current Prices,2016,Q1,27263.0
+Gross Domestic Product,At Current Prices,2016,Q1,3437650.0
+Household final consumption expenditure,At Current Prices,2016,Q2,2680857.0
+Government final consumption expenditure,At Current Prices,2016,Q2,489049.0
+Gross capital formation,At Current Prices,2016,Q2,929892.0
+Gross fixed capital formation,At Current Prices,2016,Q2,978065.0
+Construction,At Current Prices,2016,Q2,623837.0
+Exports of goods and services,At Current Prices,2016,Q2,1002884.0
+Imports of goods and services,At Current Prices,2016,Q2,1276450.0
+Statistical discrepancy,At Current Prices,2016,Q2,-35086.0
+Gross Domestic Product,At Current Prices,2016,Q2,3791145.0
+Household final consumption expenditure,At Current Prices,2016,Q3,2664733.0
+Government final consumption expenditure,At Current Prices,2016,Q3,410195.0
+Gross capital formation,At Current Prices,2016,Q3,936656.0
+Gross fixed capital formation,At Current Prices,2016,Q3,940193.0
+Construction,At Current Prices,2016,Q3,548956.0
+Exports of goods and services,At Current Prices,2016,Q3,1023974.0
+Imports of goods and services,At Current Prices,2016,Q3,1369085.0
+Statistical discrepancy,At Current Prices,2016,Q3,-21494.0
+Gross Domestic Product,At Current Prices,2016,Q3,3644979.0
+Household final consumption expenditure,At Current Prices,2016,Q4,3086483.0
+Government final consumption expenditure,At Current Prices,2016,Q4,435703.0
+Gross capital formation,At Current Prices,2016,Q4,1076319.0
+Gross fixed capital formation,At Current Prices,2016,Q4,1039368.0
+Construction,At Current Prices,2016,Q4,586602.0
+Exports of goods and services,At Current Prices,2016,Q4,998463.0
+Imports of goods and services,At Current Prices,2016,Q4,1367676.0
+Statistical discrepancy,At Current Prices,2016,Q4,29317.0
+Gross Domestic Product,At Current Prices,2016,Q4,4258608.0
+Household final consumption expenditure,At Current Prices,2017,Q1,2782053.0
+Government final consumption expenditure,At Current Prices,2017,Q1,379718.0
+Gross capital formation,At Current Prices,2017,Q1,973080.0
+Gross fixed capital formation,At Current Prices,2017,Q1,941109.0
+Construction,At Current Prices,2017,Q1,514331.0
+Exports of goods and services,At Current Prices,2017,Q1,1192114.0
+Imports of goods and services,At Current Prices,2017,Q1,1606364.0
+Statistical discrepancy,At Current Prices,2017,Q1,24932.0
+Gross Domestic Product,At Current Prices,2017,Q1,3745533.0
+Household final consumption expenditure,At Current Prices,2017,Q2,2923649.0
+Government final consumption expenditure,At Current Prices,2017,Q2,538639.0
+Gross capital formation,At Current Prices,2017,Q2,1064658.0
+Gross fixed capital formation,At Current Prices,2017,Q2,1097891.0
+Construction,At Current Prices,2017,Q2,672066.0
+Exports of goods and services,At Current Prices,2017,Q2,1202642.0
+Imports of goods and services,At Current Prices,2017,Q2,1537248.0
+Statistical discrepancy,At Current Prices,2017,Q2,-38386.0
+Gross Domestic Product,At Current Prices,2017,Q2,4153954.0
+Household final consumption expenditure,At Current Prices,2017,Q3,2889159.0
+Government final consumption expenditure,At Current Prices,2017,Q3,455432.0
+Gross capital formation,At Current Prices,2017,Q3,1023509.0
+Gross fixed capital formation,At Current Prices,2017,Q3,1047456.0
+Construction,At Current Prices,2017,Q3,599670.0
+Exports of goods and services,At Current Prices,2017,Q3,1284166.0
+Imports of goods and services,At Current Prices,2017,Q3,1609629.0
+Statistical discrepancy,At Current Prices,2017,Q3,-24715.0
+Gross Domestic Product,At Current Prices,2017,Q3,4017922.0
+Household final consumption expenditure,At Current Prices,2017,Q4,3356002.0
+Government final consumption expenditure,At Current Prices,2017,Q4,500980.0
+Gross capital formation,At Current Prices,2017,Q4,1170430.0
+Gross fixed capital formation,At Current Prices,2017,Q4,1159155.0
+Construction,At Current Prices,2017,Q4,635763.0
+Exports of goods and services,At Current Prices,2017,Q4,1213949.0
+Imports of goods and services,At Current Prices,2017,Q4,1640288.0
+Statistical discrepancy,At Current Prices,2017,Q4,38169.0
+Gross Domestic Product,At Current Prices,2017,Q4,4639242.0
+Household final consumption expenditure,At Current Prices,2018,Q1,3050982.0
+Government final consumption expenditure,At Current Prices,2018,Q1,444837.0
+Gross capital formation,At Current Prices,2018,Q1,1064617.0
+Gross fixed capital formation,At Current Prices,2018,Q1,1060569.0
+Construction,At Current Prices,2018,Q1,604906.0
+Exports of goods and services,At Current Prices,2018,Q1,1337126.0
+Imports of goods and services,At Current Prices,2018,Q1,1796116.0
+Statistical discrepancy,At Current Prices,2018,Q1,-309.0
+Gross Domestic Product,At Current Prices,2018,Q1,4101138.0
+Household final consumption expenditure,At Current Prices,2018,Q2,3240042.0
+Government final consumption expenditure,At Current Prices,2018,Q2,623474.0
+Gross capital formation,At Current Prices,2018,Q2,1273938.0
+Gross fixed capital formation,At Current Prices,2018,Q2,1305605.0
+Construction,At Current Prices,2018,Q2,804245.0
+Exports of goods and services,At Current Prices,2018,Q2,1361794.0
+Imports of goods and services,At Current Prices,2018,Q2,1929120.0
+Statistical discrepancy,At Current Prices,2018,Q2,-1336.0
+Gross Domestic Product,At Current Prices,2018,Q2,4568792.0
+Household final consumption expenditure,At Current Prices,2018,Q3,3227592.0
+Government final consumption expenditure,At Current Prices,2018,Q3,543284.0
+Gross capital formation,At Current Prices,2018,Q3,1260483.0
+Gross fixed capital formation,At Current Prices,2018,Q3,1259226.0
+Construction,At Current Prices,2018,Q3,732021.0
+Exports of goods and services,At Current Prices,2018,Q3,1455659.0
+Imports of goods and services,At Current Prices,2018,Q3,2005601.0
+Statistical discrepancy,At Current Prices,2018,Q3,-31204.0
+Gross Domestic Product,At Current Prices,2018,Q3,4450213.0
+Household final consumption expenditure,At Current Prices,2018,Q4,3731469.0
+Government final consumption expenditure,At Current Prices,2018,Q4,588042.0
+Gross capital formation,At Current Prices,2018,Q4,1360067.0
+Gross fixed capital formation,At Current Prices,2018,Q4,1357946.0
+Construction,At Current Prices,2018,Q4,798614.0
+Exports of goods and services,At Current Prices,2018,Q4,1363993.0
+Imports of goods and services,At Current Prices,2018,Q4,1931373.0
+Statistical discrepancy,At Current Prices,2018,Q4,32849.0
+Gross Domestic Product,At Current Prices,2018,Q4,5145048.0
+Household final consumption expenditure,At Current Prices,2019,Q1,3340847.0
+Government final consumption expenditure,At Current Prices,2019,Q1,481517.0
+Gross capital formation,At Current Prices,2019,Q1,1178488.0
+Gross fixed capital formation,At Current Prices,2019,Q1,1165560.0
+Construction,At Current Prices,2019,Q1,657634.0
+Exports of goods and services,At Current Prices,2019,Q1,1389374.0
+Imports of goods and services,At Current Prices,2019,Q1,2004060.0
+Statistical discrepancy,At Current Prices,2019,Q1,39911.0
+Gross Domestic Product,At Current Prices,2019,Q1,4426077.0
+Household final consumption expenditure,At Current Prices,2019,Q2,3499709.0
+Government final consumption expenditure,At Current Prices,2019,Q2,668914.0
+Gross capital formation,At Current Prices,2019,Q2,1246495.0
+Gross fixed capital formation,At Current Prices,2019,Q2,1324452.0
+Construction,At Current Prices,2019,Q2,849130.0
+Exports of goods and services,At Current Prices,2019,Q2,1406478.0
+Imports of goods and services,At Current Prices,2019,Q2,1927311.0
+Statistical discrepancy,At Current Prices,2019,Q2,-28311.0
+Gross Domestic Product,At Current Prices,2019,Q2,4865973.0
+Household final consumption expenditure,At Current Prices,2019,Q3,3462628.0
+Government final consumption expenditure,At Current Prices,2019,Q3,591359.0
+Gross capital formation,At Current Prices,2019,Q3,1272706.0
+Gross fixed capital formation,At Current Prices,2019,Q3,1367888.0
+Construction,At Current Prices,2019,Q3,872713.0
+Exports of goods and services,At Current Prices,2019,Q3,1402117.0
+Imports of goods and services,At Current Prices,2019,Q3,2023448.0
+Statistical discrepancy,At Current Prices,2019,Q3,20530.0
+Gross Domestic Product,At Current Prices,2019,Q3,4725892.0
+Household final consumption expenditure,At Current Prices,2019,Q4,3985148.0
+Government final consumption expenditure,At Current Prices,2019,Q4,691649.0
+Gross capital formation,At Current Prices,2019,Q4,1455380.0
+Gross fixed capital formation,At Current Prices,2019,Q4,1442201.0
+Construction,At Current Prices,2019,Q4,911051.0
+Exports of goods and services,At Current Prices,2019,Q4,1341770.0
+Imports of goods and services,At Current Prices,2019,Q4,1941898.0
+Statistical discrepancy,At Current Prices,2019,Q4,-32130.0
+Gross Domestic Product,At Current Prices,2019,Q4,5499920.0
+Household final consumption expenditure,At Current Prices,2020,Q1,3422615.0
+Government final consumption expenditure,At Current Prices,2020,Q1,528976.0
+Gross capital formation,At Current Prices,2020,Q1,956211.0
+Gross fixed capital formation,At Current Prices,2020,Q1,1133230.0
+Construction,At Current Prices,2020,Q1,666918.0
+Exports of goods and services,At Current Prices,2020,Q1,1321643.0
+Imports of goods and services,At Current Prices,2020,Q1,1766673.0
+Statistical discrepancy,At Current Prices,2020,Q1,-13632.0
+Gross Domestic Product,At Current Prices,2020,Q1,4449141.0
+Household final consumption expenditure,At Current Prices,2020,Q2,3042128.0
+Government final consumption expenditure,At Current Prices,2020,Q2,829162.0
+Gross capital formation,At Current Prices,2020,Q2,518470.0
+Gross fixed capital formation,At Current Prices,2020,Q2,852921.0
+Construction,At Current Prices,2020,Q2,583729.0
+Exports of goods and services,At Current Prices,2020,Q2,904783.0
+Imports of goods and services,At Current Prices,2020,Q2,1149515.0
+Statistical discrepancy,At Current Prices,2020,Q2,-6655.0
+Gross Domestic Product,At Current Prices,2020,Q2,4138373.0
+Household final consumption expenditure,At Current Prices,2020,Q3,3210325.0
+Government final consumption expenditure,At Current Prices,2020,Q3,639282.0
+Gross capital formation,At Current Prices,2020,Q3,709963.0
+Gross fixed capital formation,At Current Prices,2020,Q3,831625.0
+Construction,At Current Prices,2020,Q3,488177.0
+Exports of goods and services,At Current Prices,2020,Q3,1116142.0
+Imports of goods and services,At Current Prices,2020,Q3,1506042.0
+Statistical discrepancy,At Current Prices,2020,Q3,35438.0
+Gross Domestic Product,At Current Prices,2020,Q3,4205108.0
+Household final consumption expenditure,At Current Prices,2020,Q4,3801008.0
+Government final consumption expenditure,At Current Prices,2020,Q4,742251.0
+Gross capital formation,At Current Prices,2020,Q4,944922.0
+Gross fixed capital formation,At Current Prices,2020,Q4,1006315.0
+Construction,At Current Prices,2020,Q4,593149.0
+Exports of goods and services,At Current Prices,2020,Q4,1181738.0
+Imports of goods and services,At Current Prices,2020,Q4,1495815.0
+Statistical discrepancy,At Current Prices,2020,Q4,-15151.0
+Gross Domestic Product,At Current Prices,2020,Q4,5158953.0
+Household final consumption expenditure,At Current Prices,2021,Q1,3397750.0
+Government final consumption expenditure,At Current Prices,2021,Q1,634088.0
+Gross capital formation,At Current Prices,2021,Q1,815357.0
+Gross fixed capital formation,At Current Prices,2021,Q1,937542.0
+Construction,At Current Prices,2021,Q1,509362.0
+Exports of goods and services,At Current Prices,2021,Q1,1205533.0
+Imports of goods and services,At Current Prices,2021,Q1,1638318.0
+Statistical discrepancy,At Current Prices,2021,Q1,-40339.0
+Gross Domestic Product,At Current Prices,2021,Q1,4374072.0
+Household final consumption expenditure,At Current Prices,2021,Q2,3395240.0
+Government final consumption expenditure,At Current Prices,2021,Q2,817866.0
+Gross capital formation,At Current Prices,2021,Q2,1141002.0
+Gross fixed capital formation,At Current Prices,2021,Q2,1216295.0
+Construction,At Current Prices,2021,Q2,828664.0
+Exports of goods and services,At Current Prices,2021,Q2,1177329.0
+Imports of goods and services,At Current Prices,2021,Q2,1784038.0
+Statistical discrepancy,At Current Prices,2021,Q2,20591.0
+Gross Domestic Product,At Current Prices,2021,Q2,4767989.0
+Household final consumption expenditure,At Current Prices,2021,Q3,3583127.0
+Government final consumption expenditure,At Current Prices,2021,Q3,748261.0
+Gross capital formation,At Current Prices,2021,Q3,952964.0
+Gross fixed capital formation,At Current Prices,2021,Q3,998543.0
+Construction,At Current Prices,2021,Q3,629375.0
+Exports of goods and services,At Current Prices,2021,Q3,1282623.0
+Imports of goods and services,At Current Prices,2021,Q3,1931192.0
+Statistical discrepancy,At Current Prices,2021,Q3,-31687.0
+Gross Domestic Product,At Current Prices,2021,Q3,4604095.0
+Household final consumption expenditure,At Current Prices,2021,Q4,4232430.0
+Government final consumption expenditure,At Current Prices,2021,Q4,823802.0
+Gross capital formation,At Current Prices,2021,Q4,1194224.0
+Gross fixed capital formation,At Current Prices,2021,Q4,1172165.0
+Construction,At Current Prices,2021,Q4,714382.0
+Exports of goods and services,At Current Prices,2021,Q4,1333144.0
+Imports of goods and services,At Current Prices,2021,Q4,1970576.0
+Statistical discrepancy,At Current Prices,2021,Q4,51435.0
+Gross Domestic Product,At Current Prices,2021,Q4,5664458.0
+Household final consumption expenditure,At Current Prices,2022,Q1,3853345.0
+Government final consumption expenditure,At Current Prices,2022,Q1,680159.0
+Gross capital formation,At Current Prices,2022,Q1,1142898.0
+Gross fixed capital formation,At Current Prices,2022,Q1,1104623.0
+Construction,At Current Prices,2022,Q1,612848.0
+Exports of goods and services,At Current Prices,2022,Q1,1460189.0
+Imports of goods and services,At Current Prices,2022,Q1,2203811.0
+Statistical discrepancy,At Current Prices,2022,Q1,-3982.0
+Gross Domestic Product,At Current Prices,2022,Q1,4928798.0
+Household final consumption expenditure,At Current Prices,2022,Q2,3878011.0
+Government final consumption expenditure,At Current Prices,2022,Q2,947127.0
+Gross capital formation,At Current Prices,2022,Q2,1569620.0
+Gross fixed capital formation,At Current Prices,2022,Q2,1478149.0
+Construction,At Current Prices,2022,Q2,1034455.0
+Exports of goods and services,At Current Prices,2022,Q2,1405651.0
+Imports of goods and services,At Current Prices,2022,Q2,2433416.0
+Statistical discrepancy,At Current Prices,2022,Q2,31111.0
+Gross Domestic Product,At Current Prices,2022,Q2,5398104.0
+Household final consumption expenditure,At Current Prices,2022,Q3,4131183.0
+Government final consumption expenditure,At Current Prices,2022,Q3,790600.0
+Gross capital formation,At Current Prices,2022,Q3,1344707.0
+Gross fixed capital formation,At Current Prices,2022,Q3,1208816.0
+Construction,At Current Prices,2022,Q3,759833.0
+Exports of goods and services,At Current Prices,2022,Q3,1665177.0
+Imports of goods and services,At Current Prices,2022,Q3,2711875.0
+Statistical discrepancy,At Current Prices,2022,Q3,30155.0
+Gross Domestic Product,At Current Prices,2022,Q3,5249946.0
+Household final consumption expenditure,At Current Prices,2022,Q4,4862506.0
+Government final consumption expenditure,At Current Prices,2022,Q4,895976.0
+Gross capital formation,At Current Prices,2022,Q4,1380646.0
+Gross fixed capital formation,At Current Prices,2022,Q4,1351126.0
+Construction,At Current Prices,2022,Q4,828277.0
+Exports of goods and services,At Current Prices,2022,Q4,1722239.0
+Imports of goods and services,At Current Prices,2022,Q4,2352654.0
+Statistical discrepancy,At Current Prices,2022,Q4,-57283.0
+Gross Domestic Product,At Current Prices,2022,Q4,6451429.0
+Household final consumption expenditure,At Current Prices,2023,Q1,4416488.0
+Government final consumption expenditure,At Current Prices,2023,Q1,757815.0
+Gross capital formation,At Current Prices,2023,Q1,1336439.0
+Gross fixed capital formation,At Current Prices,2023,Q1,1286530.0
+Construction,At Current Prices,2023,Q1,736009.0
+Exports of goods and services,At Current Prices,2023,Q1,1555932.0
+Imports of goods and services,At Current Prices,2023,Q1,2434826.0
+Statistical discrepancy,At Current Prices,2023,Q1,-16891.0
+Gross Domestic Product,At Current Prices,2023,Q1,5614956.0
+Household final consumption expenditure,At Current Prices,2023,Q2,4324079.0
+Government final consumption expenditure,At Current Prices,2023,Q2,916381.0
+Gross capital formation,At Current Prices,2023,Q2,1552093.0
+Gross fixed capital formation,At Current Prices,2023,Q2,1594066.0
+Construction,At Current Prices,2023,Q2,1093916.0
+Exports of goods and services,At Current Prices,2023,Q2,1518883.0
+Imports of goods and services,At Current Prices,2023,Q2,2427283.0
+Statistical discrepancy,At Current Prices,2023,Q2,2887.0
+Gross Domestic Product,At Current Prices,2023,Q2,5887040.0
+Household final consumption expenditure,At Current Prices,2023,Q3,4533012.0
+Government final consumption expenditure,At Current Prices,2023,Q3,870764.0
+Gross capital formation,At Current Prices,2023,Q3,1287896.0
+Gross fixed capital formation,At Current Prices,2023,Q3,1349575.0
+Construction,At Current Prices,2023,Q3,883625.0
+Exports of goods and services,At Current Prices,2023,Q3,1740233.0
+Imports of goods and services,At Current Prices,2023,Q3,2634642.0
+Statistical discrepancy,At Current Prices,2023,Q3,-36139.0
+Gross Domestic Product,At Current Prices,2023,Q3,5761125.0
+Household final consumption expenditure,At Current Prices,2023,Q4,5330879.0
+Government final consumption expenditure,At Current Prices,2023,Q4,912738.0
+Gross capital formation,At Current Prices,2023,Q4,1514441.0
+Gross fixed capital formation,At Current Prices,2023,Q4,1516219.0
+Construction,At Current Prices,2023,Q4,933244.0
+Exports of goods and services,At Current Prices,2023,Q4,1661319.0
+Imports of goods and services,At Current Prices,2023,Q4,2419078.0
+Statistical discrepancy,At Current Prices,2023,Q4,50143.0
+Gross Domestic Product,At Current Prices,2023,Q4,7050442.0
+Household final consumption expenditure,At Current Prices,2024,Q1,4783114.0
+Government final consumption expenditure,At Current Prices,2024,Q1,806075.0
+Gross capital formation,At Current Prices,2024,Q1,1360061.0
+Gross fixed capital formation,At Current Prices,2024,Q1,1344972.0
+Construction,At Current Prices,2024,Q1,804253.0
+Exports of goods and services,At Current Prices,2024,Q1,1699720.0
+Imports of goods and services,At Current Prices,2024,Q1,2484667.0
+Statistical discrepancy,At Current Prices,2024,Q1,-44226.0
+Gross Domestic Product,At Current Prices,2024,Q1,6120078.0
+Household final consumption expenditure,At Current Prices,2024,Q2,4708553.0
+Government final consumption expenditure,At Current Prices,2024,Q2,1067732.0
+Gross capital formation,At Current Prices,2024,Q2,1796010.0
+Gross fixed capital formation,At Current Prices,2024,Q2,1797935.0
+Construction,At Current Prices,2024,Q2,1289919.0
+Exports of goods and services,At Current Prices,2024,Q2,1619650.0
+Imports of goods and services,At Current Prices,2024,Q2,2675764.0
+Statistical discrepancy,At Current Prices,2024,Q2,-20067.0
+Gross Domestic Product,At Current Prices,2024,Q2,6496114.0
+Household final consumption expenditure,At Current Prices,2024,Q3,4917994.0
+Government final consumption expenditure,At Current Prices,2024,Q3,947830.0
+Gross capital formation,At Current Prices,2024,Q3,1483443.0
+Gross fixed capital formation,At Current Prices,2024,Q3,1476694.0
+Construction,At Current Prices,2024,Q3,969796.0
+Exports of goods and services,At Current Prices,2024,Q3,1743681.0
+Imports of goods and services,At Current Prices,2024,Q3,2861738.0
+Statistical discrepancy,At Current Prices,2024,Q3,22572.0
+Gross Domestic Product,At Current Prices,2024,Q3,6253782.0
+Household final consumption expenditure,At Current Prices,2024,Q4,5731243.0
+Government final consumption expenditure,At Current Prices,2024,Q4,1030179.0
+Gross capital formation,At Current Prices,2024,Q4,1623237.0
+Gross fixed capital formation,At Current Prices,2024,Q4,1611322.0
+Construction,At Current Prices,2024,Q4,1006867.0
+Exports of goods and services,At Current Prices,2024,Q4,1744238.0
+Imports of goods and services,At Current Prices,2024,Q4,2591148.0
+Statistical discrepancy,At Current Prices,2024,Q4,41720.0
+Gross Domestic Product,At Current Prices,2024,Q4,7579469.0
+Household final consumption expenditure,At Current Prices,2025,Q1,5151530.0
+Government final consumption expenditure,At Current Prices,2025,Q1,980058.0
+Gross capital formation,At Current Prices,2025,Q1,1467366.0
+Gross fixed capital formation,At Current Prices,2025,Q1,1462985.0
+Construction,At Current Prices,2025,Q1,868045.0
+Exports of goods and services,At Current Prices,2025,Q1,1862880.0
+Imports of goods and services,At Current Prices,2025,Q1,2857753.0
+Statistical discrepancy,At Current Prices,2025,Q1,-20623.0
+Gross Domestic Product,At Current Prices,2025,Q1,6583459.0
+Household final consumption expenditure,At Current Prices,2025,Q2,5022291.0
+Government final consumption expenditure,At Current Prices,2025,Q2,1181624.0
+Gross capital formation,At Current Prices,2025,Q2,1814098.0
+Gross fixed capital formation,At Current Prices,2025,Q2,1868310.0
+Construction,At Current Prices,2025,Q2,1307917.0
+Exports of goods and services,At Current Prices,2025,Q2,1685578.0
+Imports of goods and services,At Current Prices,2025,Q2,2727874.0
+Statistical discrepancy,At Current Prices,2025,Q2,-12621.0
+Gross Domestic Product,At Current Prices,2025,Q2,6963096.0
+Household final consumption expenditure,At Current Prices,2025,Q3,5184715.0
+Government final consumption expenditure,At Current Prices,2025,Q3,1019840.0
+Gross capital formation,At Current Prices,2025,Q3,1464630.0
+Gross fixed capital formation,At Current Prices,2025,Q3,1496749.0
+Construction,At Current Prices,2025,Q3,972026.0
+Exports of goods and services,At Current Prices,2025,Q3,1893612.0
+Imports of goods and services,At Current Prices,2025,Q3,2992902.0
+Statistical discrepancy,At Current Prices,2025,Q3,-13655.0
+Gross Domestic Product,At Current Prices,2025,Q3,6556241.0
+Household final consumption expenditure,At Current Prices,2025,Q4,6043628.0
+Government final consumption expenditure,At Current Prices,2025,Q4,1059965.0
+Gross capital formation,At Current Prices,2025,Q4,1455570.0
+Gross fixed capital formation,At Current Prices,2025,Q4,1540429.0
+Construction,At Current Prices,2025,Q4,922969.0
+Exports of goods and services,At Current Prices,2025,Q4,1994661.0
+Imports of goods and services,At Current Prices,2025,Q4,2693584.0
+Statistical discrepancy,At Current Prices,2025,Q4,46899.0
+Gross Domestic Product,At Current Prices,2025,Q4,7907140.0
+Household final consumption expenditure,At Current Prices,2026,Q1,5453720.0
+Government final consumption expenditure,At Current Prices,2026,Q1,1057920.0
+Gross capital formation,At Current Prices,2026,Q1,1456743.0
+Gross fixed capital formation,At Current Prices,2026,Q1,1465122.0
+Construction,At Current Prices,2026,Q1,846329.0
+Exports of goods and services,At Current Prices,2026,Q1,2067437.0
+Imports of goods and services,At Current Prices,2026,Q1,3131078.0
+Statistical discrepancy,At Current Prices,2026,Q1,31129.0
+Gross Domestic Product,At Current Prices,2026,Q1,6935870.0
+Household final consumption expenditure,At Current Prices,2026,Q2,5487099.0
+Government final consumption expenditure,At Current Prices,2026,Q2,1353733.0
+Gross capital formation,At Current Prices,2026,Q2,1737779.0
+Gross fixed capital formation,At Current Prices,2026,Q2,1680378.0
+Construction,At Current Prices,2026,Q2,1151269.0
+Exports of goods and services,At Current Prices,2026,Q2,2031725.0
+Imports of goods and services,At Current Prices,2026,Q2,3164744.0
+Statistical discrepancy,At Current Prices,2026,Q2,37864.0
+Gross Domestic Product,At Current Prices,2026,Q2,7483456.0
+Household final consumption expenditure,At Constant 2018 Prices,2000,Q1,1238391.0
+Government final consumption expenditure,At Constant 2018 Prices,2000,Q1,196144.0
+Gross capital formation,At Constant 2018 Prices,2000,Q1,295296.0
+Gross fixed capital formation,At Constant 2018 Prices,2000,Q1,319796.0
+Construction,At Constant 2018 Prices,2000,Q1,198225.0
+Exports of goods and services,At Constant 2018 Prices,2000,Q1,407798.0
+Imports of goods and services,At Constant 2018 Prices,2000,Q1,498256.0
+Statistical discrepancy,At Constant 2018 Prices,2000,Q1,13922.0
+Gross Domestic Product,At Constant 2018 Prices,2000,Q1,1653296.0
+Household final consumption expenditure,At Constant 2018 Prices,2000,Q2,1339475.0
+Government final consumption expenditure,At Constant 2018 Prices,2000,Q2,224339.0
+Gross capital formation,At Constant 2018 Prices,2000,Q2,252277.0
+Gross fixed capital formation,At Constant 2018 Prices,2000,Q2,310029.0
+Construction,At Constant 2018 Prices,2000,Q2,185190.0
+Exports of goods and services,At Constant 2018 Prices,2000,Q2,410902.0
+Imports of goods and services,At Constant 2018 Prices,2000,Q2,493191.0
+Statistical discrepancy,At Constant 2018 Prices,2000,Q2,-4013.0
+Gross Domestic Product,At Constant 2018 Prices,2000,Q2,1729789.0
+Household final consumption expenditure,At Constant 2018 Prices,2000,Q3,1313248.0
+Government final consumption expenditure,At Constant 2018 Prices,2000,Q3,212407.0
+Gross capital formation,At Constant 2018 Prices,2000,Q3,245992.0
+Gross fixed capital formation,At Constant 2018 Prices,2000,Q3,305715.0
+Construction,At Constant 2018 Prices,2000,Q3,202192.0
+Exports of goods and services,At Constant 2018 Prices,2000,Q3,495673.0
+Imports of goods and services,At Constant 2018 Prices,2000,Q3,541691.0
+Statistical discrepancy,At Constant 2018 Prices,2000,Q3,-16217.0
+Gross Domestic Product,At Constant 2018 Prices,2000,Q3,1709413.0
+Household final consumption expenditure,At Constant 2018 Prices,2000,Q4,1465298.0
+Government final consumption expenditure,At Constant 2018 Prices,2000,Q4,195842.0
+Gross capital formation,At Constant 2018 Prices,2000,Q4,339958.0
+Gross fixed capital formation,At Constant 2018 Prices,2000,Q4,342144.0
+Construction,At Constant 2018 Prices,2000,Q4,210044.0
+Exports of goods and services,At Constant 2018 Prices,2000,Q4,455642.0
+Imports of goods and services,At Constant 2018 Prices,2000,Q4,570163.0
+Statistical discrepancy,At Constant 2018 Prices,2000,Q4,6308.0
+Gross Domestic Product,At Constant 2018 Prices,2000,Q4,1892885.0
+Household final consumption expenditure,At Constant 2018 Prices,2001,Q1,1293275.0
+Government final consumption expenditure,At Constant 2018 Prices,2001,Q1,197424.0
+Gross capital formation,At Constant 2018 Prices,2001,Q1,299802.0
+Gross fixed capital formation,At Constant 2018 Prices,2001,Q1,303513.0
+Construction,At Constant 2018 Prices,2001,Q1,179626.0
+Exports of goods and services,At Constant 2018 Prices,2001,Q1,469729.0
+Imports of goods and services,At Constant 2018 Prices,2001,Q1,582622.0
+Statistical discrepancy,At Constant 2018 Prices,2001,Q1,15600.0
+Gross Domestic Product,At Constant 2018 Prices,2001,Q1,1693209.0
+Household final consumption expenditure,At Constant 2018 Prices,2001,Q2,1360269.0
+Government final consumption expenditure,At Constant 2018 Prices,2001,Q2,227298.0
+Gross capital formation,At Constant 2018 Prices,2001,Q2,355948.0
+Gross fixed capital formation,At Constant 2018 Prices,2001,Q2,306980.0
+Construction,At Constant 2018 Prices,2001,Q2,186107.0
+Exports of goods and services,At Constant 2018 Prices,2001,Q2,414599.0
+Imports of goods and services,At Constant 2018 Prices,2001,Q2,584701.0
+Statistical discrepancy,At Constant 2018 Prices,2001,Q2,12909.0
+Gross Domestic Product,At Constant 2018 Prices,2001,Q2,1786322.0
+Household final consumption expenditure,At Constant 2018 Prices,2001,Q3,1372739.0
+Government final consumption expenditure,At Constant 2018 Prices,2001,Q3,206386.0
+Gross capital formation,At Constant 2018 Prices,2001,Q3,320307.0
+Gross fixed capital formation,At Constant 2018 Prices,2001,Q3,282118.0
+Construction,At Constant 2018 Prices,2001,Q3,183558.0
+Exports of goods and services,At Constant 2018 Prices,2001,Q3,447494.0
+Imports of goods and services,At Constant 2018 Prices,2001,Q3,567179.0
+Statistical discrepancy,At Constant 2018 Prices,2001,Q3,-17163.0
+Gross Domestic Product,At Constant 2018 Prices,2001,Q3,1762583.0
+Household final consumption expenditure,At Constant 2018 Prices,2001,Q4,1541293.0
+Government final consumption expenditure,At Constant 2018 Prices,2001,Q4,186652.0
+Gross capital formation,At Constant 2018 Prices,2001,Q4,389787.0
+Gross fixed capital formation,At Constant 2018 Prices,2001,Q4,326967.0
+Construction,At Constant 2018 Prices,2001,Q4,199524.0
+Exports of goods and services,At Constant 2018 Prices,2001,Q4,399816.0
+Imports of goods and services,At Constant 2018 Prices,2001,Q4,549933.0
+Statistical discrepancy,At Constant 2018 Prices,2001,Q4,-11346.0
+Gross Domestic Product,At Constant 2018 Prices,2001,Q4,1956269.0
+Household final consumption expenditure,At Constant 2018 Prices,2002,Q1,1339317.0
+Government final consumption expenditure,At Constant 2018 Prices,2002,Q1,185698.0
+Gross capital formation,At Constant 2018 Prices,2002,Q1,377907.0
+Gross fixed capital formation,At Constant 2018 Prices,2002,Q1,296061.0
+Construction,At Constant 2018 Prices,2002,Q1,172999.0
+Exports of goods and services,At Constant 2018 Prices,2002,Q1,436735.0
+Imports of goods and services,At Constant 2018 Prices,2002,Q1,594821.0
+Statistical discrepancy,At Constant 2018 Prices,2002,Q1,14010.0
+Gross Domestic Product,At Constant 2018 Prices,2002,Q1,1758847.0
+Household final consumption expenditure,At Constant 2018 Prices,2002,Q2,1446344.0
+Government final consumption expenditure,At Constant 2018 Prices,2002,Q2,220816.0
+Gross capital formation,At Constant 2018 Prices,2002,Q2,352121.0
+Gross fixed capital formation,At Constant 2018 Prices,2002,Q2,331303.0
+Construction,At Constant 2018 Prices,2002,Q2,205632.0
+Exports of goods and services,At Constant 2018 Prices,2002,Q2,431676.0
+Imports of goods and services,At Constant 2018 Prices,2002,Q2,596400.0
+Statistical discrepancy,At Constant 2018 Prices,2002,Q2,-2853.0
+Gross Domestic Product,At Constant 2018 Prices,2002,Q2,1851705.0
+Household final consumption expenditure,At Constant 2018 Prices,2002,Q3,1458722.0
+Government final consumption expenditure,At Constant 2018 Prices,2002,Q3,204648.0
+Gross capital formation,At Constant 2018 Prices,2002,Q3,295793.0
+Gross fixed capital formation,At Constant 2018 Prices,2002,Q3,292115.0
+Construction,At Constant 2018 Prices,2002,Q3,184061.0
+Exports of goods and services,At Constant 2018 Prices,2002,Q3,485171.0
+Imports of goods and services,At Constant 2018 Prices,2002,Q3,616974.0
+Statistical discrepancy,At Constant 2018 Prices,2002,Q3,-17594.0
+Gross Domestic Product,At Constant 2018 Prices,2002,Q3,1809767.0
+Household final consumption expenditure,At Constant 2018 Prices,2002,Q4,1607139.0
+Government final consumption expenditure,At Constant 2018 Prices,2002,Q4,176674.0
+Gross capital formation,At Constant 2018 Prices,2002,Q4,431648.0
+Gross fixed capital formation,At Constant 2018 Prices,2002,Q4,347836.0
+Construction,At Constant 2018 Prices,2002,Q4,204542.0
+Exports of goods and services,At Constant 2018 Prices,2002,Q4,461956.0
+Imports of goods and services,At Constant 2018 Prices,2002,Q4,638279.0
+Statistical discrepancy,At Constant 2018 Prices,2002,Q4,6437.0
+Gross Domestic Product,At Constant 2018 Prices,2002,Q4,2045575.0
+Household final consumption expenditure,At Constant 2018 Prices,2003,Q1,1429858.0
+Government final consumption expenditure,At Constant 2018 Prices,2003,Q1,193910.0
+Gross capital formation,At Constant 2018 Prices,2003,Q1,382789.0
+Gross fixed capital formation,At Constant 2018 Prices,2003,Q1,343747.0
+Construction,At Constant 2018 Prices,2003,Q1,205251.0
+Exports of goods and services,At Constant 2018 Prices,2003,Q1,470344.0
+Imports of goods and services,At Constant 2018 Prices,2003,Q1,647140.0
+Statistical discrepancy,At Constant 2018 Prices,2003,Q1,10318.0
+Gross Domestic Product,At Constant 2018 Prices,2003,Q1,1840079.0
+Household final consumption expenditure,At Constant 2018 Prices,2003,Q2,1515315.0
+Government final consumption expenditure,At Constant 2018 Prices,2003,Q2,217669.0
+Gross capital formation,At Constant 2018 Prices,2003,Q2,369237.0
+Gross fixed capital formation,At Constant 2018 Prices,2003,Q2,349871.0
+Construction,At Constant 2018 Prices,2003,Q2,210057.0
+Exports of goods and services,At Constant 2018 Prices,2003,Q2,467114.0
+Imports of goods and services,At Constant 2018 Prices,2003,Q2,640701.0
+Statistical discrepancy,At Constant 2018 Prices,2003,Q2,4341.0
+Gross Domestic Product,At Constant 2018 Prices,2003,Q2,1932976.0
+Household final consumption expenditure,At Constant 2018 Prices,2003,Q3,1523863.0
+Government final consumption expenditure,At Constant 2018 Prices,2003,Q3,219997.0
+Gross capital formation,At Constant 2018 Prices,2003,Q3,264350.0
+Gross fixed capital formation,At Constant 2018 Prices,2003,Q3,325868.0
+Construction,At Constant 2018 Prices,2003,Q3,206868.0
+Exports of goods and services,At Constant 2018 Prices,2003,Q3,552200.0
+Imports of goods and services,At Constant 2018 Prices,2003,Q3,631950.0
+Statistical discrepancy,At Constant 2018 Prices,2003,Q3,-18759.0
+Gross Domestic Product,At Constant 2018 Prices,2003,Q3,1909701.0
+Household final consumption expenditure,At Constant 2018 Prices,2003,Q4,1697272.0
+Government final consumption expenditure,At Constant 2018 Prices,2003,Q4,189452.0
+Gross capital formation,At Constant 2018 Prices,2003,Q4,435143.0
+Gross fixed capital formation,At Constant 2018 Prices,2003,Q4,369228.0
+Construction,At Constant 2018 Prices,2003,Q4,224489.0
+Exports of goods and services,At Constant 2018 Prices,2003,Q4,493514.0
+Imports of goods and services,At Constant 2018 Prices,2003,Q4,656557.0
+Statistical discrepancy,At Constant 2018 Prices,2003,Q4,4100.0
+Gross Domestic Product,At Constant 2018 Prices,2003,Q4,2162922.0
+Household final consumption expenditure,At Constant 2018 Prices,2004,Q1,1523683.0
+Government final consumption expenditure,At Constant 2018 Prices,2004,Q1,207095.0
+Gross capital formation,At Constant 2018 Prices,2004,Q1,383136.0
+Gross fixed capital formation,At Constant 2018 Prices,2004,Q1,339108.0
+Construction,At Constant 2018 Prices,2004,Q1,193900.0
+Exports of goods and services,At Constant 2018 Prices,2004,Q1,485321.0
+Imports of goods and services,At Constant 2018 Prices,2004,Q1,629576.0
+Statistical discrepancy,At Constant 2018 Prices,2004,Q1,2468.0
+Gross Domestic Product,At Constant 2018 Prices,2004,Q1,1972128.0
+Household final consumption expenditure,At Constant 2018 Prices,2004,Q2,1582891.0
+Government final consumption expenditure,At Constant 2018 Prices,2004,Q2,221251.0
+Gross capital formation,At Constant 2018 Prices,2004,Q2,455576.0
+Gross fixed capital formation,At Constant 2018 Prices,2004,Q2,378832.0
+Construction,At Constant 2018 Prices,2004,Q2,230227.0
+Exports of goods and services,At Constant 2018 Prices,2004,Q2,489185.0
+Imports of goods and services,At Constant 2018 Prices,2004,Q2,677594.0
+Statistical discrepancy,At Constant 2018 Prices,2004,Q2,6503.0
+Gross Domestic Product,At Constant 2018 Prices,2004,Q2,2077812.0
+Household final consumption expenditure,At Constant 2018 Prices,2004,Q3,1612650.0
+Government final consumption expenditure,At Constant 2018 Prices,2004,Q3,217024.0
+Gross capital formation,At Constant 2018 Prices,2004,Q3,302760.0
+Gross fixed capital formation,At Constant 2018 Prices,2004,Q3,331374.0
+Construction,At Constant 2018 Prices,2004,Q3,212922.0
+Exports of goods and services,At Constant 2018 Prices,2004,Q3,567254.0
+Imports of goods and services,At Constant 2018 Prices,2004,Q3,650812.0
+Statistical discrepancy,At Constant 2018 Prices,2004,Q3,-19757.0
+Gross Domestic Product,At Constant 2018 Prices,2004,Q3,2029119.0
+Household final consumption expenditure,At Constant 2018 Prices,2004,Q4,1811167.0
+Government final consumption expenditure,At Constant 2018 Prices,2004,Q4,193032.0
+Gross capital formation,At Constant 2018 Prices,2004,Q4,399154.0
+Gross fixed capital formation,At Constant 2018 Prices,2004,Q4,399730.0
+Construction,At Constant 2018 Prices,2004,Q4,235492.0
+Exports of goods and services,At Constant 2018 Prices,2004,Q4,571137.0
+Imports of goods and services,At Constant 2018 Prices,2004,Q4,703256.0
+Statistical discrepancy,At Constant 2018 Prices,2004,Q4,10786.0
+Gross Domestic Product,At Constant 2018 Prices,2004,Q4,2282020.0
+Household final consumption expenditure,At Constant 2018 Prices,2005,Q1,1598765.0
+Government final consumption expenditure,At Constant 2018 Prices,2005,Q1,210418.0
+Gross capital formation,At Constant 2018 Prices,2005,Q1,331202.0
+Gross fixed capital formation,At Constant 2018 Prices,2005,Q1,331788.0
+Construction,At Constant 2018 Prices,2005,Q1,183921.0
+Exports of goods and services,At Constant 2018 Prices,2005,Q1,548189.0
+Imports of goods and services,At Constant 2018 Prices,2005,Q1,637569.0
+Statistical discrepancy,At Constant 2018 Prices,2005,Q1,20134.0
+Gross Domestic Product,At Constant 2018 Prices,2005,Q1,2071140.0
+Household final consumption expenditure,At Constant 2018 Prices,2005,Q2,1678553.0
+Government final consumption expenditure,At Constant 2018 Prices,2005,Q2,250907.0
+Gross capital formation,At Constant 2018 Prices,2005,Q2,414060.0
+Gross fixed capital formation,At Constant 2018 Prices,2005,Q2,397493.0
+Construction,At Constant 2018 Prices,2005,Q2,240254.0
+Exports of goods and services,At Constant 2018 Prices,2005,Q2,572619.0
+Imports of goods and services,At Constant 2018 Prices,2005,Q2,723316.0
+Statistical discrepancy,At Constant 2018 Prices,2005,Q2,2545.0
+Gross Domestic Product,At Constant 2018 Prices,2005,Q2,2195369.0
+Household final consumption expenditure,At Constant 2018 Prices,2005,Q3,1671508.0
+Government final consumption expenditure,At Constant 2018 Prices,2005,Q3,210662.0
+Gross capital formation,At Constant 2018 Prices,2005,Q3,295131.0
+Gross fixed capital formation,At Constant 2018 Prices,2005,Q3,325426.0
+Construction,At Constant 2018 Prices,2005,Q3,194924.0
+Exports of goods and services,At Constant 2018 Prices,2005,Q3,646921.0
+Imports of goods and services,At Constant 2018 Prices,2005,Q3,686892.0
+Statistical discrepancy,At Constant 2018 Prices,2005,Q3,-19345.0
+Gross Domestic Product,At Constant 2018 Prices,2005,Q3,2117985.0
+Household final consumption expenditure,At Constant 2018 Prices,2005,Q4,1871806.0
+Government final consumption expenditure,At Constant 2018 Prices,2005,Q4,191371.0
+Gross capital formation,At Constant 2018 Prices,2005,Q4,433406.0
+Gross fixed capital formation,At Constant 2018 Prices,2005,Q4,380001.0
+Construction,At Constant 2018 Prices,2005,Q4,202083.0
+Exports of goods and services,At Constant 2018 Prices,2005,Q4,609240.0
+Imports of goods and services,At Constant 2018 Prices,2005,Q4,712658.0
+Statistical discrepancy,At Constant 2018 Prices,2005,Q4,-3334.0
+Gross Domestic Product,At Constant 2018 Prices,2005,Q4,2389831.0
+Household final consumption expenditure,At Constant 2018 Prices,2006,Q1,1654718.0
+Government final consumption expenditure,At Constant 2018 Prices,2006,Q1,232880.0
+Gross capital formation,At Constant 2018 Prices,2006,Q1,333424.0
+Gross fixed capital formation,At Constant 2018 Prices,2006,Q1,337112.0
+Construction,At Constant 2018 Prices,2006,Q1,177535.0
+Exports of goods and services,At Constant 2018 Prices,2006,Q1,632653.0
+Imports of goods and services,At Constant 2018 Prices,2006,Q1,709926.0
+Statistical discrepancy,At Constant 2018 Prices,2006,Q1,20632.0
+Gross Domestic Product,At Constant 2018 Prices,2006,Q1,2164381.0
+Household final consumption expenditure,At Constant 2018 Prices,2006,Q2,1766477.0
+Government final consumption expenditure,At Constant 2018 Prices,2006,Q2,275899.0
+Gross capital formation,At Constant 2018 Prices,2006,Q2,329575.0
+Gross fixed capital formation,At Constant 2018 Prices,2006,Q2,407754.0
+Construction,At Constant 2018 Prices,2006,Q2,250929.0
+Exports of goods and services,At Constant 2018 Prices,2006,Q2,678899.0
+Imports of goods and services,At Constant 2018 Prices,2006,Q2,725596.0
+Statistical discrepancy,At Constant 2018 Prices,2006,Q2,59.0
+Gross Domestic Product,At Constant 2018 Prices,2006,Q2,2325314.0
+Household final consumption expenditure,At Constant 2018 Prices,2006,Q3,1732145.0
+Government final consumption expenditure,At Constant 2018 Prices,2006,Q3,245446.0
+Gross capital formation,At Constant 2018 Prices,2006,Q3,237287.0
+Gross fixed capital formation,At Constant 2018 Prices,2006,Q3,344238.0
+Construction,At Constant 2018 Prices,2006,Q3,207801.0
+Exports of goods and services,At Constant 2018 Prices,2006,Q3,682779.0
+Imports of goods and services,At Constant 2018 Prices,2006,Q3,658963.0
+Statistical discrepancy,At Constant 2018 Prices,2006,Q3,-21100.0
+Gross Domestic Product,At Constant 2018 Prices,2006,Q3,2217593.0
+Household final consumption expenditure,At Constant 2018 Prices,2006,Q4,1952559.0
+Government final consumption expenditure,At Constant 2018 Prices,2006,Q4,214170.0
+Gross capital formation,At Constant 2018 Prices,2006,Q4,421478.0
+Gross fixed capital formation,At Constant 2018 Prices,2006,Q4,418005.0
+Construction,At Constant 2018 Prices,2006,Q4,225753.0
+Exports of goods and services,At Constant 2018 Prices,2006,Q4,621694.0
+Imports of goods and services,At Constant 2018 Prices,2006,Q4,676793.0
+Statistical discrepancy,At Constant 2018 Prices,2006,Q4,409.0
+Gross Domestic Product,At Constant 2018 Prices,2006,Q4,2533516.0
+Household final consumption expenditure,At Constant 2018 Prices,2007,Q1,1721464.0
+Government final consumption expenditure,At Constant 2018 Prices,2007,Q1,263396.0
+Gross capital formation,At Constant 2018 Prices,2007,Q1,320010.0
+Gross fixed capital formation,At Constant 2018 Prices,2007,Q1,384464.0
+Construction,At Constant 2018 Prices,2007,Q1,217604.0
+Exports of goods and services,At Constant 2018 Prices,2007,Q1,668838.0
+Imports of goods and services,At Constant 2018 Prices,2007,Q1,691585.0
+Statistical discrepancy,At Constant 2018 Prices,2007,Q1,15674.0
+Gross Domestic Product,At Constant 2018 Prices,2007,Q1,2297797.0
+Household final consumption expenditure,At Constant 2018 Prices,2007,Q2,1852435.0
+Government final consumption expenditure,At Constant 2018 Prices,2007,Q2,302268.0
+Gross capital formation,At Constant 2018 Prices,2007,Q2,368243.0
+Gross fixed capital formation,At Constant 2018 Prices,2007,Q2,456669.0
+Construction,At Constant 2018 Prices,2007,Q2,291237.0
+Exports of goods and services,At Constant 2018 Prices,2007,Q2,671560.0
+Imports of goods and services,At Constant 2018 Prices,2007,Q2,707409.0
+Statistical discrepancy,At Constant 2018 Prices,2007,Q2,-2680.0
+Gross Domestic Product,At Constant 2018 Prices,2007,Q2,2484417.0
+Household final consumption expenditure,At Constant 2018 Prices,2007,Q3,1808810.0
+Government final consumption expenditure,At Constant 2018 Prices,2007,Q3,239834.0
+Gross capital formation,At Constant 2018 Prices,2007,Q3,296236.0
+Gross fixed capital formation,At Constant 2018 Prices,2007,Q3,381029.0
+Construction,At Constant 2018 Prices,2007,Q3,231645.0
+Exports of goods and services,At Constant 2018 Prices,2007,Q3,708423.0
+Imports of goods and services,At Constant 2018 Prices,2007,Q3,668976.0
+Statistical discrepancy,At Constant 2018 Prices,2007,Q3,-21555.0
+Gross Domestic Product,At Constant 2018 Prices,2007,Q3,2362773.0
+Household final consumption expenditure,At Constant 2018 Prices,2007,Q4,2064944.0
+Government final consumption expenditure,At Constant 2018 Prices,2007,Q4,231713.0
+Gross capital formation,At Constant 2018 Prices,2007,Q4,447441.0
+Gross fixed capital formation,At Constant 2018 Prices,2007,Q4,450797.0
+Construction,At Constant 2018 Prices,2007,Q4,250923.0
+Exports of goods and services,At Constant 2018 Prices,2007,Q4,642079.0
+Imports of goods and services,At Constant 2018 Prices,2007,Q4,696486.0
+Statistical discrepancy,At Constant 2018 Prices,2007,Q4,8561.0
+Gross Domestic Product,At Constant 2018 Prices,2007,Q4,2698252.0
+Household final consumption expenditure,At Constant 2018 Prices,2008,Q1,1812829.0
+Government final consumption expenditure,At Constant 2018 Prices,2008,Q1,257821.0
+Gross capital formation,At Constant 2018 Prices,2008,Q1,397180.0
+Gross fixed capital formation,At Constant 2018 Prices,2008,Q1,398952.0
+Construction,At Constant 2018 Prices,2008,Q1,228384.0
+Exports of goods and services,At Constant 2018 Prices,2008,Q1,608143.0
+Imports of goods and services,At Constant 2018 Prices,2008,Q1,691877.0
+Statistical discrepancy,At Constant 2018 Prices,2008,Q1,9511.0
+Gross Domestic Product,At Constant 2018 Prices,2008,Q1,2393607.0
+Household final consumption expenditure,At Constant 2018 Prices,2008,Q2,1908160.0
+Government final consumption expenditure,At Constant 2018 Prices,2008,Q2,294099.0
+Gross capital formation,At Constant 2018 Prices,2008,Q2,444797.0
+Gross fixed capital formation,At Constant 2018 Prices,2008,Q2,471790.0
+Construction,At Constant 2018 Prices,2008,Q2,298560.0
+Exports of goods and services,At Constant 2018 Prices,2008,Q2,691344.0
+Imports of goods and services,At Constant 2018 Prices,2008,Q2,735892.0
+Statistical discrepancy,At Constant 2018 Prices,2008,Q2,491.0
+Gross Domestic Product,At Constant 2018 Prices,2008,Q2,2602999.0
+Household final consumption expenditure,At Constant 2018 Prices,2008,Q3,1874840.0
+Government final consumption expenditure,At Constant 2018 Prices,2008,Q3,258554.0
+Gross capital formation,At Constant 2018 Prices,2008,Q3,400907.0
+Gross fixed capital formation,At Constant 2018 Prices,2008,Q3,449247.0
+Construction,At Constant 2018 Prices,2008,Q3,286465.0
+Exports of goods and services,At Constant 2018 Prices,2008,Q3,706051.0
+Imports of goods and services,At Constant 2018 Prices,2008,Q3,724753.0
+Statistical discrepancy,At Constant 2018 Prices,2008,Q3,-24404.0
+Gross Domestic Product,At Constant 2018 Prices,2008,Q3,2491196.0
+Household final consumption expenditure,At Constant 2018 Prices,2008,Q4,2138752.0
+Government final consumption expenditure,At Constant 2018 Prices,2008,Q4,232026.0
+Gross capital formation,At Constant 2018 Prices,2008,Q4,572370.0
+Gross fixed capital formation,At Constant 2018 Prices,2008,Q4,494200.0
+Construction,At Constant 2018 Prices,2008,Q4,294018.0
+Exports of goods and services,At Constant 2018 Prices,2008,Q4,569643.0
+Imports of goods and services,At Constant 2018 Prices,2008,Q4,744119.0
+Statistical discrepancy,At Constant 2018 Prices,2008,Q4,14402.0
+Gross Domestic Product,At Constant 2018 Prices,2008,Q4,2783075.0
+Household final consumption expenditure,At Constant 2018 Prices,2009,Q1,1850946.0
+Government final consumption expenditure,At Constant 2018 Prices,2009,Q1,273082.0
+Gross capital formation,At Constant 2018 Prices,2009,Q1,332148.0
+Gross fixed capital formation,At Constant 2018 Prices,2009,Q1,413530.0
+Construction,At Constant 2018 Prices,2009,Q1,246460.0
+Exports of goods and services,At Constant 2018 Prices,2009,Q1,618357.0
+Imports of goods and services,At Constant 2018 Prices,2009,Q1,641907.0
+Statistical discrepancy,At Constant 2018 Prices,2009,Q1,-12276.0
+Gross Domestic Product,At Constant 2018 Prices,2009,Q1,2420350.0
+Household final consumption expenditure,At Constant 2018 Prices,2009,Q2,1988001.0
+Government final consumption expenditure,At Constant 2018 Prices,2009,Q2,328676.0
+Gross capital formation,At Constant 2018 Prices,2009,Q2,447442.0
+Gross fixed capital formation,At Constant 2018 Prices,2009,Q2,489762.0
+Construction,At Constant 2018 Prices,2009,Q2,335987.0
+Exports of goods and services,At Constant 2018 Prices,2009,Q2,636372.0
+Imports of goods and services,At Constant 2018 Prices,2009,Q2,759579.0
+Statistical discrepancy,At Constant 2018 Prices,2009,Q2,11341.0
+Gross Domestic Product,At Constant 2018 Prices,2009,Q2,2652251.0
+Household final consumption expenditure,At Constant 2018 Prices,2009,Q3,1889867.0
+Government final consumption expenditure,At Constant 2018 Prices,2009,Q3,290351.0
+Gross capital formation,At Constant 2018 Prices,2009,Q3,359092.0
+Gross fixed capital formation,At Constant 2018 Prices,2009,Q3,447942.0
+Construction,At Constant 2018 Prices,2009,Q3,278984.0
+Exports of goods and services,At Constant 2018 Prices,2009,Q3,659397.0
+Imports of goods and services,At Constant 2018 Prices,2009,Q3,680923.0
+Statistical discrepancy,At Constant 2018 Prices,2009,Q3,-3473.0
+Gross Domestic Product,At Constant 2018 Prices,2009,Q3,2514311.0
+Household final consumption expenditure,At Constant 2018 Prices,2009,Q4,2201565.0
+Government final consumption expenditure,At Constant 2018 Prices,2009,Q4,265495.0
+Gross capital formation,At Constant 2018 Prices,2009,Q4,567685.0
+Gross fixed capital formation,At Constant 2018 Prices,2009,Q4,501110.0
+Construction,At Constant 2018 Prices,2009,Q4,286767.0
+Exports of goods and services,At Constant 2018 Prices,2009,Q4,539809.0
+Imports of goods and services,At Constant 2018 Prices,2009,Q4,746241.0
+Statistical discrepancy,At Constant 2018 Prices,2009,Q4,4408.0
+Gross Domestic Product,At Constant 2018 Prices,2009,Q4,2832721.0
+Household final consumption expenditure,At Constant 2018 Prices,2010,Q1,1929592.0
+Government final consumption expenditure,At Constant 2018 Prices,2010,Q1,332186.0
+Gross capital formation,At Constant 2018 Prices,2010,Q1,411846.0
+Gross fixed capital formation,At Constant 2018 Prices,2010,Q1,478352.0
+Construction,At Constant 2018 Prices,2010,Q1,274525.0
+Exports of goods and services,At Constant 2018 Prices,2010,Q1,748693.0
+Imports of goods and services,At Constant 2018 Prices,2010,Q1,792706.0
+Statistical discrepancy,At Constant 2018 Prices,2010,Q1,-12720.0
+Gross Domestic Product,At Constant 2018 Prices,2010,Q1,2616891.0
+Household final consumption expenditure,At Constant 2018 Prices,2010,Q2,2030708.0
+Government final consumption expenditure,At Constant 2018 Prices,2010,Q2,353662.0
+Gross capital formation,At Constant 2018 Prices,2010,Q2,607373.0
+Gross fixed capital formation,At Constant 2018 Prices,2010,Q2,631372.0
+Construction,At Constant 2018 Prices,2010,Q2,431338.0
+Exports of goods and services,At Constant 2018 Prices,2010,Q2,782873.0
+Imports of goods and services,At Constant 2018 Prices,2010,Q2,918587.0
+Statistical discrepancy,At Constant 2018 Prices,2010,Q2,7737.0
+Gross Domestic Product,At Constant 2018 Prices,2010,Q2,2863767.0
+Household final consumption expenditure,At Constant 2018 Prices,2010,Q3,1939923.0
+Government final consumption expenditure,At Constant 2018 Prices,2010,Q3,271834.0
+Gross capital formation,At Constant 2018 Prices,2010,Q3,516452.0
+Gross fixed capital formation,At Constant 2018 Prices,2010,Q3,520720.0
+Construction,At Constant 2018 Prices,2010,Q3,329609.0
+Exports of goods and services,At Constant 2018 Prices,2010,Q3,784806.0
+Imports of goods and services,At Constant 2018 Prices,2010,Q3,819057.0
+Statistical discrepancy,At Constant 2018 Prices,2010,Q3,-1906.0
+Gross Domestic Product,At Constant 2018 Prices,2010,Q3,2692052.0
+Household final consumption expenditure,At Constant 2018 Prices,2010,Q4,2314840.0
+Government final consumption expenditure,At Constant 2018 Prices,2010,Q4,248236.0
+Gross capital formation,At Constant 2018 Prices,2010,Q4,690450.0
+Gross fixed capital formation,At Constant 2018 Prices,2010,Q4,591251.0
+Construction,At Constant 2018 Prices,2010,Q4,333425.0
+Exports of goods and services,At Constant 2018 Prices,2010,Q4,635900.0
+Imports of goods and services,At Constant 2018 Prices,2010,Q4,885162.0
+Statistical discrepancy,At Constant 2018 Prices,2010,Q4,6888.0
+Gross Domestic Product,At Constant 2018 Prices,2010,Q4,3011152.0
+Household final consumption expenditure,At Constant 2018 Prices,2011,Q1,2021322.0
+Government final consumption expenditure,At Constant 2018 Prices,2011,Q1,282310.0
+Gross capital formation,At Constant 2018 Prices,2011,Q1,542058.0
+Gross fixed capital formation,At Constant 2018 Prices,2011,Q1,533775.0
+Construction,At Constant 2018 Prices,2011,Q1,287953.0
+Exports of goods and services,At Constant 2018 Prices,2011,Q1,775297.0
+Imports of goods and services,At Constant 2018 Prices,2011,Q1,883200.0
+Statistical discrepancy,At Constant 2018 Prices,2011,Q1,5422.0
+Gross Domestic Product,At Constant 2018 Prices,2011,Q1,2743209.0
+Household final consumption expenditure,At Constant 2018 Prices,2011,Q2,2129049.0
+Government final consumption expenditure,At Constant 2018 Prices,2011,Q2,378231.0
+Gross capital formation,At Constant 2018 Prices,2011,Q2,502596.0
+Gross fixed capital formation,At Constant 2018 Prices,2011,Q2,529327.0
+Construction,At Constant 2018 Prices,2011,Q2,324842.0
+Exports of goods and services,At Constant 2018 Prices,2011,Q2,832496.0
+Imports of goods and services,At Constant 2018 Prices,2011,Q2,897317.0
+Statistical discrepancy,At Constant 2018 Prices,2011,Q2,20672.0
+Gross Domestic Product,At Constant 2018 Prices,2011,Q2,2965726.0
+Household final consumption expenditure,At Constant 2018 Prices,2011,Q3,2070681.0
+Government final consumption expenditure,At Constant 2018 Prices,2011,Q3,298731.0
+Gross capital formation,At Constant 2018 Prices,2011,Q3,505978.0
+Gross fixed capital formation,At Constant 2018 Prices,2011,Q3,504304.0
+Construction,At Constant 2018 Prices,2011,Q3,294152.0
+Exports of goods and services,At Constant 2018 Prices,2011,Q3,706488.0
+Imports of goods and services,At Constant 2018 Prices,2011,Q3,781806.0
+Statistical discrepancy,At Constant 2018 Prices,2011,Q3,-26296.0
+Gross Domestic Product,At Constant 2018 Prices,2011,Q3,2773776.0
+Household final consumption expenditure,At Constant 2018 Prices,2011,Q4,2450123.0
+Government final consumption expenditure,At Constant 2018 Prices,2011,Q4,269628.0
+Gross capital formation,At Constant 2018 Prices,2011,Q4,618973.0
+Gross fixed capital formation,At Constant 2018 Prices,2011,Q4,561931.0
+Construction,At Constant 2018 Prices,2011,Q4,341105.0
+Exports of goods and services,At Constant 2018 Prices,2011,Q4,614938.0
+Imports of goods and services,At Constant 2018 Prices,2011,Q4,821214.0
+Statistical discrepancy,At Constant 2018 Prices,2011,Q4,202.0
+Gross Domestic Product,At Constant 2018 Prices,2011,Q4,3132649.0
+Household final consumption expenditure,At Constant 2018 Prices,2012,Q1,2168390.0
+Government final consumption expenditure,At Constant 2018 Prices,2012,Q1,352315.0
+Gross capital formation,At Constant 2018 Prices,2012,Q1,471105.0
+Gross fixed capital formation,At Constant 2018 Prices,2012,Q1,536233.0
+Construction,At Constant 2018 Prices,2012,Q1,287655.0
+Exports of goods and services,At Constant 2018 Prices,2012,Q1,773802.0
+Imports of goods and services,At Constant 2018 Prices,2012,Q1,854461.0
+Statistical discrepancy,At Constant 2018 Prices,2012,Q1,-2251.0
+Gross Domestic Product,At Constant 2018 Prices,2012,Q1,2908899.0
+Household final consumption expenditure,At Constant 2018 Prices,2012,Q2,2273112.0
+Government final consumption expenditure,At Constant 2018 Prices,2012,Q2,417495.0
+Gross capital formation,At Constant 2018 Prices,2012,Q2,554814.0
+Gross fixed capital formation,At Constant 2018 Prices,2012,Q2,576754.0
+Construction,At Constant 2018 Prices,2012,Q2,363091.0
+Exports of goods and services,At Constant 2018 Prices,2012,Q2,876851.0
+Imports of goods and services,At Constant 2018 Prices,2012,Q2,995448.0
+Statistical discrepancy,At Constant 2018 Prices,2012,Q2,23351.0
+Gross Domestic Product,At Constant 2018 Prices,2012,Q2,3150174.0
+Household final consumption expenditure,At Constant 2018 Prices,2012,Q3,2212883.0
+Government final consumption expenditure,At Constant 2018 Prices,2012,Q3,345576.0
+Gross capital formation,At Constant 2018 Prices,2012,Q3,546995.0
+Gross fixed capital formation,At Constant 2018 Prices,2012,Q3,583211.0
+Construction,At Constant 2018 Prices,2012,Q3,367166.0
+Exports of goods and services,At Constant 2018 Prices,2012,Q3,724909.0
+Imports of goods and services,At Constant 2018 Prices,2012,Q3,845783.0
+Statistical discrepancy,At Constant 2018 Prices,2012,Q3,-5557.0
+Gross Domestic Product,At Constant 2018 Prices,2012,Q3,2979022.0
+Household final consumption expenditure,At Constant 2018 Prices,2012,Q4,2606341.0
+Government final consumption expenditure,At Constant 2018 Prices,2012,Q4,303855.0
+Gross capital formation,At Constant 2018 Prices,2012,Q4,714421.0
+Gross fixed capital formation,At Constant 2018 Prices,2012,Q4,706153.0
+Construction,At Constant 2018 Prices,2012,Q4,458023.0
+Exports of goods and services,At Constant 2018 Prices,2012,Q4,685690.0
+Imports of goods and services,At Constant 2018 Prices,2012,Q4,916393.0
+Statistical discrepancy,At Constant 2018 Prices,2012,Q4,-15543.0
+Gross Domestic Product,At Constant 2018 Prices,2012,Q4,3378370.0
+Household final consumption expenditure,At Constant 2018 Prices,2013,Q1,2291103.0
+Government final consumption expenditure,At Constant 2018 Prices,2013,Q1,377580.0
+Gross capital formation,At Constant 2018 Prices,2013,Q1,615198.0
+Gross fixed capital formation,At Constant 2018 Prices,2013,Q1,666024.0
+Construction,At Constant 2018 Prices,2013,Q1,402573.0
+Exports of goods and services,At Constant 2018 Prices,2013,Q1,750065.0
+Imports of goods and services,At Constant 2018 Prices,2013,Q1,884242.0
+Statistical discrepancy,At Constant 2018 Prices,2013,Q1,-19928.0
+Gross Domestic Product,At Constant 2018 Prices,2013,Q1,3129776.0
+Household final consumption expenditure,At Constant 2018 Prices,2013,Q2,2390956.0
+Government final consumption expenditure,At Constant 2018 Prices,2013,Q2,456070.0
+Gross capital formation,At Constant 2018 Prices,2013,Q2,661457.0
+Gross fixed capital formation,At Constant 2018 Prices,2013,Q2,671315.0
+Construction,At Constant 2018 Prices,2013,Q2,440312.0
+Exports of goods and services,At Constant 2018 Prices,2013,Q2,884281.0
+Imports of goods and services,At Constant 2018 Prices,2013,Q2,1004059.0
+Statistical discrepancy,At Constant 2018 Prices,2013,Q2,-1874.0
+Gross Domestic Product,At Constant 2018 Prices,2013,Q2,3386829.0
+Household final consumption expenditure,At Constant 2018 Prices,2013,Q3,2355858.0
+Government final consumption expenditure,At Constant 2018 Prices,2013,Q3,360322.0
+Gross capital formation,At Constant 2018 Prices,2013,Q3,671810.0
+Gross fixed capital formation,At Constant 2018 Prices,2013,Q3,625707.0
+Construction,At Constant 2018 Prices,2013,Q3,386308.0
+Exports of goods and services,At Constant 2018 Prices,2013,Q3,775367.0
+Imports of goods and services,At Constant 2018 Prices,2013,Q3,990485.0
+Statistical discrepancy,At Constant 2018 Prices,2013,Q3,6012.0
+Gross Domestic Product,At Constant 2018 Prices,2013,Q3,3178884.0
+Household final consumption expenditure,At Constant 2018 Prices,2013,Q4,2761690.0
+Government final consumption expenditure,At Constant 2018 Prices,2013,Q4,295382.0
+Gross capital formation,At Constant 2018 Prices,2013,Q4,760718.0
+Gross fixed capital formation,At Constant 2018 Prices,2013,Q4,723699.0
+Construction,At Constant 2018 Prices,2013,Q4,437989.0
+Exports of goods and services,At Constant 2018 Prices,2013,Q4,711956.0
+Imports of goods and services,At Constant 2018 Prices,2013,Q4,986382.0
+Statistical discrepancy,At Constant 2018 Prices,2013,Q4,15790.0
+Gross Domestic Product,At Constant 2018 Prices,2013,Q4,3559155.0
+Household final consumption expenditure,At Constant 2018 Prices,2014,Q1,2441153.0
+Government final consumption expenditure,At Constant 2018 Prices,2014,Q1,391488.0
+Gross capital formation,At Constant 2018 Prices,2014,Q1,662869.0
+Gross fixed capital formation,At Constant 2018 Prices,2014,Q1,664363.0
+Construction,At Constant 2018 Prices,2014,Q1,392292.0
+Exports of goods and services,At Constant 2018 Prices,2014,Q1,865649.0
+Imports of goods and services,At Constant 2018 Prices,2014,Q1,1030754.0
+Statistical discrepancy,At Constant 2018 Prices,2014,Q1,-22270.0
+Gross Domestic Product,At Constant 2018 Prices,2014,Q1,3308136.0
+Household final consumption expenditure,At Constant 2018 Prices,2014,Q2,2530825.0
+Government final consumption expenditure,At Constant 2018 Prices,2014,Q2,464651.0
+Gross capital formation,At Constant 2018 Prices,2014,Q2,719529.0
+Gross fixed capital formation,At Constant 2018 Prices,2014,Q2,722481.0
+Construction,At Constant 2018 Prices,2014,Q2,475017.0
+Exports of goods and services,At Constant 2018 Prices,2014,Q2,949252.0
+Imports of goods and services,At Constant 2018 Prices,2014,Q2,1058554.0
+Statistical discrepancy,At Constant 2018 Prices,2014,Q2,16052.0
+Gross Domestic Product,At Constant 2018 Prices,2014,Q2,3621756.0
+Household final consumption expenditure,At Constant 2018 Prices,2014,Q3,2479539.0
+Government final consumption expenditure,At Constant 2018 Prices,2014,Q3,357840.0
+Gross capital formation,At Constant 2018 Prices,2014,Q3,705254.0
+Gross fixed capital formation,At Constant 2018 Prices,2014,Q3,699837.0
+Construction,At Constant 2018 Prices,2014,Q3,436132.0
+Exports of goods and services,At Constant 2018 Prices,2014,Q3,895291.0
+Imports of goods and services,At Constant 2018 Prices,2014,Q3,1076147.0
+Statistical discrepancy,At Constant 2018 Prices,2014,Q3,5775.0
+Gross Domestic Product,At Constant 2018 Prices,2014,Q3,3367553.0
+Household final consumption expenditure,At Constant 2018 Prices,2014,Q4,2914944.0
+Government final consumption expenditure,At Constant 2018 Prices,2014,Q4,329361.0
+Gross capital formation,At Constant 2018 Prices,2014,Q4,845796.0
+Gross fixed capital formation,At Constant 2018 Prices,2014,Q4,814599.0
+Construction,At Constant 2018 Prices,2014,Q4,524399.0
+Exports of goods and services,At Constant 2018 Prices,2014,Q4,790356.0
+Imports of goods and services,At Constant 2018 Prices,2014,Q4,1082298.0
+Statistical discrepancy,At Constant 2018 Prices,2014,Q4,442.0
+Gross Domestic Product,At Constant 2018 Prices,2014,Q4,3798601.0
+Household final consumption expenditure,At Constant 2018 Prices,2015,Q1,2591280.0
+Government final consumption expenditure,At Constant 2018 Prices,2015,Q1,392957.0
+Gross capital formation,At Constant 2018 Prices,2015,Q1,714675.0
+Gross fixed capital formation,At Constant 2018 Prices,2015,Q1,712050.0
+Construction,At Constant 2018 Prices,2015,Q1,422366.0
+Exports of goods and services,At Constant 2018 Prices,2015,Q1,967195.0
+Imports of goods and services,At Constant 2018 Prices,2015,Q1,1170119.0
+Statistical discrepancy,At Constant 2018 Prices,2015,Q1,-14192.0
+Gross Domestic Product,At Constant 2018 Prices,2015,Q1,3481796.0
+Household final consumption expenditure,At Constant 2018 Prices,2015,Q2,2695933.0
+Government final consumption expenditure,At Constant 2018 Prices,2015,Q2,476327.0
+Gross capital formation,At Constant 2018 Prices,2015,Q2,826153.0
+Gross fixed capital formation,At Constant 2018 Prices,2015,Q2,826570.0
+Construction,At Constant 2018 Prices,2015,Q2,551927.0
+Exports of goods and services,At Constant 2018 Prices,2015,Q2,1025607.0
+Imports of goods and services,At Constant 2018 Prices,2015,Q2,1199382.0
+Statistical discrepancy,At Constant 2018 Prices,2015,Q2,28866.0
+Gross Domestic Product,At Constant 2018 Prices,2015,Q2,3853504.0
+Household final consumption expenditure,At Constant 2018 Prices,2015,Q3,2636266.0
+Government final consumption expenditure,At Constant 2018 Prices,2015,Q3,414450.0
+Gross capital formation,At Constant 2018 Prices,2015,Q3,802818.0
+Gross fixed capital formation,At Constant 2018 Prices,2015,Q3,800271.0
+Construction,At Constant 2018 Prices,2015,Q3,482852.0
+Exports of goods and services,At Constant 2018 Prices,2015,Q3,981216.0
+Imports of goods and services,At Constant 2018 Prices,2015,Q3,1232968.0
+Statistical discrepancy,At Constant 2018 Prices,2015,Q3,-12394.0
+Gross Domestic Product,At Constant 2018 Prices,2015,Q3,3589388.0
+Household final consumption expenditure,At Constant 2018 Prices,2015,Q4,3111056.0
+Government final consumption expenditure,At Constant 2018 Prices,2015,Q4,381728.0
+Gross capital formation,At Constant 2018 Prices,2015,Q4,983110.0
+Gross fixed capital formation,At Constant 2018 Prices,2015,Q4,962218.0
+Construction,At Constant 2018 Prices,2015,Q4,585570.0
+Exports of goods and services,At Constant 2018 Prices,2015,Q4,875430.0
+Imports of goods and services,At Constant 2018 Prices,2015,Q4,1282825.0
+Statistical discrepancy,At Constant 2018 Prices,2015,Q4,-2280.0
+Gross Domestic Product,At Constant 2018 Prices,2015,Q4,4066219.0
+Household final consumption expenditure,At Constant 2018 Prices,2016,Q1,2777972.0
+Government final consumption expenditure,At Constant 2018 Prices,2016,Q1,443226.0
+Gross capital formation,At Constant 2018 Prices,2016,Q1,861764.0
+Gross fixed capital formation,At Constant 2018 Prices,2016,Q1,848756.0
+Construction,At Constant 2018 Prices,2016,Q1,476133.0
+Exports of goods and services,At Constant 2018 Prices,2016,Q1,1051563.0
+Imports of goods and services,At Constant 2018 Prices,2016,Q1,1397852.0
+Statistical discrepancy,At Constant 2018 Prices,2016,Q1,-13985.0
+Gross Domestic Product,At Constant 2018 Prices,2016,Q1,3722688.0
+Household final consumption expenditure,At Constant 2018 Prices,2016,Q2,2898169.0
+Government final consumption expenditure,At Constant 2018 Prices,2016,Q2,545076.0
+Gross capital formation,At Constant 2018 Prices,2016,Q2,1034695.0
+Gross fixed capital formation,At Constant 2018 Prices,2016,Q2,1041312.0
+Construction,At Constant 2018 Prices,2016,Q2,655758.0
+Exports of goods and services,At Constant 2018 Prices,2016,Q2,1128329.0
+Imports of goods and services,At Constant 2018 Prices,2016,Q2,1491631.0
+Statistical discrepancy,At Constant 2018 Prices,2016,Q2,25548.0
+Gross Domestic Product,At Constant 2018 Prices,2016,Q2,4140186.0
+Household final consumption expenditure,At Constant 2018 Prices,2016,Q3,2828137.0
+Government final consumption expenditure,At Constant 2018 Prices,2016,Q3,430953.0
+Gross capital formation,At Constant 2018 Prices,2016,Q3,968213.0
+Gross fixed capital formation,At Constant 2018 Prices,2016,Q3,988307.0
+Construction,At Constant 2018 Prices,2016,Q3,579980.0
+Exports of goods and services,At Constant 2018 Prices,2016,Q3,1060860.0
+Imports of goods and services,At Constant 2018 Prices,2016,Q3,1412587.0
+Statistical discrepancy,At Constant 2018 Prices,2016,Q3,-23094.0
+Gross Domestic Product,At Constant 2018 Prices,2016,Q3,3852483.0
+Household final consumption expenditure,At Constant 2018 Prices,2016,Q4,3319183.0
+Government final consumption expenditure,At Constant 2018 Prices,2016,Q4,402112.0
+Gross capital formation,At Constant 2018 Prices,2016,Q4,1153703.0
+Gross fixed capital formation,At Constant 2018 Prices,2016,Q4,1112378.0
+Construction,At Constant 2018 Prices,2016,Q4,640817.0
+Exports of goods and services,At Constant 2018 Prices,2016,Q4,963094.0
+Imports of goods and services,At Constant 2018 Prices,2016,Q4,1502303.0
+Statistical discrepancy,At Constant 2018 Prices,2016,Q4,11530.0
+Gross Domestic Product,At Constant 2018 Prices,2016,Q4,4347319.0
+Household final consumption expenditure,At Constant 2018 Prices,2017,Q1,2943490.0
+Government final consumption expenditure,At Constant 2018 Prices,2017,Q1,433777.0
+Gross capital formation,At Constant 2018 Prices,2017,Q1,1007110.0
+Gross fixed capital formation,At Constant 2018 Prices,2017,Q1,948492.0
+Construction,At Constant 2018 Prices,2017,Q1,516578.0
+Exports of goods and services,At Constant 2018 Prices,2017,Q1,1181384.0
+Imports of goods and services,At Constant 2018 Prices,2017,Q1,1592602.0
+Statistical discrepancy,At Constant 2018 Prices,2017,Q1,-13182.0
+Gross Domestic Product,At Constant 2018 Prices,2017,Q1,3959977.0
+Household final consumption expenditure,At Constant 2018 Prices,2017,Q2,3073414.0
+Government final consumption expenditure,At Constant 2018 Prices,2017,Q2,583654.0
+Gross capital formation,At Constant 2018 Prices,2017,Q2,1132602.0
+Gross fixed capital formation,At Constant 2018 Prices,2017,Q2,1133811.0
+Construction,At Constant 2018 Prices,2017,Q2,704807.0
+Exports of goods and services,At Constant 2018 Prices,2017,Q2,1307500.0
+Imports of goods and services,At Constant 2018 Prices,2017,Q2,1685049.0
+Statistical discrepancy,At Constant 2018 Prices,2017,Q2,25209.0
+Gross Domestic Product,At Constant 2018 Prices,2017,Q2,4437331.0
+Household final consumption expenditure,At Constant 2018 Prices,2017,Q3,2983445.0
+Government final consumption expenditure,At Constant 2018 Prices,2017,Q3,464841.0
+Gross capital formation,At Constant 2018 Prices,2017,Q3,1066586.0
+Gross fixed capital formation,At Constant 2018 Prices,2017,Q3,1086787.0
+Construction,At Constant 2018 Prices,2017,Q3,627410.0
+Exports of goods and services,At Constant 2018 Prices,2017,Q3,1304852.0
+Imports of goods and services,At Constant 2018 Prices,2017,Q3,1638292.0
+Statistical discrepancy,At Constant 2018 Prices,2017,Q3,-38797.0
+Gross Domestic Product,At Constant 2018 Prices,2017,Q3,4142636.0
+Household final consumption expenditure,At Constant 2018 Prices,2017,Q4,3527479.0
+Government final consumption expenditure,At Constant 2018 Prices,2017,Q4,457607.0
+Gross capital formation,At Constant 2018 Prices,2017,Q4,1250029.0
+Gross fixed capital formation,At Constant 2018 Prices,2017,Q4,1242946.0
+Construction,At Constant 2018 Prices,2017,Q4,709449.0
+Exports of goods and services,At Constant 2018 Prices,2017,Q4,1141653.0
+Imports of goods and services,At Constant 2018 Prices,2017,Q4,1767504.0
+Statistical discrepancy,At Constant 2018 Prices,2017,Q4,26769.0
+Gross Domestic Product,At Constant 2018 Prices,2017,Q4,4636033.0
+Household final consumption expenditure,At Constant 2018 Prices,2018,Q1,3114801.0
+Government final consumption expenditure,At Constant 2018 Prices,2018,Q1,494233.0
+Gross capital formation,At Constant 2018 Prices,2018,Q1,1042614.0
+Gross fixed capital formation,At Constant 2018 Prices,2018,Q1,1040493.0
+Construction,At Constant 2018 Prices,2018,Q1,591574.0
+Exports of goods and services,At Constant 2018 Prices,2018,Q1,1334774.0
+Imports of goods and services,At Constant 2018 Prices,2018,Q1,1750368.0
+Statistical discrepancy,At Constant 2018 Prices,2018,Q1,-20479.0
+Gross Domestic Product,At Constant 2018 Prices,2018,Q1,4215576.0
+Household final consumption expenditure,At Constant 2018 Prices,2018,Q2,3263873.0
+Government final consumption expenditure,At Constant 2018 Prices,2018,Q2,655488.0
+Gross capital formation,At Constant 2018 Prices,2018,Q2,1305208.0
+Gross fixed capital formation,At Constant 2018 Prices,2018,Q2,1335048.0
+Construction,At Constant 2018 Prices,2018,Q2,816124.0
+Exports of goods and services,At Constant 2018 Prices,2018,Q2,1454286.0
+Imports of goods and services,At Constant 2018 Prices,2018,Q2,1997855.0
+Statistical discrepancy,At Constant 2018 Prices,2018,Q2,39385.0
+Gross Domestic Product,At Constant 2018 Prices,2018,Q2,4720384.0
+Household final consumption expenditure,At Constant 2018 Prices,2018,Q3,3148718.0
+Government final consumption expenditure,At Constant 2018 Prices,2018,Q3,531757.0
+Gross capital formation,At Constant 2018 Prices,2018,Q3,1246250.0
+Gross fixed capital formation,At Constant 2018 Prices,2018,Q3,1244802.0
+Construction,At Constant 2018 Prices,2018,Q3,710197.0
+Exports of goods and services,At Constant 2018 Prices,2018,Q3,1435136.0
+Imports of goods and services,At Constant 2018 Prices,2018,Q3,1933520.0
+Statistical discrepancy,At Constant 2018 Prices,2018,Q3,-31100.0
+Gross Domestic Product,At Constant 2018 Prices,2018,Q3,4397241.0
+Household final consumption expenditure,At Constant 2018 Prices,2018,Q4,3722692.0
+Government final consumption expenditure,At Constant 2018 Prices,2018,Q4,518159.0
+Gross capital formation,At Constant 2018 Prices,2018,Q4,1365034.0
+Gross fixed capital formation,At Constant 2018 Prices,2018,Q4,1363004.0
+Construction,At Constant 2018 Prices,2018,Q4,821892.0
+Exports of goods and services,At Constant 2018 Prices,2018,Q4,1294376.0
+Imports of goods and services,At Constant 2018 Prices,2018,Q4,1980467.0
+Statistical discrepancy,At Constant 2018 Prices,2018,Q4,12194.0
+Gross Domestic Product,At Constant 2018 Prices,2018,Q4,4931988.0
+Household final consumption expenditure,At Constant 2018 Prices,2019,Q1,3308748.0
+Government final consumption expenditure,At Constant 2018 Prices,2019,Q1,523615.0
+Gross capital formation,At Constant 2018 Prices,2019,Q1,1130741.0
+Gross fixed capital formation,At Constant 2018 Prices,2019,Q1,1115073.0
+Construction,At Constant 2018 Prices,2019,Q1,641461.0
+Exports of goods and services,At Constant 2018 Prices,2019,Q1,1392610.0
+Imports of goods and services,At Constant 2018 Prices,2019,Q1,1907419.0
+Statistical discrepancy,At Constant 2018 Prices,2019,Q1,14891.0
+Gross Domestic Product,At Constant 2018 Prices,2019,Q1,4463186.0
+Household final consumption expenditure,At Constant 2018 Prices,2019,Q2,3445708.0
+Government final consumption expenditure,At Constant 2018 Prices,2019,Q2,697011.0
+Gross capital formation,At Constant 2018 Prices,2019,Q2,1297367.0
+Gross fixed capital formation,At Constant 2018 Prices,2019,Q2,1307929.0
+Construction,At Constant 2018 Prices,2019,Q2,839456.0
+Exports of goods and services,At Constant 2018 Prices,2019,Q2,1513731.0
+Imports of goods and services,At Constant 2018 Prices,2019,Q2,2001894.0
+Statistical discrepancy,At Constant 2018 Prices,2019,Q2,34002.0
+Gross Domestic Product,At Constant 2018 Prices,2019,Q2,4985924.0
+Household final consumption expenditure,At Constant 2018 Prices,2019,Q3,3337241.0
+Government final consumption expenditure,At Constant 2018 Prices,2019,Q3,575719.0
+Gross capital formation,At Constant 2018 Prices,2019,Q3,1237959.0
+Gross fixed capital formation,At Constant 2018 Prices,2019,Q3,1310861.0
+Construction,At Constant 2018 Prices,2019,Q3,807238.0
+Exports of goods and services,At Constant 2018 Prices,2019,Q3,1457178.0
+Imports of goods and services,At Constant 2018 Prices,2019,Q3,1933644.0
+Statistical discrepancy,At Constant 2018 Prices,2019,Q3,1090.0
+Gross Domestic Product,At Constant 2018 Prices,2019,Q3,4675544.0
+Household final consumption expenditure,At Constant 2018 Prices,2019,Q4,3935759.0
+Government final consumption expenditure,At Constant 2018 Prices,2019,Q4,603522.0
+Gross capital formation,At Constant 2018 Prices,2019,Q4,1466282.0
+Gross fixed capital formation,At Constant 2018 Prices,2019,Q4,1441657.0
+Construction,At Constant 2018 Prices,2019,Q4,917836.0
+Exports of goods and services,At Constant 2018 Prices,2019,Q4,1300524.0
+Imports of goods and services,At Constant 2018 Prices,2019,Q4,1998007.0
+Statistical discrepancy,At Constant 2018 Prices,2019,Q4,-49983.0
+Gross Domestic Product,At Constant 2018 Prices,2019,Q4,5258096.0
+Household final consumption expenditure,At Constant 2018 Prices,2020,Q1,3314612.0
+Government final consumption expenditure,At Constant 2018 Prices,2020,Q1,560060.0
+Gross capital formation,At Constant 2018 Prices,2020,Q1,991934.0
+Gross fixed capital formation,At Constant 2018 Prices,2020,Q1,1095229.0
+Construction,At Constant 2018 Prices,2020,Q1,630876.0
+Exports of goods and services,At Constant 2018 Prices,2020,Q1,1342200.0
+Imports of goods and services,At Constant 2018 Prices,2020,Q1,1769935.0
+Statistical discrepancy,At Constant 2018 Prices,2020,Q1,-5066.0
+Gross Domestic Product,At Constant 2018 Prices,2020,Q1,4433805.0
+Household final consumption expenditure,At Constant 2018 Prices,2020,Q2,2917737.0
+Government final consumption expenditure,At Constant 2018 Prices,2020,Q2,848877.0
+Gross capital formation,At Constant 2018 Prices,2020,Q2,625145.0
+Gross fixed capital formation,At Constant 2018 Prices,2020,Q2,842833.0
+Construction,At Constant 2018 Prices,2020,Q2,579981.0
+Exports of goods and services,At Constant 2018 Prices,2020,Q2,1010843.0
+Imports of goods and services,At Constant 2018 Prices,2020,Q2,1257461.0
+Statistical discrepancy,At Constant 2018 Prices,2020,Q2,-2198.0
+Gross Domestic Product,At Constant 2018 Prices,2020,Q2,4142943.0
+Household final consumption expenditure,At Constant 2018 Prices,2020,Q3,3030086.0
+Government final consumption expenditure,At Constant 2018 Prices,2020,Q3,609090.0
+Gross capital formation,At Constant 2018 Prices,2020,Q3,757159.0
+Gross fixed capital formation,At Constant 2018 Prices,2020,Q3,813441.0
+Construction,At Constant 2018 Prices,2020,Q3,441881.0
+Exports of goods and services,At Constant 2018 Prices,2020,Q3,1234793.0
+Imports of goods and services,At Constant 2018 Prices,2020,Q3,1536230.0
+Statistical discrepancy,At Constant 2018 Prices,2020,Q3,40601.0
+Gross Domestic Product,At Constant 2018 Prices,2020,Q3,4135499.0
+Household final consumption expenditure,At Constant 2018 Prices,2020,Q4,3648922.0
+Government final consumption expenditure,At Constant 2018 Prices,2020,Q4,633848.0
+Gross capital formation,At Constant 2018 Prices,2020,Q4,1001594.0
+Gross fixed capital formation,At Constant 2018 Prices,2020,Q4,1010289.0
+Construction,At Constant 2018 Prices,2020,Q4,589796.0
+Exports of goods and services,At Constant 2018 Prices,2020,Q4,1161834.0
+Imports of goods and services,At Constant 2018 Prices,2020,Q4,1587264.0
+Statistical discrepancy,At Constant 2018 Prices,2020,Q4,-33338.0
+Gross Domestic Product,At Constant 2018 Prices,2020,Q4,4825596.0
+Household final consumption expenditure,At Constant 2018 Prices,2021,Q1,3156809.0
+Government final consumption expenditure,At Constant 2018 Prices,2021,Q1,650700.0
+Gross capital formation,At Constant 2018 Prices,2021,Q1,852223.0
+Gross fixed capital formation,At Constant 2018 Prices,2021,Q1,895859.0
+Construction,At Constant 2018 Prices,2021,Q1,472020.0
+Exports of goods and services,At Constant 2018 Prices,2021,Q1,1230985.0
+Imports of goods and services,At Constant 2018 Prices,2021,Q1,1636543.0
+Statistical discrepancy,At Constant 2018 Prices,2021,Q1,12623.0
+Gross Domestic Product,At Constant 2018 Prices,2021,Q1,4266797.0
+Household final consumption expenditure,At Constant 2018 Prices,2021,Q2,3130131.0
+Government final consumption expenditure,At Constant 2018 Prices,2021,Q2,814245.0
+Gross capital formation,At Constant 2018 Prices,2021,Q2,1148345.0
+Gross fixed capital formation,At Constant 2018 Prices,2021,Q2,1177826.0
+Construction,At Constant 2018 Prices,2021,Q2,784810.0
+Exports of goods and services,At Constant 2018 Prices,2021,Q2,1297945.0
+Imports of goods and services,At Constant 2018 Prices,2021,Q2,1762962.0
+Statistical discrepancy,At Constant 2018 Prices,2021,Q2,14120.0
+Gross Domestic Product,At Constant 2018 Prices,2021,Q2,4641825.0
+Household final consumption expenditure,At Constant 2018 Prices,2021,Q3,3245553.0
+Government final consumption expenditure,At Constant 2018 Prices,2021,Q3,693780.0
+Gross capital formation,At Constant 2018 Prices,2021,Q3,908516.0
+Gross fixed capital formation,At Constant 2018 Prices,2021,Q3,941009.0
+Construction,At Constant 2018 Prices,2021,Q3,551836.0
+Exports of goods and services,At Constant 2018 Prices,2021,Q3,1348936.0
+Imports of goods and services,At Constant 2018 Prices,2021,Q3,1729904.0
+Statistical discrepancy,At Constant 2018 Prices,2021,Q3,-40251.0
+Gross Domestic Product,At Constant 2018 Prices,2021,Q3,4426630.0
+Household final consumption expenditure,At Constant 2018 Prices,2021,Q4,3922624.0
+Government final consumption expenditure,At Constant 2018 Prices,2021,Q4,683980.0
+Gross capital formation,At Constant 2018 Prices,2021,Q4,1142715.0
+Gross fixed capital formation,At Constant 2018 Prices,2021,Q4,1117448.0
+Construction,At Constant 2018 Prices,2021,Q4,681711.0
+Exports of goods and services,At Constant 2018 Prices,2021,Q4,1251806.0
+Imports of goods and services,At Constant 2018 Prices,2021,Q4,1809800.0
+Statistical discrepancy,At Constant 2018 Prices,2021,Q4,13508.0
+Gross Domestic Product,At Constant 2018 Prices,2021,Q4,5204832.0
+Household final consumption expenditure,At Constant 2018 Prices,2022,Q1,3472080.0
+Government final consumption expenditure,At Constant 2018 Prices,2022,Q1,675243.0
+Gross capital formation,At Constant 2018 Prices,2022,Q1,1003149.0
+Gross fixed capital formation,At Constant 2018 Prices,2022,Q1,994135.0
+Construction,At Constant 2018 Prices,2022,Q1,536200.0
+Exports of goods and services,At Constant 2018 Prices,2022,Q1,1362603.0
+Imports of goods and services,At Constant 2018 Prices,2022,Q1,1902101.0
+Statistical discrepancy,At Constant 2018 Prices,2022,Q1,246.0
+Gross Domestic Product,At Constant 2018 Prices,2022,Q1,4611219.0
+Household final consumption expenditure,At Constant 2018 Prices,2022,Q2,3397178.0
+Government final consumption expenditure,At Constant 2018 Prices,2022,Q2,904956.0
+Gross capital formation,At Constant 2018 Prices,2022,Q2,1344737.0
+Gross fixed capital formation,At Constant 2018 Prices,2022,Q2,1324321.0
+Construction,At Constant 2018 Prices,2022,Q2,903988.0
+Exports of goods and services,At Constant 2018 Prices,2022,Q2,1362409.0
+Imports of goods and services,At Constant 2018 Prices,2022,Q2,2017312.0
+Statistical discrepancy,At Constant 2018 Prices,2022,Q2,-1034.0
+Gross Domestic Product,At Constant 2018 Prices,2022,Q2,4990934.0
+Household final consumption expenditure,At Constant 2018 Prices,2022,Q3,3505788.0
+Government final consumption expenditure,At Constant 2018 Prices,2022,Q3,700083.0
+Gross capital formation,At Constant 2018 Prices,2022,Q3,1072152.0
+Gross fixed capital formation,At Constant 2018 Prices,2022,Q3,1030519.0
+Construction,At Constant 2018 Prices,2022,Q3,611190.0
+Exports of goods and services,At Constant 2018 Prices,2022,Q3,1534252.0
+Imports of goods and services,At Constant 2018 Prices,2022,Q3,2052446.0
+Statistical discrepancy,At Constant 2018 Prices,2022,Q3,7719.0
+Gross Domestic Product,At Constant 2018 Prices,2022,Q3,4767549.0
+Household final consumption expenditure,At Constant 2018 Prices,2022,Q4,4195302.0
+Government final consumption expenditure,At Constant 2018 Prices,2022,Q4,708326.0
+Gross capital formation,At Constant 2018 Prices,2022,Q4,1186610.0
+Gross fixed capital formation,At Constant 2018 Prices,2022,Q4,1186201.0
+Construction,At Constant 2018 Prices,2022,Q4,741096.0
+Exports of goods and services,At Constant 2018 Prices,2022,Q4,1432587.0
+Imports of goods and services,At Constant 2018 Prices,2022,Q4,1939992.0
+Statistical discrepancy,At Constant 2018 Prices,2022,Q4,-6931.0
+Gross Domestic Product,At Constant 2018 Prices,2022,Q4,5575902.0
+Household final consumption expenditure,At Constant 2018 Prices,2023,Q1,3692158.0
+Government final consumption expenditure,At Constant 2018 Prices,2023,Q1,715392.0
+Gross capital formation,At Constant 2018 Prices,2023,Q1,1140162.0
+Gross fixed capital formation,At Constant 2018 Prices,2023,Q1,1103485.0
+Construction,At Constant 2018 Prices,2023,Q1,615874.0
+Exports of goods and services,At Constant 2018 Prices,2023,Q1,1373901.0
+Imports of goods and services,At Constant 2018 Prices,2023,Q1,1983307.0
+Statistical discrepancy,At Constant 2018 Prices,2023,Q1,-31294.0
+Gross Domestic Product,At Constant 2018 Prices,2023,Q1,4907013.0
+Household final consumption expenditure,At Constant 2018 Prices,2023,Q2,3581723.0
+Government final consumption expenditure,At Constant 2018 Prices,2023,Q2,838633.0
+Gross capital formation,At Constant 2018 Prices,2023,Q2,1355287.0
+Gross fixed capital formation,At Constant 2018 Prices,2023,Q2,1379774.0
+Construction,At Constant 2018 Prices,2023,Q2,925143.0
+Exports of goods and services,At Constant 2018 Prices,2023,Q2,1423239.0
+Imports of goods and services,At Constant 2018 Prices,2023,Q2,2008906.0
+Statistical discrepancy,At Constant 2018 Prices,2023,Q2,13479.0
+Gross Domestic Product,At Constant 2018 Prices,2023,Q2,5203455.0
+Household final consumption expenditure,At Constant 2018 Prices,2023,Q3,3683833.0
+Government final consumption expenditure,At Constant 2018 Prices,2023,Q3,745184.0
+Gross capital formation,At Constant 2018 Prices,2023,Q3,1082022.0
+Gross fixed capital formation,At Constant 2018 Prices,2023,Q3,1115545.0
+Construction,At Constant 2018 Prices,2023,Q3,689880.0
+Exports of goods and services,At Constant 2018 Prices,2023,Q3,1576161.0
+Imports of goods and services,At Constant 2018 Prices,2023,Q3,2020718.0
+Statistical discrepancy,At Constant 2018 Prices,2023,Q3,-15086.0
+Gross Domestic Product,At Constant 2018 Prices,2023,Q3,5051396.0
+Household final consumption expenditure,At Constant 2018 Prices,2023,Q4,4419487.0
+Government final consumption expenditure,At Constant 2018 Prices,2023,Q4,699386.0
+Gross capital formation,At Constant 2018 Prices,2023,Q4,1319181.0
+Gross fixed capital formation,At Constant 2018 Prices,2023,Q4,1308683.0
+Construction,At Constant 2018 Prices,2023,Q4,817518.0
+Exports of goods and services,At Constant 2018 Prices,2023,Q4,1394547.0
+Imports of goods and services,At Constant 2018 Prices,2023,Q4,1980974.0
+Statistical discrepancy,At Constant 2018 Prices,2023,Q4,32901.0
+Gross Domestic Product,At Constant 2018 Prices,2023,Q4,5884528.0
+Household final consumption expenditure,At Constant 2018 Prices,2024,Q1,3865693.0
+Government final consumption expenditure,At Constant 2018 Prices,2024,Q1,736659.0
+Gross capital formation,At Constant 2018 Prices,2024,Q1,1152203.0
+Gross fixed capital formation,At Constant 2018 Prices,2024,Q1,1129462.0
+Construction,At Constant 2018 Prices,2024,Q1,660924.0
+Exports of goods and services,At Constant 2018 Prices,2024,Q1,1484730.0
+Imports of goods and services,At Constant 2018 Prices,2024,Q1,2028236.0
+Statistical discrepancy,At Constant 2018 Prices,2024,Q1,-14260.0
+Gross Domestic Product,At Constant 2018 Prices,2024,Q1,5196789.0
+Household final consumption expenditure,At Constant 2018 Prices,2024,Q2,3755046.0
+Government final consumption expenditure,At Constant 2018 Prices,2024,Q2,941808.0
+Gross capital formation,At Constant 2018 Prices,2024,Q2,1506940.0
+Gross fixed capital formation,At Constant 2018 Prices,2024,Q2,1508177.0
+Construction,At Constant 2018 Prices,2024,Q2,1068792.0
+Exports of goods and services,At Constant 2018 Prices,2024,Q2,1476578.0
+Imports of goods and services,At Constant 2018 Prices,2024,Q2,2117306.0
+Statistical discrepancy,At Constant 2018 Prices,2024,Q2,-22896.0
+Gross Domestic Product,At Constant 2018 Prices,2024,Q2,5540172.0
+Household final consumption expenditure,At Constant 2018 Prices,2024,Q3,3875853.0
+Government final consumption expenditure,At Constant 2018 Prices,2024,Q3,785170.0
+Gross capital formation,At Constant 2018 Prices,2024,Q3,1219734.0
+Gross fixed capital formation,At Constant 2018 Prices,2024,Q3,1201899.0
+Construction,At Constant 2018 Prices,2024,Q3,752316.0
+Exports of goods and services,At Constant 2018 Prices,2024,Q3,1553347.0
+Imports of goods and services,At Constant 2018 Prices,2024,Q3,2151565.0
+Statistical discrepancy,At Constant 2018 Prices,2024,Q3,34200.0
+Gross Domestic Product,At Constant 2018 Prices,2024,Q3,5316739.0
+Household final consumption expenditure,At Constant 2018 Prices,2024,Q4,4631019.0
+Government final consumption expenditure,At Constant 2018 Prices,2024,Q4,765575.0
+Gross capital formation,At Constant 2018 Prices,2024,Q4,1396158.0
+Gross fixed capital formation,At Constant 2018 Prices,2024,Q4,1376033.0
+Construction,At Constant 2018 Prices,2024,Q4,881024.0
+Exports of goods and services,At Constant 2018 Prices,2024,Q4,1437504.0
+Imports of goods and services,At Constant 2018 Prices,2024,Q4,2037771.0
+Statistical discrepancy,At Constant 2018 Prices,2024,Q4,2955.0
+Gross Domestic Product,At Constant 2018 Prices,2024,Q4,6195440.0
+Household final consumption expenditure,At Constant 2018 Prices,2025,Q1,4069778.0
+Government final consumption expenditure,At Constant 2018 Prices,2025,Q1,874368.0
+Gross capital formation,At Constant 2018 Prices,2025,Q1,1204282.0
+Gross fixed capital formation,At Constant 2018 Prices,2025,Q1,1203336.0
+Construction,At Constant 2018 Prices,2025,Q1,707604.0
+Exports of goods and services,At Constant 2018 Prices,2025,Q1,1589989.0
+Imports of goods and services,At Constant 2018 Prices,2025,Q1,2237289.0
+Statistical discrepancy,At Constant 2018 Prices,2025,Q1,-25203.0
+Gross Domestic Product,At Constant 2018 Prices,2025,Q1,5475926.0
+Household final consumption expenditure,At Constant 2018 Prices,2025,Q2,3950324.0
+Government final consumption expenditure,At Constant 2018 Prices,2025,Q2,1023882.0
+Gross capital formation,At Constant 2018 Prices,2025,Q2,1520587.0
+Gross fixed capital formation,At Constant 2018 Prices,2025,Q2,1554820.0
+Construction,At Constant 2018 Prices,2025,Q2,1078847.0
+Exports of goods and services,At Constant 2018 Prices,2025,Q2,1548586.0
+Imports of goods and services,At Constant 2018 Prices,2025,Q2,2193505.0
+Statistical discrepancy,At Constant 2018 Prices,2025,Q2,-8091.0
+Gross Domestic Product,At Constant 2018 Prices,2025,Q2,5841784.0
+Household final consumption expenditure,At Constant 2018 Prices,2025,Q3,4029586.0
+Government final consumption expenditure,At Constant 2018 Prices,2025,Q3,830389.0
+Gross capital formation,At Constant 2018 Prices,2025,Q3,1195938.0
+Gross fixed capital formation,At Constant 2018 Prices,2025,Q3,1209787.0
+Construction,At Constant 2018 Prices,2025,Q3,750627.0
+Exports of goods and services,At Constant 2018 Prices,2025,Q3,1675077.0
+Imports of goods and services,At Constant 2018 Prices,2025,Q3,2220769.0
+Statistical discrepancy,At Constant 2018 Prices,2025,Q3,18449.0
+Gross Domestic Product,At Constant 2018 Prices,2025,Q3,5528671.0
+Household final consumption expenditure,At Constant 2018 Prices,2025,Q4,4805972.0
+Government final consumption expenditure,At Constant 2018 Prices,2025,Q4,770647.0
+Gross capital formation,At Constant 2018 Prices,2025,Q4,1265208.0
+Gross fixed capital formation,At Constant 2018 Prices,2025,Q4,1288233.0
+Construction,At Constant 2018 Prices,2025,Q4,800156.0
+Exports of goods and services,At Constant 2018 Prices,2025,Q4,1629145.0
+Imports of goods and services,At Constant 2018 Prices,2025,Q4,2103561.0
+Statistical discrepancy,At Constant 2018 Prices,2025,Q4,14846.0
+Gross Domestic Product,At Constant 2018 Prices,2025,Q4,6382257.0
+Household final consumption expenditure,At Constant 2018 Prices,2026,Q1,4193012.0
+Government final consumption expenditure,At Constant 2018 Prices,2026,Q1,916517.0
+Gross capital formation,At Constant 2018 Prices,2026,Q1,1167063.0
+Gross fixed capital formation,At Constant 2018 Prices,2026,Q1,1173454.0
+Construction,At Constant 2018 Prices,2026,Q1,677448.0
+Exports of goods and services,At Constant 2018 Prices,2026,Q1,1714641.0
+Imports of goods and services,At Constant 2018 Prices,2026,Q1,2388975.0
+Statistical discrepancy,At Constant 2018 Prices,2026,Q1,28630.0
+Gross Domestic Product,At Constant 2018 Prices,2026,Q1,5630889.0
+Household final consumption expenditure,At Constant 2018 Prices,2026,Q2,4062196.0
+Government final consumption expenditure,At Constant 2018 Prices,2026,Q2,1109219.0
+Gross capital formation,At Constant 2018 Prices,2026,Q2,1380880.0
+Gross fixed capital formation,At Constant 2018 Prices,2026,Q2,1342025.0
+Construction,At Constant 2018 Prices,2026,Q2,919573.0
+Exports of goods and services,At Constant 2018 Prices,2026,Q2,1737507.0
+Imports of goods and services,At Constant 2018 Prices,2026,Q2,2313595.0
+Statistical discrepancy,At Constant 2018 Prices,2026,Q2,2015.0
+Gross Domestic Product,At Constant 2018 Prices,2026,Q2,5978223.0

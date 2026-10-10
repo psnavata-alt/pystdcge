@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pystdcge"
+version = "0.3.3"
+description = "Open-source Python implementation of the IFPRI standard CGE model, validated against IFPRI's GAMS code, with SAM and input-output multipliers, a recursive-dynamic extension and structural VARs"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "Paolo Navata" }]
+keywords = ["computable general equilibrium", "CGE", "social accounting matrix", "input-output", "structural VAR", "Philippines"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering",
+]
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.12",
+    "pandas>=2.2",
+    "statsmodels>=0.14",
+    "openpyxl>=3.1",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["pystdcge"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: takes more than a few seconds"]
+addopts = "-p no:cacheprovider"

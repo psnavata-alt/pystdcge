@@ -1,0 +1,1095 @@
+# Source: PSA OpenSTAT table 0052B5BPRA1, Gross National Income and Gross Domestic Product, by Industry (annual). https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/2B/NA/AN/1SUM/0052B5BPRA1.px
+# Downloaded 2026-10-02 about 3:15 PM by Claude (AI assistant) through the PXWeb API in a web browser. Table last updated by PSA 2026-06-23. Million pesos; as published on that date. Leading dots in the industry names show PSA's hierarchy (2 = total, 4 = sector, 6 = industry). Raw file: PSA_OpenSTAT_0052B5BPRA1_GVA_by_industry_annual_RAW.csv (SHA-256 ff3aff4dea062cf4a9a6aab0c2c7fb93c962a47cce46d2acf3c496096bcfb0d3).
+industry,level,valuation,year,value_million_php
+"Agriculture, forestry, and fishing",4,At Current Prices,2000,515480
+"Agriculture, forestry, and fishing",4,At Current Prices,2001,535358
+"Agriculture, forestry, and fishing",4,At Current Prices,2002,585081
+"Agriculture, forestry, and fishing",4,At Current Prices,2003,620437
+"Agriculture, forestry, and fishing",4,At Current Prices,2004,744516
+"Agriculture, forestry, and fishing",4,At Current Prices,2005,799871
+"Agriculture, forestry, and fishing",4,At Current Prices,2006,875218
+"Agriculture, forestry, and fishing",4,At Current Prices,2007,979430
+"Agriculture, forestry, and fishing",4,At Current Prices,2008,1168573
+"Agriculture, forestry, and fishing",4,At Current Prices,2009,1219985
+"Agriculture, forestry, and fishing",4,At Current Prices,2010,1292318
+"Agriculture, forestry, and fishing",4,At Current Prices,2011,1429965
+"Agriculture, forestry, and fishing",4,At Current Prices,2012,1448473
+"Agriculture, forestry, and fishing",4,At Current Prices,2013,1503122
+"Agriculture, forestry, and fishing",4,At Current Prices,2014,1620700
+"Agriculture, forestry, and fishing",4,At Current Prices,2015,1533369
+"Agriculture, forestry, and fishing",4,At Current Prices,2016,1544279
+"Agriculture, forestry, and fishing",4,At Current Prices,2017,1685956
+"Agriculture, forestry, and fishing",4,At Current Prices,2018,1762616
+"Agriculture, forestry, and fishing",4,At Current Prices,2019,1721539
+"Agriculture, forestry, and fishing",4,At Current Prices,2020,1828424
+"Agriculture, forestry, and fishing",4,At Current Prices,2021,1954487
+"Agriculture, forestry, and fishing",4,At Current Prices,2022,2104090
+"Agriculture, forestry, and fishing",4,At Current Prices,2023,2285564
+"Agriculture, forestry, and fishing",4,At Current Prices,2024,2403539
+"Agriculture, forestry, and fishing",4,At Current Prices,2025,2406532
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2000,1064005
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2001,1105117
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2002,1144991
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2003,1197371
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2004,1257109
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2005,1301069
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2006,1360678
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2007,1433747
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2008,1482352
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2009,1480207
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2010,1499801
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2011,1550555
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2012,1598312
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2013,1645192
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2014,1676006
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2015,1688344
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2016,1672085
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2017,1743134
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2018,1762616
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2019,1783855
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2020,1780391
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2021,1775210
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2022,1783735
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2023,1805217
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2024,1777999
+"Agriculture, forestry, and fishing",4,At Constant 2018 Prices,2025,1832888
+"Industry",4,At Current Prices,2000,1293231
+"Industry",4,At Current Prices,2001,1404419
+"Industry",4,At Current Prices,2002,1513274
+"Industry",4,At Current Prices,2003,1629558
+"Industry",4,At Current Prices,2004,1789827
+"Industry",4,At Current Prices,2005,2000851
+"Industry",4,At Current Prices,2006,2191939
+"Industry",4,At Current Prices,2007,2375483
+"Industry",4,At Current Prices,2008,2637671
+"Industry",4,At Current Prices,2009,2644874
+"Industry",4,At Current Prices,2010,3039741
+"Industry",4,At Current Prices,2011,3179203
+"Industry",4,At Current Prices,2012,3472969
+"Industry",4,At Current Prices,2013,3708624
+"Industry",4,At Current Prices,2014,4100383
+"Industry",4,At Current Prices,2015,4250451
+"Industry",4,At Current Prices,2016,4582981
+"Industry",4,At Current Prices,2017,4987948
+"Industry",4,At Current Prices,2018,5582525
+"Industry",4,At Current Prices,2019,5919281
+"Industry",4,At Current Prices,2020,5098232
+"Industry",4,At Current Prices,2021,5607689
+"Industry",4,At Current Prices,2022,6436935
+"Industry",4,At Current Prices,2023,6855847
+"Industry",4,At Current Prices,2024,7322507
+"Industry",4,At Current Prices,2025,7559816
+"Industry",4,At Constant 2018 Prices,2000,2233332
+"Industry",4,At Constant 2018 Prices,2001,2263213
+"Industry",4,At Constant 2018 Prices,2002,2346383
+"Industry",4,At Constant 2018 Prices,2003,2462871
+"Industry",4,At Constant 2018 Prices,2004,2571406
+"Industry",4,At Constant 2018 Prices,2005,2701285
+"Industry",4,At Constant 2018 Prices,2006,2802099
+"Industry",4,At Constant 2018 Prices,2007,2940675
+"Industry",4,At Constant 2018 Prices,2008,3101574
+"Industry",4,At Constant 2018 Prices,2009,3057652
+"Industry",4,At Constant 2018 Prices,2010,3358023
+"Industry",4,At Constant 2018 Prices,2011,3411809
+"Industry",4,At Constant 2018 Prices,2012,3674110
+"Industry",4,At Constant 2018 Prices,2013,3924519
+"Industry",4,At Constant 2018 Prices,2014,4218872
+"Industry",4,At Constant 2018 Prices,2015,4493390
+"Industry",4,At Constant 2018 Prices,2016,4861342
+"Industry",4,At Constant 2018 Prices,2017,5202582
+"Industry",4,At Constant 2018 Prices,2018,5582525
+"Industry",4,At Constant 2018 Prices,2019,5887869
+"Industry",4,At Constant 2018 Prices,2020,5115316
+"Industry",4,At Constant 2018 Prices,2021,5551622
+"Industry",4,At Constant 2018 Prices,2022,5913748
+"Industry",4,At Constant 2018 Prices,2023,6128235
+"Industry",4,At Constant 2018 Prices,2024,6473232
+"Industry",4,At Constant 2018 Prices,2025,6583687
+"Mining and quarrying",6,At Current Prices,2000,22911
+"Mining and quarrying",6,At Current Prices,2001,22780
+"Mining and quarrying",6,At Current Prices,2002,41337
+"Mining and quarrying",6,At Current Prices,2003,52386
+"Mining and quarrying",6,At Current Prices,2004,55475
+"Mining and quarrying",6,At Current Prices,2005,71458
+"Mining and quarrying",6,At Current Prices,2006,79480
+"Mining and quarrying",6,At Current Prices,2007,98210
+"Mining and quarrying",6,At Current Prices,2008,98568
+"Mining and quarrying",6,At Current Prices,2009,110676
+"Mining and quarrying",6,At Current Prices,2010,135402
+"Mining and quarrying",6,At Current Prices,2011,151487
+"Mining and quarrying",6,At Current Prices,2012,131767
+"Mining and quarrying",6,At Current Prices,2013,126453
+"Mining and quarrying",6,At Current Prices,2014,143880
+"Mining and quarrying",6,At Current Prices,2015,119626
+"Mining and quarrying",6,At Current Prices,2016,125898
+"Mining and quarrying",6,At Current Prices,2017,148094
+"Mining and quarrying",6,At Current Prices,2018,163322
+"Mining and quarrying",6,At Current Prices,2019,161656
+"Mining and quarrying",6,At Current Prices,2020,137060
+"Mining and quarrying",6,At Current Prices,2021,185371
+"Mining and quarrying",6,At Current Prices,2022,280249
+"Mining and quarrying",6,At Current Prices,2023,232171
+"Mining and quarrying",6,At Current Prices,2024,234167
+"Mining and quarrying",6,At Current Prices,2025,265083
+"Mining and quarrying",6,At Constant 2018 Prices,2000,56452
+"Mining and quarrying",6,At Constant 2018 Prices,2001,54421
+"Mining and quarrying",6,At Constant 2018 Prices,2002,81125
+"Mining and quarrying",6,At Constant 2018 Prices,2003,91679
+"Mining and quarrying",6,At Constant 2018 Prices,2004,86933
+"Mining and quarrying",6,At Constant 2018 Prices,2005,99343
+"Mining and quarrying",6,At Constant 2018 Prices,2006,95543
+"Mining and quarrying",6,At Constant 2018 Prices,2007,109046
+"Mining and quarrying",6,At Constant 2018 Prices,2008,107284
+"Mining and quarrying",6,At Constant 2018 Prices,2009,122121
+"Mining and quarrying",6,At Constant 2018 Prices,2010,133399
+"Mining and quarrying",6,At Constant 2018 Prices,2011,133388
+"Mining and quarrying",6,At Constant 2018 Prices,2012,128011
+"Mining and quarrying",6,At Constant 2018 Prices,2013,130910
+"Mining and quarrying",6,At Constant 2018 Prices,2014,149511
+"Mining and quarrying",6,At Constant 2018 Prices,2015,148589
+"Mining and quarrying",6,At Constant 2018 Prices,2016,156807
+"Mining and quarrying",6,At Constant 2018 Prices,2017,160065
+"Mining and quarrying",6,At Constant 2018 Prices,2018,163322
+"Mining and quarrying",6,At Constant 2018 Prices,2019,168857
+"Mining and quarrying",6,At Constant 2018 Prices,2020,137493
+"Mining and quarrying",6,At Constant 2018 Prices,2021,144498
+"Mining and quarrying",6,At Constant 2018 Prices,2022,152183
+"Mining and quarrying",6,At Constant 2018 Prices,2023,155251
+"Mining and quarrying",6,At Constant 2018 Prices,2024,157272
+"Mining and quarrying",6,At Constant 2018 Prices,2025,161095
+"Manufacturing",6,At Current Prices,2000,934726
+"Manufacturing",6,At Current Prices,2001,1018638
+"Manufacturing",6,At Current Prices,2002,1093531
+"Manufacturing",6,At Current Prices,2003,1171756
+"Manufacturing",6,At Current Prices,2004,1278376
+"Manufacturing",6,At Current Prices,2005,1436119
+"Manufacturing",6,At Current Prices,2006,1560911
+"Manufacturing",6,At Current Prices,2007,1666459
+"Manufacturing",6,At Current Prices,2008,1873174
+"Manufacturing",6,At Current Prices,2009,1823961
+"Manufacturing",6,At Current Prices,2010,2060285
+"Manufacturing",6,At Current Prices,2011,2201830
+"Manufacturing",6,At Current Prices,2012,2359066
+"Manufacturing",6,At Current Prices,2013,2462478
+"Manufacturing",6,At Current Prices,2014,2717316
+"Manufacturing",6,At Current Prices,2015,2778795
+"Manufacturing",6,At Current Prices,2016,2964479
+"Manufacturing",6,At Current Prices,2017,3228580
+"Manufacturing",6,At Current Prices,2018,3488331
+"Manufacturing",6,At Current Prices,2019,3614016
+"Manufacturing",6,At Current Prices,2020,3169921
+"Manufacturing",6,At Current Prices,2021,3424049
+"Manufacturing",6,At Current Prices,2022,3795335
+"Manufacturing",6,At Current Prices,2023,3946171
+"Manufacturing",6,At Current Prices,2024,4145218
+"Manufacturing",6,At Current Prices,2025,4294019
+"Manufacturing",6,At Constant 2018 Prices,2000,1572789
+"Manufacturing",6,At Constant 2018 Prices,2001,1615141
+"Manufacturing",6,At Constant 2018 Prices,2002,1675907
+"Manufacturing",6,At Constant 2018 Prices,2003,1744161
+"Manufacturing",6,At Constant 2018 Prices,2004,1816030
+"Manufacturing",6,At Constant 2018 Prices,2005,1933017
+"Manufacturing",6,At Constant 2018 Prices,2006,1987874
+"Manufacturing",6,At Constant 2018 Prices,2007,2045235
+"Manufacturing",6,At Constant 2018 Prices,2008,2151220
+"Manufacturing",6,At Constant 2018 Prices,2009,2058619
+"Manufacturing",6,At Constant 2018 Prices,2010,2214486
+"Manufacturing",6,At Constant 2018 Prices,2011,2297192
+"Manufacturing",6,At Constant 2018 Prices,2012,2427619
+"Manufacturing",6,At Constant 2018 Prices,2013,2538760
+"Manufacturing",6,At Constant 2018 Prices,2014,2732860
+"Manufacturing",6,At Constant 2018 Prices,2015,2874284
+"Manufacturing",6,At Constant 2018 Prices,2016,3070939
+"Manufacturing",6,At Constant 2018 Prices,2017,3317641
+"Manufacturing",6,At Constant 2018 Prices,2018,3488331
+"Manufacturing",6,At Constant 2018 Prices,2019,3620456
+"Manufacturing",6,At Constant 2018 Prices,2020,3266302
+"Manufacturing",6,At Constant 2018 Prices,2021,3556426
+"Manufacturing",6,At Constant 2018 Prices,2022,3729157
+"Manufacturing",6,At Constant 2018 Prices,2023,3780868
+"Manufacturing",6,At Constant 2018 Prices,2024,3920535
+"Manufacturing",6,At Constant 2018 Prices,2025,4019777
+"Electricity, steam, water and waste management",6,At Current Prices,2000,134500
+"Electricity, steam, water and waste management",6,At Current Prices,2001,160000
+"Electricity, steam, water and waste management",6,At Current Prices,2002,165369
+"Electricity, steam, water and waste management",6,At Current Prices,2003,175193
+"Electricity, steam, water and waste management",6,At Current Prices,2004,195623
+"Electricity, steam, water and waste management",6,At Current Prices,2005,220571
+"Electricity, steam, water and waste management",6,At Current Prices,2006,238503
+"Electricity, steam, water and waste management",6,At Current Prices,2007,255295
+"Electricity, steam, water and waste management",6,At Current Prices,2008,266702
+"Electricity, steam, water and waste management",6,At Current Prices,2009,275784
+"Electricity, steam, water and waste management",6,At Current Prices,2010,326133
+"Electricity, steam, water and waste management",6,At Current Prices,2011,335334
+"Electricity, steam, water and waste management",6,At Current Prices,2012,379747
+"Electricity, steam, water and waste management",6,At Current Prices,2013,401382
+"Electricity, steam, water and waste management",6,At Current Prices,2014,426063
+"Electricity, steam, water and waste management",6,At Current Prices,2015,443279
+"Electricity, steam, water and waste management",6,At Current Prices,2016,466222
+"Electricity, steam, water and waste management",6,At Current Prices,2017,505119
+"Electricity, steam, water and waste management",6,At Current Prices,2018,557030
+"Electricity, steam, water and waste management",6,At Current Prices,2019,607881
+"Electricity, steam, water and waste management",6,At Current Prices,2020,611051
+"Electricity, steam, water and waste management",6,At Current Prices,2021,650961
+"Electricity, steam, water and waste management",6,At Current Prices,2022,746104
+"Electricity, steam, water and waste management",6,At Current Prices,2023,844196
+"Electricity, steam, water and waste management",6,At Current Prices,2024,897394
+"Electricity, steam, water and waste management",6,At Current Prices,2025,931646
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2000,227752
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2001,236233
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2002,240081
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2003,260148
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2004,280210
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2005,284095
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2006,293444
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2007,310705
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2008,331050
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2009,327945
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2010,360982
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2011,365610
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2012,387840
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2013,409650
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2014,428437
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2015,458766
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2016,500472
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2017,523161
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2018,557030
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2019,591312
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2020,589213
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2021,615591
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2022,647222
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2023,684753
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2024,734893
+"Electricity, steam, water and waste management",6,At Constant 2018 Prices,2025,740790
+"Construction",6,At Current Prices,2000,201094
+"Construction",6,At Current Prices,2001,203002
+"Construction",6,At Current Prices,2002,213037
+"Construction",6,At Current Prices,2003,230223
+"Construction",6,At Current Prices,2004,260354
+"Construction",6,At Current Prices,2005,272704
+"Construction",6,At Current Prices,2006,313045
+"Construction",6,At Current Prices,2007,355518
+"Construction",6,At Current Prices,2008,399227
+"Construction",6,At Current Prices,2009,434453
+"Construction",6,At Current Prices,2010,517922
+"Construction",6,At Current Prices,2011,490551
+"Construction",6,At Current Prices,2012,602390
+"Construction",6,At Current Prices,2013,718310
+"Construction",6,At Current Prices,2014,813123
+"Construction",6,At Current Prices,2015,908751
+"Construction",6,At Current Prices,2016,1026382
+"Construction",6,At Current Prices,2017,1106154
+"Construction",6,At Current Prices,2018,1373841
+"Construction",6,At Current Prices,2019,1535727
+"Construction",6,At Current Prices,2020,1180199
+"Construction",6,At Current Prices,2021,1347309
+"Construction",6,At Current Prices,2022,1615247
+"Construction",6,At Current Prices,2023,1833309
+"Construction",6,At Current Prices,2024,2045728
+"Construction",6,At Current Prices,2025,2069068
+"Construction",6,At Constant 2018 Prices,2000,376339
+"Construction",6,At Constant 2018 Prices,2001,357418
+"Construction",6,At Constant 2018 Prices,2002,349270
+"Construction",6,At Constant 2018 Prices,2003,366883
+"Construction",6,At Constant 2018 Prices,2004,388234
+"Construction",6,At Constant 2018 Prices,2005,384830
+"Construction",6,At Constant 2018 Prices,2006,425237
+"Construction",6,At Constant 2018 Prices,2007,475689
+"Construction",6,At Constant 2018 Prices,2008,512019
+"Construction",6,At Constant 2018 Prices,2009,548967
+"Construction",6,At Constant 2018 Prices,2010,649157
+"Construction",6,At Constant 2018 Prices,2011,615620
+"Construction",6,At Constant 2018 Prices,2012,730640
+"Construction",6,At Constant 2018 Prices,2013,845198
+"Construction",6,At Constant 2018 Prices,2014,908065
+"Construction",6,At Constant 2018 Prices,2015,1011751
+"Construction",6,At Constant 2018 Prices,2016,1133124
+"Construction",6,At Constant 2018 Prices,2017,1201714
+"Construction",6,At Constant 2018 Prices,2018,1373841
+"Construction",6,At Constant 2018 Prices,2019,1507244
+"Construction",6,At Constant 2018 Prices,2020,1122308
+"Construction",6,At Constant 2018 Prices,2021,1235106
+"Construction",6,At Constant 2018 Prices,2022,1385186
+"Construction",6,At Constant 2018 Prices,2023,1507364
+"Construction",6,At Constant 2018 Prices,2024,1660532
+"Construction",6,At Constant 2018 Prices,2025,1662025
+"Services",4,At Current Prices,2000,1888846
+"Services",4,At Current Prices,2001,2084622
+"Services",4,At Current Prices,2002,2252204
+"Services",4,At Current Prices,2003,2467815
+"Services",4,At Current Prices,2004,2789561
+"Services",4,At Current Prices,2005,3116560
+"Services",4,At Current Prices,2006,3483261
+"Services",4,At Current Prices,2007,3843332
+"Services",4,At Current Prices,2008,4243956
+"Services",4,At Current Prices,2009,4525562
+"Services",4,At Current Prices,2010,5067392
+"Services",4,At Current Prices,2011,5535494
+"Services",4,At Current Prices,2012,6139147
+"Services",4,At Current Prices,2013,6838847
+"Services",4,At Current Prices,2014,7485746
+"Services",4,At Current Prices,2015,8160337
+"Services",4,At Current Prices,2016,9005122
+"Services",4,At Current Prices,2017,9882747
+"Services",4,At Current Prices,2018,10920048
+"Services",4,At Current Prices,2019,11877043
+"Services",4,At Current Prices,2020,11024918
+"Services",4,At Current Prices,2021,11848438
+"Services",4,At Current Prices,2022,13487251
+"Services",4,At Current Prices,2023,15172152
+"Services",4,At Current Prices,2024,16723397
+"Services",4,At Current Prices,2025,18043587
+"Services",4,At Constant 2018 Prices,2000,3688046
+"Services",4,At Constant 2018 Prices,2001,3830053
+"Services",4,At Constant 2018 Prices,2002,3974521
+"Services",4,At Constant 2018 Prices,2003,4185436
+"Services",4,At Constant 2018 Prices,2004,4532562
+"Services",4,At Constant 2018 Prices,2005,4771971
+"Services",4,At Constant 2018 Prices,2006,5078027
+"Services",4,At Constant 2018 Prices,2007,5468818
+"Services",4,At Constant 2018 Prices,2008,5686952
+"Services",4,At Constant 2018 Prices,2009,5881774
+"Services",4,At Constant 2018 Prices,2010,6326037
+"Services",4,At Constant 2018 Prices,2011,6652996
+"Services",4,At Constant 2018 Prices,2012,7144045
+"Services",4,At Constant 2018 Prices,2013,7684933
+"Services",4,At Constant 2018 Prices,2014,8201169
+"Services",4,At Constant 2018 Prices,2015,8809174
+"Services",4,At Constant 2018 Prices,2016,9529249
+"Services",4,At Constant 2018 Prices,2017,10230262
+"Services",4,At Constant 2018 Prices,2018,10920048
+"Services",4,At Constant 2018 Prices,2019,11711027
+"Services",4,At Constant 2018 Prices,2020,10642137
+"Services",4,At Constant 2018 Prices,2021,11213252
+"Services",4,At Constant 2018 Prices,2022,12248122
+"Services",4,At Constant 2018 Prices,2023,13112940
+"Services",4,At Constant 2018 Prices,2024,13997909
+"Services",4,At Constant 2018 Prices,2025,14812061
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2000,576736
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2001,632064
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2002,676254
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2003,734069
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2004,828676
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2005,939418
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2006,1062061
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2007,1186384
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2008,1319542
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2009,1366112
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2010,1571248
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2011,1704663
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2012,1878583
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2013,2078127
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2014,2252324
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2015,2427160
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2016,2668596
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2017,2926502
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2018,3237304
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2019,3517653
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2020,3317371
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2021,3502794
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2022,3987550
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2023,4445383
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2024,4875124
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Current Prices,2025,5197837
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2000,1260150
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2001,1318539
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2002,1361602
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2003,1425298
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2004,1525888
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2005,1603594
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2006,1697235
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2007,1837414
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2008,1861553
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2009,1877191
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2010,2030314
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2011,2093913
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2012,2245453
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2013,2381082
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2014,2506535
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2015,2670294
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2016,2861060
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2017,3057552
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2018,3237304
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2019,3489299
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2020,3275537
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2021,3413864
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2022,3710785
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2023,3914600
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2024,4133192
+"Wholesale and retail trade; repair of motor vehicles and motorcycles",6,At Constant 2018 Prices,2025,4350644
+"Transportation and storage",6,At Current Prices,2000,133682
+"Transportation and storage",6,At Current Prices,2001,156759
+"Transportation and storage",6,At Current Prices,2002,169027
+"Transportation and storage",6,At Current Prices,2003,183739
+"Transportation and storage",6,At Current Prices,2004,211704
+"Transportation and storage",6,At Current Prices,2005,234218
+"Transportation and storage",6,At Current Prices,2006,252459
+"Transportation and storage",6,At Current Prices,2007,271068
+"Transportation and storage",6,At Current Prices,2008,288801
+"Transportation and storage",6,At Current Prices,2009,294043
+"Transportation and storage",6,At Current Prices,2010,316498
+"Transportation and storage",6,At Current Prices,2011,350098
+"Transportation and storage",6,At Current Prices,2012,385159
+"Transportation and storage",6,At Current Prices,2013,421600
+"Transportation and storage",6,At Current Prices,2014,472663
+"Transportation and storage",6,At Current Prices,2015,525721
+"Transportation and storage",6,At Current Prices,2016,580079
+"Transportation and storage",6,At Current Prices,2017,637191
+"Transportation and storage",6,At Current Prices,2018,697839
+"Transportation and storage",6,At Current Prices,2019,757661
+"Transportation and storage",6,At Current Prices,2020,551045
+"Transportation and storage",6,At Current Prices,2021,605204
+"Transportation and storage",6,At Current Prices,2022,807323
+"Transportation and storage",6,At Current Prices,2023,977712
+"Transportation and storage",6,At Current Prices,2024,1074832
+"Transportation and storage",6,At Current Prices,2025,1156230
+"Transportation and storage",6,At Constant 2018 Prices,2000,267104
+"Transportation and storage",6,At Constant 2018 Prices,2001,272322
+"Transportation and storage",6,At Constant 2018 Prices,2002,284266
+"Transportation and storage",6,At Constant 2018 Prices,2003,296270
+"Transportation and storage",6,At Constant 2018 Prices,2004,308335
+"Transportation and storage",6,At Constant 2018 Prices,2005,303941
+"Transportation and storage",6,At Constant 2018 Prices,2006,316532
+"Transportation and storage",6,At Constant 2018 Prices,2007,332279
+"Transportation and storage",6,At Constant 2018 Prices,2008,342342
+"Transportation and storage",6,At Constant 2018 Prices,2009,341026
+"Transportation and storage",6,At Constant 2018 Prices,2010,349294
+"Transportation and storage",6,At Constant 2018 Prices,2011,375907
+"Transportation and storage",6,At Constant 2018 Prices,2012,405425
+"Transportation and storage",6,At Constant 2018 Prices,2013,442870
+"Transportation and storage",6,At Constant 2018 Prices,2014,498422
+"Transportation and storage",6,At Constant 2018 Prices,2015,548048
+"Transportation and storage",6,At Constant 2018 Prices,2016,604328
+"Transportation and storage",6,At Constant 2018 Prices,2017,648153
+"Transportation and storage",6,At Constant 2018 Prices,2018,697839
+"Transportation and storage",6,At Constant 2018 Prices,2019,742347
+"Transportation and storage",6,At Constant 2018 Prices,2020,515149
+"Transportation and storage",6,At Constant 2018 Prices,2021,547807
+"Transportation and storage",6,At Constant 2018 Prices,2022,679371
+"Transportation and storage",6,At Constant 2018 Prices,2023,767806
+"Transportation and storage",6,At Constant 2018 Prices,2024,835322
+"Transportation and storage",6,At Constant 2018 Prices,2025,890921
+"Accommodation and food service activities",6,At Current Prices,2000,60116
+"Accommodation and food service activities",6,At Current Prices,2001,65717
+"Accommodation and food service activities",6,At Current Prices,2002,69478
+"Accommodation and food service activities",6,At Current Prices,2003,74455
+"Accommodation and food service activities",6,At Current Prices,2004,83185
+"Accommodation and food service activities",6,At Current Prices,2005,89647
+"Accommodation and food service activities",6,At Current Prices,2006,98380
+"Accommodation and food service activities",6,At Current Prices,2007,111305
+"Accommodation and food service activities",6,At Current Prices,2008,121362
+"Accommodation and food service activities",6,At Current Prices,2009,129534
+"Accommodation and food service activities",6,At Current Prices,2010,145237
+"Accommodation and food service activities",6,At Current Prices,2011,161345
+"Accommodation and food service activities",6,At Current Prices,2012,182830
+"Accommodation and food service activities",6,At Current Prices,2013,202895
+"Accommodation and food service activities",6,At Current Prices,2014,232308
+"Accommodation and food service activities",6,At Current Prices,2015,262371
+"Accommodation and food service activities",6,At Current Prices,2016,304557
+"Accommodation and food service activities",6,At Current Prices,2017,346119
+"Accommodation and food service activities",6,At Current Prices,2018,403289
+"Accommodation and food service activities",6,At Current Prices,2019,431778
+"Accommodation and food service activities",6,At Current Prices,2020,253013
+"Accommodation and food service activities",6,At Current Prices,2021,285187
+"Accommodation and food service activities",6,At Current Prices,2022,396144
+"Accommodation and food service activities",6,At Current Prices,2023,510209
+"Accommodation and food service activities",6,At Current Prices,2024,587383
+"Accommodation and food service activities",6,At Current Prices,2025,636066
+"Accommodation and food service activities",6,At Constant 2018 Prices,2000,141725
+"Accommodation and food service activities",6,At Constant 2018 Prices,2001,148208
+"Accommodation and food service activities",6,At Constant 2018 Prices,2002,152229
+"Accommodation and food service activities",6,At Constant 2018 Prices,2003,158954
+"Accommodation and food service activities",6,At Constant 2018 Prices,2004,171224
+"Accommodation and food service activities",6,At Constant 2018 Prices,2005,173819
+"Accommodation and food service activities",6,At Constant 2018 Prices,2006,179606
+"Accommodation and food service activities",6,At Constant 2018 Prices,2007,195211
+"Accommodation and food service activities",6,At Constant 2018 Prices,2008,196691
+"Accommodation and food service activities",6,At Constant 2018 Prices,2009,197729
+"Accommodation and food service activities",6,At Constant 2018 Prices,2010,213466
+"Accommodation and food service activities",6,At Constant 2018 Prices,2011,226108
+"Accommodation and food service activities",6,At Constant 2018 Prices,2012,242024
+"Accommodation and food service activities",6,At Constant 2018 Prices,2013,254206
+"Accommodation and food service activities",6,At Constant 2018 Prices,2014,271023
+"Accommodation and food service activities",6,At Constant 2018 Prices,2015,297279
+"Accommodation and food service activities",6,At Constant 2018 Prices,2016,332612
+"Accommodation and food service activities",6,At Constant 2018 Prices,2017,371234
+"Accommodation and food service activities",6,At Constant 2018 Prices,2018,403289
+"Accommodation and food service activities",6,At Constant 2018 Prices,2019,425692
+"Accommodation and food service activities",6,At Constant 2018 Prices,2020,231811
+"Accommodation and food service activities",6,At Constant 2018 Prices,2021,248404
+"Accommodation and food service activities",6,At Constant 2018 Prices,2022,329124
+"Accommodation and food service activities",6,At Constant 2018 Prices,2023,404674
+"Accommodation and food service activities",6,At Constant 2018 Prices,2024,447812
+"Accommodation and food service activities",6,At Constant 2018 Prices,2025,473995
+"Information and communication",6,At Current Prices,2000,119503
+"Information and communication",6,At Current Prices,2001,145038
+"Information and communication",6,At Current Prices,2002,171667
+"Information and communication",6,At Current Prices,2003,203480
+"Information and communication",6,At Current Prices,2004,244262
+"Information and communication",6,At Current Prices,2005,278863
+"Information and communication",6,At Current Prices,2006,300317
+"Information and communication",6,At Current Prices,2007,325499
+"Information and communication",6,At Current Prices,2008,349672
+"Information and communication",6,At Current Prices,2009,362015
+"Information and communication",6,At Current Prices,2010,368943
+"Information and communication",6,At Current Prices,2011,380320
+"Information and communication",6,At Current Prices,2012,400014
+"Information and communication",6,At Current Prices,2013,415001
+"Information and communication",6,At Current Prices,2014,429321
+"Information and communication",6,At Current Prices,2015,455635
+"Information and communication",6,At Current Prices,2016,473142
+"Information and communication",6,At Current Prices,2017,490330
+"Information and communication",6,At Current Prices,2018,515925
+"Information and communication",6,At Current Prices,2019,562834
+"Information and communication",6,At Current Prices,2020,593039
+"Information and communication",6,At Current Prices,2021,640034
+"Information and communication",6,At Current Prices,2022,696022
+"Information and communication",6,At Current Prices,2023,732461
+"Information and communication",6,At Current Prices,2024,770319
+"Information and communication",6,At Current Prices,2025,805368
+"Information and communication",6,At Constant 2018 Prices,2000,100928
+"Information and communication",6,At Constant 2018 Prices,2001,122760
+"Information and communication",6,At Constant 2018 Prices,2002,143507
+"Information and communication",6,At Constant 2018 Prices,2003,173673
+"Information and communication",6,At Constant 2018 Prices,2004,210347
+"Information and communication",6,At Constant 2018 Prices,2005,241021
+"Information and communication",6,At Constant 2018 Prices,2006,256346
+"Information and communication",6,At Constant 2018 Prices,2007,288411
+"Information and communication",6,At Constant 2018 Prices,2008,308093
+"Information and communication",6,At Constant 2018 Prices,2009,317327
+"Information and communication",6,At Constant 2018 Prices,2010,326583
+"Information and communication",6,At Constant 2018 Prices,2011,342111
+"Information and communication",6,At Constant 2018 Prices,2012,363733
+"Information and communication",6,At Constant 2018 Prices,2013,386420
+"Information and communication",6,At Constant 2018 Prices,2014,402219
+"Information and communication",6,At Constant 2018 Prices,2015,436741
+"Information and communication",6,At Constant 2018 Prices,2016,462876
+"Information and communication",6,At Constant 2018 Prices,2017,483683
+"Information and communication",6,At Constant 2018 Prices,2018,515925
+"Information and communication",6,At Constant 2018 Prices,2019,557007
+"Information and communication",6,At Constant 2018 Prices,2020,585185
+"Information and communication",6,At Constant 2018 Prices,2021,638971
+"Information and communication",6,At Constant 2018 Prices,2022,690072
+"Information and communication",6,At Constant 2018 Prices,2023,718703
+"Information and communication",6,At Constant 2018 Prices,2024,752429
+"Information and communication",6,At Constant 2018 Prices,2025,782460
+"Financial and insurance activities",6,At Current Prices,2000,191405
+"Financial and insurance activities",6,At Current Prices,2001,215508
+"Financial and insurance activities",6,At Current Prices,2002,234808
+"Financial and insurance activities",6,At Current Prices,2003,260031
+"Financial and insurance activities",6,At Current Prices,2004,298287
+"Financial and insurance activities",6,At Current Prices,2005,352560
+"Financial and insurance activities",6,At Current Prices,2006,418982
+"Financial and insurance activities",6,At Current Prices,2007,468983
+"Financial and insurance activities",6,At Current Prices,2008,518049
+"Financial and insurance activities",6,At Current Prices,2009,560948
+"Financial and insurance activities",6,At Current Prices,2010,636283
+"Financial and insurance activities",6,At Current Prices,2011,692889
+"Financial and insurance activities",6,At Current Prices,2012,769804
+"Financial and insurance activities",6,At Current Prices,2013,892658
+"Financial and insurance activities",6,At Current Prices,2014,1005739
+"Financial and insurance activities",6,At Current Prices,2015,1087981
+"Financial and insurance activities",6,At Current Prices,2016,1193651
+"Financial and insurance activities",6,At Current Prices,2017,1326583
+"Financial and insurance activities",6,At Current Prices,2018,1498147
+"Financial and insurance activities",6,At Current Prices,2019,1681870
+"Financial and insurance activities",6,At Current Prices,2020,1823979
+"Financial and insurance activities",6,At Current Prices,2021,1963148
+"Financial and insurance activities",6,At Current Prices,2022,2224675
+"Financial and insurance activities",6,At Current Prices,2023,2565066
+"Financial and insurance activities",6,At Current Prices,2024,2887463
+"Financial and insurance activities",6,At Current Prices,2025,3106421
+"Financial and insurance activities",6,At Constant 2018 Prices,2000,341020
+"Financial and insurance activities",6,At Constant 2018 Prices,2001,357884
+"Financial and insurance activities",6,At Constant 2018 Prices,2002,379994
+"Financial and insurance activities",6,At Constant 2018 Prices,2003,407907
+"Financial and insurance activities",6,At Constant 2018 Prices,2004,444300
+"Financial and insurance activities",6,At Constant 2018 Prices,2005,489868
+"Financial and insurance activities",6,At Constant 2018 Prices,2006,555549
+"Financial and insurance activities",6,At Constant 2018 Prices,2007,618667
+"Financial and insurance activities",6,At Constant 2018 Prices,2008,637228
+"Financial and insurance activities",6,At Constant 2018 Prices,2009,680187
+"Financial and insurance activities",6,At Constant 2018 Prices,2010,757901
+"Financial and insurance activities",6,At Constant 2018 Prices,2011,806878
+"Financial and insurance activities",6,At Constant 2018 Prices,2012,883974
+"Financial and insurance activities",6,At Constant 2018 Prices,2013,1006839
+"Financial and insurance activities",6,At Constant 2018 Prices,2014,1092038
+"Financial and insurance activities",6,At Constant 2018 Prices,2015,1171994
+"Financial and insurance activities",6,At Constant 2018 Prices,2016,1275687
+"Financial and insurance activities",6,At Constant 2018 Prices,2017,1382521
+"Financial and insurance activities",6,At Constant 2018 Prices,2018,1498147
+"Financial and insurance activities",6,At Constant 2018 Prices,2019,1676448
+"Financial and insurance activities",6,At Constant 2018 Prices,2020,1769952
+"Financial and insurance activities",6,At Constant 2018 Prices,2021,1854248
+"Financial and insurance activities",6,At Constant 2018 Prices,2022,1987008
+"Financial and insurance activities",6,At Constant 2018 Prices,2023,2160827
+"Financial and insurance activities",6,At Constant 2018 Prices,2024,2353733
+"Financial and insurance activities",6,At Constant 2018 Prices,2025,2491818
+"Real estate and ownership of dwellings",6,At Current Prices,2000,267975
+"Real estate and ownership of dwellings",6,At Current Prices,2001,283782
+"Real estate and ownership of dwellings",6,At Current Prices,2002,299677
+"Real estate and ownership of dwellings",6,At Current Prices,2003,321119
+"Real estate and ownership of dwellings",6,At Current Prices,2004,345631
+"Real estate and ownership of dwellings",6,At Current Prices,2005,377710
+"Real estate and ownership of dwellings",6,At Current Prices,2006,407980
+"Real estate and ownership of dwellings",6,At Current Prices,2007,438331
+"Real estate and ownership of dwellings",6,At Current Prices,2008,486620
+"Real estate and ownership of dwellings",6,At Current Prices,2009,494633
+"Real estate and ownership of dwellings",6,At Current Prices,2010,540388
+"Real estate and ownership of dwellings",6,At Current Prices,2011,596654
+"Real estate and ownership of dwellings",6,At Current Prices,2012,671761
+"Real estate and ownership of dwellings",6,At Current Prices,2013,760384
+"Real estate and ownership of dwellings",6,At Current Prices,2014,831245
+"Real estate and ownership of dwellings",6,At Current Prices,2015,929576
+"Real estate and ownership of dwellings",6,At Current Prices,2016,995629
+"Real estate and ownership of dwellings",6,At Current Prices,2017,1076332
+"Real estate and ownership of dwellings",6,At Current Prices,2018,1189673
+"Real estate and ownership of dwellings",6,At Current Prices,2019,1255644
+"Real estate and ownership of dwellings",6,At Current Prices,2020,1081612
+"Real estate and ownership of dwellings",6,At Current Prices,2021,1139221
+"Real estate and ownership of dwellings",6,At Current Prices,2022,1246861
+"Real estate and ownership of dwellings",6,At Current Prices,2023,1369416
+"Real estate and ownership of dwellings",6,At Current Prices,2024,1488186
+"Real estate and ownership of dwellings",6,At Current Prices,2025,1584965
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2000,487874
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2001,482152
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2002,488546
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2003,505750
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2004,530337
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2005,558682
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2006,586053
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2007,627478
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2008,664607
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2009,655393
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2010,701533
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2011,754008
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2012,820210
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2013,897280
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2014,945984
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2015,1022316
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2016,1068415
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2017,1129083
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2018,1189673
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2019,1238469
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2020,1031275
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2021,1054235
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2022,1108167
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2023,1151914
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2024,1212253
+"Real estate and ownership of dwellings",6,At Constant 2018 Prices,2025,1267382
+"Professional and business services",6,At Current Prices,2000,60198
+"Professional and business services",6,At Current Prices,2001,67547
+"Professional and business services",6,At Current Prices,2002,79857
+"Professional and business services",6,At Current Prices,2003,101203
+"Professional and business services",6,At Current Prices,2004,132837
+"Professional and business services",6,At Current Prices,2005,163846
+"Professional and business services",6,At Current Prices,2006,201681
+"Professional and business services",6,At Current Prices,2007,239993
+"Professional and business services",6,At Current Prices,2008,300932
+"Professional and business services",6,At Current Prices,2009,360961
+"Professional and business services",6,At Current Prices,2010,414196
+"Professional and business services",6,At Current Prices,2011,482885
+"Professional and business services",6,At Current Prices,2012,534130
+"Professional and business services",6,At Current Prices,2013,618743
+"Professional and business services",6,At Current Prices,2014,734746
+"Professional and business services",6,At Current Prices,2015,840089
+"Professional and business services",6,At Current Prices,2016,992234
+"Professional and business services",6,At Current Prices,2017,1110458
+"Professional and business services",6,At Current Prices,2018,1159265
+"Professional and business services",6,At Current Prices,2019,1219757
+"Professional and business services",6,At Current Prices,2020,1137558
+"Professional and business services",6,At Current Prices,2021,1222489
+"Professional and business services",6,At Current Prices,2022,1350881
+"Professional and business services",6,At Current Prices,2023,1488722
+"Professional and business services",6,At Current Prices,2024,1643967
+"Professional and business services",6,At Current Prices,2025,1769273
+"Professional and business services",6,At Constant 2018 Prices,2000,145095
+"Professional and business services",6,At Constant 2018 Prices,2001,152779
+"Professional and business services",6,At Constant 2018 Prices,2002,162916
+"Professional and business services",6,At Constant 2018 Prices,2003,185819
+"Professional and business services",6,At Constant 2018 Prices,2004,236460
+"Professional and business services",6,At Constant 2018 Prices,2005,267003
+"Professional and business services",6,At Constant 2018 Prices,2006,305719
+"Professional and business services",6,At Constant 2018 Prices,2007,346143
+"Professional and business services",6,At Constant 2018 Prices,2008,408663
+"Professional and business services",6,At Constant 2018 Prices,2009,469401
+"Professional and business services",6,At Constant 2018 Prices,2010,519966
+"Professional and business services",6,At Constant 2018 Prices,2011,581517
+"Professional and business services",6,At Constant 2018 Prices,2012,617263
+"Professional and business services",6,At Constant 2018 Prices,2013,689095
+"Professional and business services",6,At Constant 2018 Prices,2014,789923
+"Professional and business services",6,At Constant 2018 Prices,2015,875745
+"Professional and business services",6,At Constant 2018 Prices,2016,1011910
+"Professional and business services",6,At Constant 2018 Prices,2017,1117257
+"Professional and business services",6,At Constant 2018 Prices,2018,1159265
+"Professional and business services",6,At Constant 2018 Prices,2019,1182159
+"Professional and business services",6,At Constant 2018 Prices,2020,1068769
+"Professional and business services",6,At Constant 2018 Prices,2021,1136507
+"Professional and business services",6,At Constant 2018 Prices,2022,1240353
+"Professional and business services",6,At Constant 2018 Prices,2023,1324886
+"Professional and business services",6,At Constant 2018 Prices,2024,1425800
+"Professional and business services",6,At Constant 2018 Prices,2025,1495423
+"Public administration and defense; compulsory social activities",6,At Current Prices,2000,184539
+"Public administration and defense; compulsory social activities",6,At Current Prices,2001,197481
+"Public administration and defense; compulsory social activities",6,At Current Prices,2002,202113
+"Public administration and defense; compulsory social activities",6,At Current Prices,2003,210315
+"Public administration and defense; compulsory social activities",6,At Current Prices,2004,228877
+"Public administration and defense; compulsory social activities",6,At Current Prices,2005,237294
+"Public administration and defense; compulsory social activities",6,At Current Prices,2006,264021
+"Public administration and defense; compulsory social activities",6,At Current Prices,2007,272168
+"Public administration and defense; compulsory social activities",6,At Current Prices,2008,287786
+"Public administration and defense; compulsory social activities",6,At Current Prices,2009,324492
+"Public administration and defense; compulsory social activities",6,At Current Prices,2010,371829
+"Public administration and defense; compulsory social activities",6,At Current Prices,2011,402173
+"Public administration and defense; compulsory social activities",6,At Current Prices,2012,453354
+"Public administration and defense; compulsory social activities",6,At Current Prices,2013,479516
+"Public administration and defense; compulsory social activities",6,At Current Prices,2014,492086
+"Public administration and defense; compulsory social activities",6,At Current Prices,2015,503201
+"Public administration and defense; compulsory social activities",6,At Current Prices,2016,562254
+"Public administration and defense; compulsory social activities",6,At Current Prices,2017,642127
+"Public administration and defense; compulsory social activities",6,At Current Prices,2018,767706
+"Public administration and defense; compulsory social activities",6,At Current Prices,2019,890688
+"Public administration and defense; compulsory social activities",6,At Current Prices,2020,950590
+"Public administration and defense; compulsory social activities",6,At Current Prices,2021,1027079
+"Public administration and defense; compulsory social activities",6,At Current Prices,2022,1119710
+"Public administration and defense; compulsory social activities",6,At Current Prices,2023,1189235
+"Public administration and defense; compulsory social activities",6,At Current Prices,2024,1285812
+"Public administration and defense; compulsory social activities",6,At Current Prices,2025,1419814
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2000,330372
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2001,337865
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2002,342312
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2003,355604
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2004,383920
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2005,388029
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2006,403505
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2007,410968
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2008,421177
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2009,448635
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2010,476856
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2011,488025
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2012,518184
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2013,534465
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2014,558605
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2015,567797
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2016,610575
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2017,666393
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2018,767706
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2019,871564
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2020,911188
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2021,959685
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2022,1003397
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2023,1025233
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2024,1072145
+"Public administration and defense; compulsory social activities",6,At Constant 2018 Prices,2025,1145387
+"Education",6,At Current Prices,2000,176032
+"Education",6,At Current Prices,2001,190166
+"Education",6,At Current Prices,2002,208850
+"Education",6,At Current Prices,2003,226841
+"Education",6,At Current Prices,2004,243774
+"Education",6,At Current Prices,2005,255093
+"Education",6,At Current Prices,2006,271366
+"Education",6,At Current Prices,2007,298698
+"Education",6,At Current Prices,2008,319317
+"Education",6,At Current Prices,2009,350213
+"Education",6,At Current Prices,2010,365107
+"Education",6,At Current Prices,2011,395753
+"Education",6,At Current Prices,2012,428422
+"Education",6,At Current Prices,2013,475428
+"Education",6,At Current Prices,2014,500050
+"Education",6,At Current Prices,2015,535578
+"Education",6,At Current Prices,2016,591081
+"Education",6,At Current Prices,2017,649366
+"Education",6,At Current Prices,2018,731607
+"Education",6,At Current Prices,2019,778868
+"Education",6,At Current Prices,2020,719494
+"Education",6,At Current Prices,2021,796472
+"Education",6,At Current Prices,2022,880390
+"Education",6,At Current Prices,2023,969550
+"Education",6,At Current Prices,2024,1055564
+"Education",6,At Current Prices,2025,1182922
+"Education",6,At Constant 2018 Prices,2000,355852
+"Education",6,At Constant 2018 Prices,2001,365907
+"Education",6,At Constant 2018 Prices,2002,377257
+"Education",6,At Constant 2018 Prices,2003,385564
+"Education",6,At Constant 2018 Prices,2004,404964
+"Education",6,At Constant 2018 Prices,2005,415194
+"Education",6,At Constant 2018 Prices,2006,433128
+"Education",6,At Constant 2018 Prices,2007,447032
+"Education",6,At Constant 2018 Prices,2008,472362
+"Education",6,At Constant 2018 Prices,2009,499506
+"Education",6,At Constant 2018 Prices,2010,506999
+"Education",6,At Constant 2018 Prices,2011,520351
+"Education",6,At Constant 2018 Prices,2012,528524
+"Education",6,At Constant 2018 Prices,2013,547291
+"Education",6,At Constant 2018 Prices,2014,557395
+"Education",6,At Constant 2018 Prices,2015,589602
+"Education",6,At Constant 2018 Prices,2016,627112
+"Education",6,At Constant 2018 Prices,2017,671837
+"Education",6,At Constant 2018 Prices,2018,731607
+"Education",6,At Constant 2018 Prices,2019,766089
+"Education",6,At Constant 2018 Prices,2020,687610
+"Education",6,At Constant 2018 Prices,2021,744159
+"Education",6,At Constant 2018 Prices,2022,796154
+"Education",6,At Constant 2018 Prices,2023,844718
+"Education",6,At Constant 2018 Prices,2024,885724
+"Education",6,At Constant 2018 Prices,2025,954461
+"Human health and social work activities",6,At Current Prices,2000,46022
+"Human health and social work activities",6,At Current Prices,2001,52115
+"Human health and social work activities",6,At Current Prices,2002,56420
+"Human health and social work activities",6,At Current Prices,2003,60849
+"Human health and social work activities",6,At Current Prices,2004,67770
+"Human health and social work activities",6,At Current Prices,2005,76213
+"Human health and social work activities",6,At Current Prices,2006,83751
+"Human health and social work activities",6,At Current Prices,2007,92462
+"Human health and social work activities",6,At Current Prices,2008,100412
+"Human health and social work activities",6,At Current Prices,2009,111323
+"Human health and social work activities",6,At Current Prices,2010,124020
+"Human health and social work activities",6,At Current Prices,2011,137392
+"Human health and social work activities",6,At Current Prices,2012,155558
+"Human health and social work activities",6,At Current Prices,2013,183782
+"Human health and social work activities",6,At Current Prices,2014,216743
+"Human health and social work activities",6,At Current Prices,2015,242093
+"Human health and social work activities",6,At Current Prices,2016,269554
+"Human health and social work activities",6,At Current Prices,2017,289060
+"Human health and social work activities",6,At Current Prices,2018,308268
+"Human health and social work activities",6,At Current Prices,2019,329862
+"Human health and social work activities",6,At Current Prices,2020,325260
+"Human health and social work activities",6,At Current Prices,2021,385750
+"Human health and social work activities",6,At Current Prices,2022,411577
+"Human health and social work activities",6,At Current Prices,2023,459896
+"Human health and social work activities",6,At Current Prices,2024,527792
+"Human health and social work activities",6,At Current Prices,2025,610298
+"Human health and social work activities",6,At Constant 2018 Prices,2000,119269
+"Human health and social work activities",6,At Constant 2018 Prices,2001,128426
+"Human health and social work activities",6,At Constant 2018 Prices,2002,136310
+"Human health and social work activities",6,At Constant 2018 Prices,2003,143311
+"Human health and social work activities",6,At Constant 2018 Prices,2004,154636
+"Human health and social work activities",6,At Constant 2018 Prices,2005,166000
+"Human health and social work activities",6,At Constant 2018 Prices,2006,170605
+"Human health and social work activities",6,At Constant 2018 Prices,2007,176546
+"Human health and social work activities",6,At Constant 2018 Prices,2008,177245
+"Human health and social work activities",6,At Constant 2018 Prices,2009,183289
+"Human health and social work activities",6,At Constant 2018 Prices,2010,189570
+"Human health and social work activities",6,At Constant 2018 Prices,2011,198838
+"Human health and social work activities",6,At Constant 2018 Prices,2012,211468
+"Human health and social work activities",6,At Constant 2018 Prices,2013,221737
+"Human health and social work activities",6,At Constant 2018 Prices,2014,252506
+"Human health and social work activities",6,At Constant 2018 Prices,2015,270168
+"Human health and social work activities",6,At Constant 2018 Prices,2016,290083
+"Human health and social work activities",6,At Constant 2018 Prices,2017,309316
+"Human health and social work activities",6,At Constant 2018 Prices,2018,308268
+"Human health and social work activities",6,At Constant 2018 Prices,2019,323261
+"Human health and social work activities",6,At Constant 2018 Prices,2020,306903
+"Human health and social work activities",6,At Constant 2018 Prices,2021,351472
+"Human health and social work activities",6,At Constant 2018 Prices,2022,364223
+"Human health and social work activities",6,At Constant 2018 Prices,2023,390510
+"Human health and social work activities",6,At Constant 2018 Prices,2024,432756
+"Human health and social work activities",6,At Constant 2018 Prices,2025,483135
+"Other services",6,At Current Prices,2000,72636
+"Other services",6,At Current Prices,2001,78445
+"Other services",6,At Current Prices,2002,84052
+"Other services",6,At Current Prices,2003,91714
+"Other services",6,At Current Prices,2004,104560
+"Other services",6,At Current Prices,2005,111699
+"Other services",6,At Current Prices,2006,122262
+"Other services",6,At Current Prices,2007,138440
+"Other services",6,At Current Prices,2008,151464
+"Other services",6,At Current Prices,2009,171289
+"Other services",6,At Current Prices,2010,213643
+"Other services",6,At Current Prices,2011,231320
+"Other services",6,At Current Prices,2012,279531
+"Other services",6,At Current Prices,2013,310712
+"Other services",6,At Current Prices,2014,318523
+"Other services",6,At Current Prices,2015,350934
+"Other services",6,At Current Prices,2016,374345
+"Other services",6,At Current Prices,2017,388679
+"Other services",6,At Current Prices,2018,411025
+"Other services",6,At Current Prices,2019,450429
+"Other services",6,At Current Prices,2020,271957
+"Other services",6,At Current Prices,2021,281061
+"Other services",6,At Current Prices,2022,366118
+"Other services",6,At Current Prices,2023,464502
+"Other services",6,At Current Prices,2024,526955
+"Other services",6,At Current Prices,2025,574392
+"Other services",6,At Constant 2018 Prices,2000,138659
+"Other services",6,At Constant 2018 Prices,2001,143212
+"Other services",6,At Constant 2018 Prices,2002,145583
+"Other services",6,At Constant 2018 Prices,2003,147285
+"Other services",6,At Constant 2018 Prices,2004,162153
+"Other services",6,At Constant 2018 Prices,2005,164820
+"Other services",6,At Constant 2018 Prices,2006,173748
+"Other services",6,At Constant 2018 Prices,2007,188669
+"Other services",6,At Constant 2018 Prices,2008,196991
+"Other services",6,At Constant 2018 Prices,2009,212088
+"Other services",6,At Constant 2018 Prices,2010,253555
+"Other services",6,At Constant 2018 Prices,2011,265339
+"Other services",6,At Constant 2018 Prices,2012,307787
+"Other services",6,At Constant 2018 Prices,2013,323648
+"Other services",6,At Constant 2018 Prices,2014,326518
+"Other services",6,At Constant 2018 Prices,2015,359190
+"Other services",6,At Constant 2018 Prices,2016,384590
+"Other services",6,At Constant 2018 Prices,2017,393233
+"Other services",6,At Constant 2018 Prices,2018,411025
+"Other services",6,At Constant 2018 Prices,2019,438691
+"Other services",6,At Constant 2018 Prices,2020,258758
+"Other services",6,At Constant 2018 Prices,2021,263899
+"Other services",6,At Constant 2018 Prices,2022,339470
+"Other services",6,At Constant 2018 Prices,2023,409071
+"Other services",6,At Constant 2018 Prices,2024,446744
+"Other services",6,At Constant 2018 Prices,2025,476436
+"Gross Domestic Product",2,At Current Prices,2000,3697556
+"Gross Domestic Product",2,At Current Prices,2001,4024399
+"Gross Domestic Product",2,At Current Prices,2002,4350560
+"Gross Domestic Product",2,At Current Prices,2003,4717809
+"Gross Domestic Product",2,At Current Prices,2004,5323904
+"Gross Domestic Product",2,At Current Prices,2005,5917282
+"Gross Domestic Product",2,At Current Prices,2006,6550417
+"Gross Domestic Product",2,At Current Prices,2007,7198245
+"Gross Domestic Product",2,At Current Prices,2008,8050201
+"Gross Domestic Product",2,At Current Prices,2009,8390421
+"Gross Domestic Product",2,At Current Prices,2010,9399451
+"Gross Domestic Product",2,At Current Prices,2011,10144661
+"Gross Domestic Product",2,At Current Prices,2012,11060589
+"Gross Domestic Product",2,At Current Prices,2013,12050592
+"Gross Domestic Product",2,At Current Prices,2014,13206828
+"Gross Domestic Product",2,At Current Prices,2015,13944157
+"Gross Domestic Product",2,At Current Prices,2016,15132381
+"Gross Domestic Product",2,At Current Prices,2017,16556651
+"Gross Domestic Product",2,At Current Prices,2018,18265190
+"Gross Domestic Product",2,At Current Prices,2019,19517863
+"Gross Domestic Product",2,At Current Prices,2020,17951574
+"Gross Domestic Product",2,At Current Prices,2021,19410614
+"Gross Domestic Product",2,At Current Prices,2022,22028276
+"Gross Domestic Product",2,At Current Prices,2023,24313563
+"Gross Domestic Product",2,At Current Prices,2024,26449443
+"Gross Domestic Product",2,At Current Prices,2025,28009935
+"Gross Domestic Product",2,At Constant 2018 Prices,2000,6985383
+"Gross Domestic Product",2,At Constant 2018 Prices,2001,7198384
+"Gross Domestic Product",2,At Constant 2018 Prices,2002,7465894
+"Gross Domestic Product",2,At Constant 2018 Prices,2003,7845677
+"Gross Domestic Product",2,At Constant 2018 Prices,2004,8361078
+"Gross Domestic Product",2,At Constant 2018 Prices,2005,8774325
+"Gross Domestic Product",2,At Constant 2018 Prices,2006,9240804
+"Gross Domestic Product",2,At Constant 2018 Prices,2007,9843239
+"Gross Domestic Product",2,At Constant 2018 Prices,2008,10270878
+"Gross Domestic Product",2,At Constant 2018 Prices,2009,10419633
+"Gross Domestic Product",2,At Constant 2018 Prices,2010,11183861
+"Gross Domestic Product",2,At Constant 2018 Prices,2011,11615360
+"Gross Domestic Product",2,At Constant 2018 Prices,2012,12416466
+"Gross Domestic Product",2,At Constant 2018 Prices,2013,13254644
+"Gross Domestic Product",2,At Constant 2018 Prices,2014,14096047
+"Gross Domestic Product",2,At Constant 2018 Prices,2015,14990907
+"Gross Domestic Product",2,At Constant 2018 Prices,2016,16062676
+"Gross Domestic Product",2,At Constant 2018 Prices,2017,17175978
+"Gross Domestic Product",2,At Constant 2018 Prices,2018,18265190
+"Gross Domestic Product",2,At Constant 2018 Prices,2019,19382751
+"Gross Domestic Product",2,At Constant 2018 Prices,2020,17537843
+"Gross Domestic Product",2,At Constant 2018 Prices,2021,18540084
+"Gross Domestic Product",2,At Constant 2018 Prices,2022,19945605
+"Gross Domestic Product",2,At Constant 2018 Prices,2023,21046393
+"Gross Domestic Product",2,At Constant 2018 Prices,2024,22249140
+"Gross Domestic Product",2,At Constant 2018 Prices,2025,23228637
+"Net primary income from the rest of the world",2,At Current Prices,2000,348601
+"Net primary income from the rest of the world",2,At Current Prices,2001,385364
+"Net primary income from the rest of the world",2,At Current Prices,2002,414766
+"Net primary income from the rest of the world",2,At Current Prices,2003,443997
+"Net primary income from the rest of the world",2,At Current Prices,2004,496610
+"Net primary income from the rest of the world",2,At Current Prices,2005,577513
+"Net primary income from the rest of the world",2,At Current Prices,2006,602492
+"Net primary income from the rest of the world",2,At Current Prices,2007,646487
+"Net primary income from the rest of the world",2,At Current Prices,2008,754128
+"Net primary income from the rest of the world",2,At Current Prices,2009,968972
+"Net primary income from the rest of the world",2,At Current Prices,2010,1054599
+"Net primary income from the rest of the world",2,At Current Prices,2011,1094896
+"Net primary income from the rest of the world",2,At Current Prices,2012,1220547
+"Net primary income from the rest of the world",2,At Current Prices,2013,1417074
+"Net primary income from the rest of the world",2,At Current Prices,2014,1521990
+"Net primary income from the rest of the world",2,At Current Prices,2015,1593553
+"Net primary income from the rest of the world",2,At Current Prices,2016,1680553
+"Net primary income from the rest of the world",2,At Current Prices,2017,1826528
+"Net primary income from the rest of the world",2,At Current Prices,2018,1947159
+"Net primary income from the rest of the world",2,At Current Prices,2019,1954197
+"Net primary income from the rest of the world",2,At Current Prices,2020,1360427
+"Net primary income from the rest of the world",2,At Current Prices,2021,690388
+"Net primary income from the rest of the world",2,At Current Prices,2022,1294379
+"Net primary income from the rest of the world",2,At Current Prices,2023,2664590
+"Net primary income from the rest of the world",2,At Current Prices,2024,3433178
+"Net primary income from the rest of the world",2,At Current Prices,2025,4188900
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2000,688779
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2001,714252
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2002,741060
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2003,772334
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2004,812084
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2005,881147
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2006,872005
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2007,909001
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2008,981530
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2009,1243170
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2010,1302182
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2011,1287861
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2012,1397837
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2013,1586182
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2014,1662037
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2015,1731386
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2016,1800003
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2017,1908246
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2018,1947159
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2019,1916282
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2020,1320173
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2021,639322
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2022,1130111
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2023,2221265
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2024,2801259
+"Net primary income from the rest of the world",2,At Constant 2018 Prices,2025,3352716
+"Gross National Income",0,At Current Prices,2000,4046157
+"Gross National Income",0,At Current Prices,2001,4409763
+"Gross National Income",0,At Current Prices,2002,4765326
+"Gross National Income",0,At Current Prices,2003,5161806
+"Gross National Income",0,At Current Prices,2004,5820514
+"Gross National Income",0,At Current Prices,2005,6494795
+"Gross National Income",0,At Current Prices,2006,7152910
+"Gross National Income",0,At Current Prices,2007,7844732
+"Gross National Income",0,At Current Prices,2008,8804329
+"Gross National Income",0,At Current Prices,2009,9359393
+"Gross National Income",0,At Current Prices,2010,10454049
+"Gross National Income",0,At Current Prices,2011,11239557
+"Gross National Income",0,At Current Prices,2012,12281136
+"Gross National Income",0,At Current Prices,2013,13467666
+"Gross National Income",0,At Current Prices,2014,14728818
+"Gross National Income",0,At Current Prices,2015,15537710
+"Gross National Income",0,At Current Prices,2016,16812934
+"Gross National Income",0,At Current Prices,2017,18383179
+"Gross National Income",0,At Current Prices,2018,20212349
+"Gross National Income",0,At Current Prices,2019,21472060
+"Gross National Income",0,At Current Prices,2020,19312001
+"Gross National Income",0,At Current Prices,2021,20101002
+"Gross National Income",0,At Current Prices,2022,23322655
+"Gross National Income",0,At Current Prices,2023,26978153
+"Gross National Income",0,At Current Prices,2024,29882621
+"Gross National Income",0,At Current Prices,2025,32198834
+"Gross National Income",0,At Constant 2018 Prices,2000,7674162
+"Gross National Income",0,At Constant 2018 Prices,2001,7912636
+"Gross National Income",0,At Constant 2018 Prices,2002,8206954
+"Gross National Income",0,At Constant 2018 Prices,2003,8618012
+"Gross National Income",0,At Constant 2018 Prices,2004,9173162
+"Gross National Income",0,At Constant 2018 Prices,2005,9655472
+"Gross National Income",0,At Constant 2018 Prices,2006,10112809
+"Gross National Income",0,At Constant 2018 Prices,2007,10752241
+"Gross National Income",0,At Constant 2018 Prices,2008,11252407
+"Gross National Income",0,At Constant 2018 Prices,2009,11662803
+"Gross National Income",0,At Constant 2018 Prices,2010,12486043
+"Gross National Income",0,At Constant 2018 Prices,2011,12903221
+"Gross National Income",0,At Constant 2018 Prices,2012,13814303
+"Gross National Income",0,At Constant 2018 Prices,2013,14840826
+"Gross National Income",0,At Constant 2018 Prices,2014,15758084
+"Gross National Income",0,At Constant 2018 Prices,2015,16722293
+"Gross National Income",0,At Constant 2018 Prices,2016,17862678
+"Gross National Income",0,At Constant 2018 Prices,2017,19084224
+"Gross National Income",0,At Constant 2018 Prices,2018,20212349
+"Gross National Income",0,At Constant 2018 Prices,2019,21299032
+"Gross National Income",0,At Constant 2018 Prices,2020,18858016
+"Gross National Income",0,At Constant 2018 Prices,2021,19179406
+"Gross National Income",0,At Constant 2018 Prices,2022,21075715
+"Gross National Income",0,At Constant 2018 Prices,2023,23267658
+"Gross National Income",0,At Constant 2018 Prices,2024,25050400
+"Gross National Income",0,At Constant 2018 Prices,2025,26581353

@@ -1,0 +1,357 @@
+# Source: PSA OpenSTAT table 0012M4ACP25 'Weights by Commodity Group for CPI, 2018-based' (all income households), https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/2M/PI/CPI/2018NEW/0012M4ACP25.px
+# Downloaded 2026-09-30 by Claude (AI assistant) via the PXWeb API; Philippines, all commodity levels. Weights sum to 100 (all items).
+"Geolocation","Commodity Description","Weights"
+"PHILIPPINES","0 - ALL ITEMS",100.00000000
+"PHILIPPINES","01 - FOOD AND NON-ALCOHOLIC BEVERAGES",37.74513788
+"PHILIPPINES","01.1 - FOOD",34.78277331
+"PHILIPPINES","01.1.1 - Cereals and cereal products (ND)",12.32263497
+"PHILIPPINES","01.1.1.1 - Cereals (ND)",9.35153555
+"PHILIPPINES","01.1.1.12 - Rice",8.86892629
+"PHILIPPINES","01.1.1.16 - Corn",0.48260926
+"PHILIPPINES","01.1.1.20 - Flour, Bread and Other Bakery Products, Pasta Products,  and Other Cereals",2.97109942
+"PHILIPPINES","01.1.1.2 - Flour of cereals (ND)",0.06367259
+"PHILIPPINES","01.1.1.3 - Bread and bakery products (ND)",1.88287082
+"PHILIPPINES","01.1.1.4 - Breakfast cereals (ND)",0.04918574
+"PHILIPPINES","01.1.1.5 - Macaroni, noodles, couscous and similar pasta products (ND)",0.62074044
+"PHILIPPINES","01.1.1.9 - Other cereal and grain mill products (ND)",0.35462983
+"PHILIPPINES","01.1.2 - Meat and other parts of slaughtered land animals (ND)",6.42779197
+"PHILIPPINES","01.1.2.2 - Meat, fresh, chilled or frozen (ND)",4.82193688
+"PHILIPPINES","01.1.2.3 - Meat, dried, salted, in brine or smoked (ND)",0.03635189
+"PHILIPPINES","01.1.2.4 - Offal, blood and other parts of slaughtered animals, fresh, chilled or frozen, dried, salted, in brine or smoked (ND)",0.13399812
+"PHILIPPINES","01.1.2.5 - Meat, offal, blood and other parts of slaughtered animals' preparations (ND)",1.43550508
+"PHILIPPINES","01.1.3 - Fish and other seafood (ND)",5.65662725
+"PHILIPPINES","01.1.3.1 - Fish, live, fresh, chilled or frozen (ND)",4.16564140
+"PHILIPPINES","01.1.3.2 - Fish, dried, salted, in brine or smoked (ND)",0.44445231
+"PHILIPPINES","01.1.3.3 - Fish preparations (ND)",0.49702030
+"PHILIPPINES","01.1.3.4 - Other seafood, live, fresh, chilled or frozen (ND)",0.52980090
+"PHILIPPINES","01.1.3.6 - Other seafood preparations (ND)",0.01971234
+"PHILIPPINES","01.1.4 - Milk, other dairy products and eggs (ND)",2.90254605
+"PHILIPPINES","01.1.4.1 - Raw and whole milk (ND)",0.05306768
+"PHILIPPINES","01.1.4.3 - Other milk and cream (ND)",1.51382548
+"PHILIPPINES","01.1.4.4 - Non-animal milk (ND)",0.00549568
+"PHILIPPINES","01.1.4.5 - Cheese (ND)",0.11523912
+"PHILIPPINES","01.1.4.6 - Yoghurt and similar products (ND)",0.00368894
+"PHILIPPINES","01.1.4.7 - Milk-based dessert and beverages (ND)",0.04793033
+"PHILIPPINES","01.1.4.8 - Eggs (ND)",1.16329882
+"PHILIPPINES","01.1.5 - Oils and fats (ND)",0.57263250
+"PHILIPPINES","01.1.5.1 - Vegetable oils (ND)",0.43372514
+"PHILIPPINES","01.1.5.2 - Butter and other fats and oils derived from milk (ND)",0.02989728
+"PHILIPPINES","01.1.5.3 - Margarine and similar preparations (ND)",0.10785051
+"PHILIPPINES","01.1.5.9 - Other animal oils and fats (ND)",0.00115957
+"PHILIPPINES","01.1.6 - Fruits and nuts (ND)",1.49371556
+"PHILIPPINES","01.1.6.1 - Dates, figs and tropical fruits, fresh (ND)",1.34150663
+"PHILIPPINES","01.1.6.2 - Citrus fruits, fresh (ND)",0.04240906
+"PHILIPPINES","01.1.6.3 - Stone fruits and pome fruits, fresh (ND)",0.01895401
+"PHILIPPINES","01.1.6.5 - Other fruits, fresh (ND)",0.00388570
+"PHILIPPINES","01.1.6.7 - Fruit, dried and dehydrated (ND)",0.00622769
+"PHILIPPINES","01.1.6.8 - Nuts, in shell or shelled (ND)",0.04172497
+"PHILIPPINES","01.1.6.9 - Fruit and nuts ground and other preparations (ND)",0.03900750
+"PHILIPPINES","01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",2.79828971
+"PHILIPPINES","01.1.7.1 - Leafy or stem vegetables, fresh or chilled (ND)",0.73337519
+"PHILIPPINES","01.1.7.2 - Fruit-bearing vegetables, fresh or chilled (ND)",0.99849108
+"PHILIPPINES","01.1.7.3 - Green leguminous vegetables, fresh or chilled (ND)",0.01843911
+"PHILIPPINES","01.1.7.4 - Other vegetables, fresh or chilled (ND)",0.69421589
+"PHILIPPINES","01.1.7.5 - Tubers, plantains and cooking bananas (ND)",0.28559499
+"PHILIPPINES","01.1.7.9 - Vegetables, tubers, plantains, cooking bananas and pulses ground and other preparations (ND)",0.06817345
+"PHILIPPINES","01.1.8 - Sugar, confectionery and desserts (ND)",1.04969224
+"PHILIPPINES","01.1.8.1 - Cane and beet sugar (ND)",0.46449084
+"PHILIPPINES","01.1.8.3 - Jams, fruit jellies, marmalades, fruit purée and pastes, honey (ND)",0.01992085
+"PHILIPPINES","01.1.8.4 - Nut purée, nut butter and nut pastes (ND)",0.13642403
+"PHILIPPINES","01.1.8.5 - Chocolate, cocoa, and cocoa-based food products (ND)",0.04311945
+"PHILIPPINES","01.1.8.6 - Ice, ice cream and sorbet (ND)",0.33291916
+"PHILIPPINES","01.1.8.9 - Other sugar confectionery and desserts n.e.c. (ND)",0.05281791
+"PHILIPPINES","01.1.9 - Ready-made food and other food products n.e.c. (ND)",1.55884306
+"PHILIPPINES","01.1.9.2 - Baby food (ND)",0.49879290
+"PHILIPPINES","01.1.9.3 - Salt, condiments and sauces (ND)",0.70814938
+"PHILIPPINES","01.1.9.4 - Spices, culinary herbs and seeds (ND)",0.28231356
+"PHILIPPINES","01.1.9.9 - Other food products n.e.c. (ND)",0.06958722
+"PHILIPPINES","01.2 - NON-ALCOHOLIC BEVERAGES",2.96236457
+"PHILIPPINES","01.2.1 - Fruit and vegetable juices (ND)",0.32339373
+"PHILIPPINES","01.2.1.0 - Fruit and vegetable juices (ND)",0.32339373
+"PHILIPPINES","01.2.2 - Coffee and coffee substitutes (ND)",1.20033473
+"PHILIPPINES","01.2.2.0 - Coffee and coffee substitutes (ND)",1.20033473
+"PHILIPPINES","01.2.3 - Tea, maté and other plant products for infusion (ND)",0.02424985
+"PHILIPPINES","01.2.3.0 - Tea, maté and other plant products for infusion (ND)",0.02424985
+"PHILIPPINES","01.2.4 - Cocoa drinks (ND)",0.35931204
+"PHILIPPINES","01.2.4.0 - Cocoa drinks (ND)",0.35931204
+"PHILIPPINES","01.2.5 - Water (ND)",0.62826284
+"PHILIPPINES","01.2.5.0 - Water (ND)",0.62826284
+"PHILIPPINES","01.2.6 - Soft drinks (ND)",0.40356845
+"PHILIPPINES","01.2.6.0 - Soft drinks (ND)",0.40356845
+"PHILIPPINES","01.2.9 - Other non-alcoholic beverages (ND)",0.02324293
+"PHILIPPINES","01.2.9.0 - Other non-alcoholic beverages (ND)",0.02324293
+"PHILIPPINES","02 - ALCOHOLIC BEVERAGES AND TOBACCO",2.16239039
+"PHILIPPINES","02.1 - ALCOHOLIC BEVERAGES",0.88055957
+"PHILIPPINES","02.1.1 - Spirits and liquors (ND)",0.46584145
+"PHILIPPINES","02.1.1.0 - Spirits and liquors (ND)",0.46584145
+"PHILIPPINES","02.1.2 - Wine (ND)",0.04842458
+"PHILIPPINES","02.1.2.1 - Wine from grapes (ND)",0.00944802
+"PHILIPPINES","02.1.2.2 - Wine from other sources (ND)",0.03897656
+"PHILIPPINES","02.1.3 - Beer (ND)",0.36629354
+"PHILIPPINES","02.1.3.0 - Beer (ND)",0.36629354
+"PHILIPPINES","02.3 - TOBACCO",1.27843772
+"PHILIPPINES","02.3.0 - Tobacco (ND)",1.27843772
+"PHILIPPINES","02.3.0.1 - Cigarettes (ND)",1.25803852
+"PHILIPPINES","02.3.0.2 - Cigars (ND)",0.00398935
+"PHILIPPINES","02.3.0.9 - Other tobacco products (ND)",0.01640985
+"PHILIPPINES","02.4 - OTHER VEGETABLE-BASED TOBACCO PRODUCTS",0.00339310
+"PHILIPPINES","02.4.0 - Other vegetable-based tobacco products (ND)",0.00339310
+"PHILIPPINES","02.4.0.0 - Other vegetable-based tobacco products (ND)",0.00339310
+"PHILIPPINES","02.900 - NON-FOOD",60.09247173
+"PHILIPPINES","03 - CLOTHING AND FOOTWEAR",3.13578446
+"PHILIPPINES","03.1 - CLOTHING",2.15391392
+"PHILIPPINES","03.1.1 - Clothing materials (SD)",0.00441798
+"PHILIPPINES","03.1.1.0 - Clothing materials (SD)",0.00441798
+"PHILIPPINES","03.1.2 - Garments (SD)",2.07701602
+"PHILIPPINES","03.1.2.1 - Garments for men or boys (SD)",1.06255485
+"PHILIPPINES","03.1.2.2 - Garments for women or girls (SD)",0.98131359
+"PHILIPPINES","03.1.2.3 - Garments for infants (0 to under 2 years) (SD)",0.03289375
+"PHILIPPINES","03.1.2.4 - School uniforms (SD)",0.00025383
+"PHILIPPINES","03.1.3 - Other articles of clothing and clothing accessories (SD)",0.01351817
+"PHILIPPINES","03.1.3.1 - Other articles of clothing (SD)",0.01186810
+"PHILIPPINES","03.1.3.2 - Clothing accessories (SD)",0.00165007
+"PHILIPPINES","03.1.4 - Cleaning, repair, tailoring and hire of clothing (S)",0.05896175
+"PHILIPPINES","03.1.4.1 - Cleaning of clothing (S)",0.04303479
+"PHILIPPINES","03.1.4.2 - Repair, tailoring and hire of clothing (S)",0.01592696
+"PHILIPPINES","03.2 - FOOTWEAR",0.98187054
+"PHILIPPINES","03.2.1 - Shoes and other footwear (SD)",0.98119961
+"PHILIPPINES","03.2.1.1 - Footwear for men (SD)",0.40354150
+"PHILIPPINES","03.2.1.2 - Footwear for women (SD)",0.28088807
+"PHILIPPINES","03.2.1.3 - Footwear for infants and children (SD)",0.29677004
+"PHILIPPINES","03.2.2 - Cleaning, repair, and hire of footwear (S)",0.00067093
+"PHILIPPINES","03.2.2.0 - Cleaning, repair, and hire of footwear (S)",0.00067093
+"PHILIPPINES","04 - HOUSING, WATER, ELECTRICITY, GAS, AND OTHER FUELS",21.37908091
+"PHILIPPINES","04.1 - ACTUAL RENTALS FOR HOUSING",12.81504599
+"PHILIPPINES","04.1.1 - Actual rentals paid by tenants for main residence (S)",12.81504599
+"PHILIPPINES","04.1.1.0 - Actual rentals paid by tenants for main residence (S)",12.81504599
+"PHILIPPINES","04.3 - MAINTENANCE, REPAIR AND SECURITY OF THE DWELLING",0.65648518
+"PHILIPPINES","04.3.1 - Security equipment and materials for the maintenance and repair of the dwelling (ND)",0.50951740
+"PHILIPPINES","04.3.1.1 - Materials for the maintenance and repair of the dwelling (ND)",0.50951740
+"PHILIPPINES","04.3.2 - Services for the maintenance, repair and security of the dwelling (S)",0.14696778
+"PHILIPPINES","04.3.2.0 - Services for the maintenance, repair and security of the dwelling (S)",0.14696778
+"PHILIPPINES","04.4 - WATER SUPPLY AND MISCELLANEOUS SERVICES RELATING TO THE DWELLING",1.16481360
+"PHILIPPINES","04.4.1 - Water supply (ND)",1.16481360
+"PHILIPPINES","04.4.1.1 - Water supply through network systems (ND)",1.16481360
+"PHILIPPINES","04.5 - ELECTRICITY, GAS AND OTHER FUELS",6.74273614
+"PHILIPPINES","04.5.1 - Electricity (ND)",4.55477744
+"PHILIPPINES","04.5.1.0 - Electricity (ND)",4.55477744
+"PHILIPPINES","04.5.2 - Gas (ND)",1.27319683
+"PHILIPPINES","04.5.2.2 - Liquefied hydrocarbons (ND)",1.27319683
+"PHILIPPINES","04.5.3 - Liquid fuels (ND)",0.04316871
+"PHILIPPINES","04.5.3.0 - Liquid fuels (ND)",0.04316871
+"PHILIPPINES","04.5.4 - Solid fuels (ND)",0.87159316
+"PHILIPPINES","04.5.4.2 - Wood fuel, including pellets and briquettes (ND)",0.63164202
+"PHILIPPINES","04.5.4.3 - Charcoal (ND)",0.23995114
+"PHILIPPINES","05 - FURNISHINGS, HOUSEHOLD EQUIPMENT AND ROUTINE HOUSEHOLD MAINTENANCE",3.21874212
+"PHILIPPINES","05.1 - FURNITURE, FURNISHINGS, AND LOOSE CARPETS",0.26705040
+"PHILIPPINES","05.1.1 - Furniture, furnishings and loose carpets (D)",0.26705040
+"PHILIPPINES","05.1.1.1 - Household furniture (D)",0.24071636
+"PHILIPPINES","05.1.1.3 - Lighting equipment (D)",0.00827981
+"PHILIPPINES","05.1.1.4 - Furnishings, loose carpets and rugs (D)",0.01805423
+"PHILIPPINES","05.2 - HOUSEHOLD TEXTILES",0.09814616
+"PHILIPPINES","05.2.1 - Household textiles (SD)",0.09814616
+"PHILIPPINES","05.2.1.1 - Furnishing fabrics and curtains (SD)",0.02885876
+"PHILIPPINES","05.2.1.2 - Bed linen and bedding (SD)",0.06148560
+"PHILIPPINES","05.2.1.3 - Table linen and bathroom linen (SD)",0.00385431
+"PHILIPPINES","05.2.1.9 - Other household textiles (SD)",0.00394749
+"PHILIPPINES","05.3 - HOUSEHOLD APPLIANCES",0.59766418
+"PHILIPPINES","05.3.1 - Major household appliances, whether electric or not (D)",0.49518050
+"PHILIPPINES","05.3.1.1 - Major kitchen appliances (D)",0.27003185
+"PHILIPPINES","05.3.1.2 - Major laundry appliances (D)",0.14413553
+"PHILIPPINES","05.3.1.3 - Heaters, air conditioners (D)",0.08101312
+"PHILIPPINES","05.3.2 - Small household appliances (SD)",0.09657545
+"PHILIPPINES","05.3.2.1 - Small appliances for cooking and processing of food (SD)",0.02333431
+"PHILIPPINES","05.3.2.9 - Other small household appliances (SD)",0.07324114
+"PHILIPPINES","05.3.3 - Repair, installation and hire of household appliances (S)",0.00590823
+"PHILIPPINES","05.3.3.0 - Repair, installation and hire of household appliances (S)",0.00590823
+"PHILIPPINES","05.4 - GLASSWARE, TABLEWARE AND HOUSEHOLD UTENSILS",0.02625409
+"PHILIPPINES","05.4.0 - Glassware, tableware and household utensils (SD)",0.02625409
+"PHILIPPINES","05.4.0.1 - Glassware, crystal-ware, ceramic ware and chinaware (SD)",0.01457374
+"PHILIPPINES","05.4.0.2 - Cutlery, flatware and silverware (SD)",0.00396138
+"PHILIPPINES","05.4.0.3 - Kitchen utensils and articles (SD)",0.00771897
+"PHILIPPINES","05.5 - TOOLS AND EQUIPMENT FOR HOUSE AND GARDEN",0.02157618
+"PHILIPPINES","05.5.1 - Motorized tools and equipment (D)",0.00507601
+"PHILIPPINES","05.5.1.0 - Motorized tools and equipment (D)",0.00507601
+"PHILIPPINES","05.5.2 - Non-motorized tools and miscellaneous accessories (SD)",0.01650017
+"PHILIPPINES","05.5.2.1 - Non-motorized tools (SD)",0.00716042
+"PHILIPPINES","05.5.2.2 - Miscellaneous accessories (SD)",0.00933975
+"PHILIPPINES","05.6 - GOODS AND SERVICES FOR ROUTINE HOUSEHOLD MAINTENANCE",2.20805111
+"PHILIPPINES","05.6.1 - Non-durable household goods (ND)",1.43987092
+"PHILIPPINES","05.6.1.1 - Household cleaning and maintenance products (ND)",0.37421225
+"PHILIPPINES","05.6.1.9 - Other non-durable household goods (ND)",1.06565867
+"PHILIPPINES","05.6.2 - Domestic services and household services (S)",0.76818019
+"PHILIPPINES","05.6.2.1 - Domestic services by paid staff (S)",0.76818019
+"PHILIPPINES","06 - HEALTH",2.88592085
+"PHILIPPINES","06.1 - MEDICINES AND HEALTH PRODUCTS",1.82823563
+"PHILIPPINES","06.1.1 - Medicines (ND)",1.73692439
+"PHILIPPINES","06.1.1.1 - Medicines, vaccines and other pharmaceutical preparations (ND)",1.73692439
+"PHILIPPINES","06.1.2 - Medical products (ND)",0.02090746
+"PHILIPPINES","06.1.2.1 - Medical diagnostic products (ND)",0.00637844
+"PHILIPPINES","06.1.2.2 - Prevention and protective devices (ND)",0.00738524
+"PHILIPPINES","06.1.2.3 - Treatment devices for personal use (ND)",0.00714378
+"PHILIPPINES","06.1.3 - Assistive products (D)",0.07040378
+"PHILIPPINES","06.1.3.1 - Assistive products for vision (D)",0.07040378
+"PHILIPPINES","06.2 - OUTPATIENT CARE SERVICES",0.46156060
+"PHILIPPINES","06.2.1 - Preventive care services (S)",0.30339994
+"PHILIPPINES","06.2.1.9 - Other preventive services (S)",0.30339994
+"PHILIPPINES","06.2.2 - Outpatient dental services (S)",0.15815021
+"PHILIPPINES","06.2.2.1 - Dental preventive services (S)",0.15815021
+"PHILIPPINES","06.2.3 - Other outpatient care services (S)",0.00001045
+"PHILIPPINES","06.2.3.1 - Outpatient curative and rehabilitative services (S)",0.00001045
+"PHILIPPINES","06.3 - INPATIENT CARE SERVICES",0.57391163
+"PHILIPPINES","06.3.1 - Inpatient curative and rehabilitative services (S)",0.57391163
+"PHILIPPINES","06.3.1.0 - Inpatient curative and rehabilitative services (S)",0.57391163
+"PHILIPPINES","06.4 - OTHER HEALTH SERVICES",0.02221299
+"PHILIPPINES","06.4.1 - Diagnostic imaging services and medical laboratory services (S)",0.02221299
+"PHILIPPINES","06.4.1.0 - Diagnostic imaging services and medical laboratory services (S)",0.02221299
+"PHILIPPINES","07 - TRANSPORT",9.03222217
+"PHILIPPINES","07.1 - PURCHASE OF VEHICLES",1.68140097
+"PHILIPPINES","07.1.1 - Motor cars (D)",0.47574276
+"PHILIPPINES","07.1.1.1 - New motor cars (D)",0.47574276
+"PHILIPPINES","07.1.2 - Motorcycles (D)",0.92094857
+"PHILIPPINES","07.1.2.0 - Motorcycles (D)",0.92094857
+"PHILIPPINES","07.1.3 - Bicycles (D)",0.28470964
+"PHILIPPINES","07.1.3.0 - Bicycles (D)",0.28470964
+"PHILIPPINES","07.2 - OPERATION OF PERSONAL TRANSPORT EQUIPMENT",2.80796396
+"PHILIPPINES","07.2.1 - Parts and accessories for personal transport equipment (SD)",0.21190172
+"PHILIPPINES","07.2.1.1 - Tires (SD)",0.10191840
+"PHILIPPINES","07.2.1.2 - Parts for personal transport equipment (SD)",0.10996760
+"PHILIPPINES","07.2.1.3 - Accessories for personal transport equipment (SD)",0.00001572
+"PHILIPPINES","07.2.2 - Fuels and lubricants for personal transport equipment (ND)",2.39038551
+"PHILIPPINES","07.2.2.1 - Diesel (ND)",0.59760630
+"PHILIPPINES","07.2.2.2 - Gasoline (ND)",1.76639102
+"PHILIPPINES","07.2.2.3 - Other fuels for personal transport equipment (ND)",0.00416976
+"PHILIPPINES","07.2.2.4 - Lubricants (ND)",0.02221843
+"PHILIPPINES","07.2.3 - Maintenance and repair of personal transport equipment (S)",0.15165987
+"PHILIPPINES","07.2.3.0 - Maintenance and repair of personal transport equipment (S)",0.15165987
+"PHILIPPINES","07.2.4 - Other services in respect of personal transport equipment (S)",0.05401686
+"PHILIPPINES","07.2.4.2 - Toll facilities (S)",0.04882824
+"PHILIPPINES","07.2.4.3 - Driving lessons, tests, licences, and road worthiness tests (S)",0.00518862
+"PHILIPPINES","07.3 - PASSENGER TRANSPORT SERVICES",4.53850678
+"PHILIPPINES","07.3.1 - Passenger transport by railway (S)",0.04637951
+"PHILIPPINES","07.3.1.1 - Passenger transport by train (S)",0.02318976
+"PHILIPPINES","07.3.1.2 - Passenger transport by rapid transit and tram (S)",0.02318975
+"PHILIPPINES","07.3.2 - Passenger transport by road (S)",4.29121513
+"PHILIPPINES","07.3.2.1 - Passenger transport by bus and coach (S)",0.65201768
+"PHILIPPINES","07.3.2.2 - Passenger transport by taxi and hired car with driver (S)",0.15178106
+"PHILIPPINES","07.3.2.9 - Other passenger transport by road (S)",3.48741639
+"PHILIPPINES","07.3.3 - Passenger transport by air (S)",0.08394400
+"PHILIPPINES","07.3.3.1 - Passenger transport by air, domestic (S)",0.08394400
+"PHILIPPINES","07.3.4 - Passenger transport by sea and inland waterway (S)",0.11696814
+"PHILIPPINES","07.3.4.0 - Passenger transport by sea and inland waterway (S)",0.11696814
+"PHILIPPINES","07.4 - TRANSPORT SERVICES OF GOODS",0.00435046
+"PHILIPPINES","07.4.1 - Postal and courier services (S)",0.00435046
+"PHILIPPINES","07.4.1.1 - Letter handling services (S)",0.00299120
+"PHILIPPINES","07.4.1.2 - Courier and parcel delivery services (S)",0.00135926
+"PHILIPPINES","08 - INFORMATION AND COMMUNICATION",3.41094884
+"PHILIPPINES","08.1 - INFORMATION AND COMMUNICATION EQUIPMENT",1.11968748
+"PHILIPPINES","08.1.1 - Fixed telephone equipment (D)",0.00077268
+"PHILIPPINES","08.1.1.0 - Fixed telephone equipment (D)",0.00077268
+"PHILIPPINES","08.1.2 - Mobile telephone equipment (D)",0.29807334
+"PHILIPPINES","08.1.2.0 - Mobile telephone equipment (D)",0.29807334
+"PHILIPPINES","08.1.3 - Information processing equipment (D)",0.26811946
+"PHILIPPINES","08.1.3.1 - Computers, laptops and tablets (D)",0.22918807
+"PHILIPPINES","08.1.3.2 - Peripheral equipment and its consumable components (D)",0.03893139
+"PHILIPPINES","08.1.4 - Equipment for the reception, recording and reproduction of sound and vision (D)",0.51858558
+"PHILIPPINES","08.1.4.0 - Equipment for the reception, recording and reproduction of sound and vision (D)",0.51858558
+"PHILIPPINES","08.1.5 - Unrecorded recording media (SD)",0.03413642
+"PHILIPPINES","08.1.5.0 - Unrecorded recording media (SD)",0.03413642
+"PHILIPPINES","08.3 - INFORMATION AND COMMUNICATION SERVICES",2.29126136
+"PHILIPPINES","08.3.1 - Fixed communication services (S)",0.07072880
+"PHILIPPINES","08.3.1.0 - Fixed communication services (S)",0.07072880
+"PHILIPPINES","08.3.2 - Mobile communication services (S)",1.91648970
+"PHILIPPINES","08.3.2.0 - Mobile communication services (S)",1.91648970
+"PHILIPPINES","08.3.3 - Internet access provision services and net storage services (S)",0.30369858
+"PHILIPPINES","08.3.3.0 - Internet access provision services and net storage services (S)",0.30369858
+"PHILIPPINES","08.3.5 - Repair and rental of information and communication equipment (S)",0.00034428
+"PHILIPPINES","08.3.5.0 - Repair and rental of information and communication equipment (S)",0.00034428
+"PHILIPPINES","09 - RECREATION, SPORT AND CULTURE",0.96143308
+"PHILIPPINES","09.1 - RECREATIONAL DURABLES",0.00868859
+"PHILIPPINES","09.1.1 - Photographic and cinematographic equipment and optical instruments (D)",0.00868859
+"PHILIPPINES","09.1.1.1 - Cameras (D)",0.00868859
+"PHILIPPINES","09.2 - OTHER RECREATIONAL GOODS",0.15241773
+"PHILIPPINES","09.2.1 - Games, toys and hobbies (SD)",0.14801443
+"PHILIPPINES","09.2.1.2 - Other games, toys and hobbies (SD)",0.14801443
+"PHILIPPINES","09.2.2 - Equipment for sport, camping and open-air recreation (SD)",0.00440330
+"PHILIPPINES","09.2.2.1 - Equipment for sport (SD)",0.00437560
+"PHILIPPINES","09.2.2.2 - Equipment for camping and open-air recreation (SD)",0.00002770
+"PHILIPPINES","09.3 - GARDEN PRODUCTS AND PETS",0.12383354
+"PHILIPPINES","09.3.1 - Garden products, plants and flowers (ND)",0.05930045
+"PHILIPPINES","09.3.1.1 - Garden products (ND)",0.03057637
+"PHILIPPINES","09.3.1.2 - Plants, seeds and flowers (ND)",0.02872408
+"PHILIPPINES","09.3.2 - Pets and products for pets (ND)",0.06453309
+"PHILIPPINES","09.3.2.2 - Products for pets and other household animals (ND)",0.06453309
+"PHILIPPINES","09.4 - RECREATIONAL SERVICES",0.13925170
+"PHILIPPINES","09.4.6 - Recreational and sporting services (S)",0.00216354
+"PHILIPPINES","09.4.6.2 - Sporting services - practice (S)",0.00216354
+"PHILIPPINES","09.4.7 - Games of chance (S)",0.13708816
+"PHILIPPINES","09.4.7.0 - Games of chance (S)",0.13708816
+"PHILIPPINES","09.5 - CULTURAL GOODS",0.00606089
+"PHILIPPINES","09.5.1 - Musical instruments (D)",0.00606089
+"PHILIPPINES","09.5.1.0 - Musical instruments (D)",0.00606089
+"PHILIPPINES","09.6 - CULTURAL SERVICES",0.07450299
+"PHILIPPINES","09.6.1 - Services provided by cinemas, theatres and concert venues (S)",0.03090130
+"PHILIPPINES","09.6.1.0 - Services provided by cinemas, theatres and concert venues (S)",0.03090130
+"PHILIPPINES","09.6.3 - Photographic services (S)",0.00005499
+"PHILIPPINES","09.6.3.0 - Photographic services (S)",0.00005499
+"PHILIPPINES","09.6.9 - Other cultural services (S)",0.04354670
+"PHILIPPINES","09.6.9.0 - Other cultural services (S)",0.04354670
+"PHILIPPINES","09.7 - NEWSPAPERS, BOOKS AND STATIONERY",0.40141845
+"PHILIPPINES","09.7.1 - Books (SD)",0.09687052
+"PHILIPPINES","09.7.1.1 - Educational and textbooks in printed or electronic copy (SD)",0.06603941
+"PHILIPPINES","09.7.1.9 - Other books (SD) in printed or electronic copy",0.03083111
+"PHILIPPINES","09.7.2 - Newspapers and periodicals (ND)",0.00966830
+"PHILIPPINES","09.7.2.1 - Newspapers (ND)",0.00553145
+"PHILIPPINES","09.7.2.2 - Magazines and periodicals (ND)",0.00413685
+"PHILIPPINES","09.7.4 - Stationery and drawing materials (ND)",0.29487963
+"PHILIPPINES","09.7.4.0 - Stationery and drawing materials (ND)",0.29487963
+"PHILIPPINES","09.8 - PACKAGE HOLIDAYS (S)",0.05525919
+"PHILIPPINES","09.8.0 - Package holidays (S)",0.05525919
+"PHILIPPINES","09.8.0.0 - Package holidays (S)",0.05525919
+"PHILIPPINES","10 - EDUCATION SERVICES",1.95796832
+"PHILIPPINES","10.1 - EARLY CHILDHOOD AND PRIMARY EDUCATION",0.57396555
+"PHILIPPINES","10.1.0 - Early chilhood and primary education (S)",0.57396555
+"PHILIPPINES","10.1.0.1 - Early childhood education services (S)",0.16113449
+"PHILIPPINES","10.1.0.2 - Primary education (S)",0.41283106
+"PHILIPPINES","10.2 - SECONDARY EDUCATION  (S)",0.57810696
+"PHILIPPINES","10.2.0 - Secondary education (S)",0.57810696
+"PHILIPPINES","10.2.0.1 - Lower secondary general education services",0.40414764
+"PHILIPPINES","10.2.0.2 - Lower secondary technical-vocational livelihood programs services",0.17395932
+"PHILIPPINES","10.4 - TERTIARY EDUCATION (S)",0.78971172
+"PHILIPPINES","10.4.0 - Tertiary education (s)",0.78971172
+"PHILIPPINES","10.4.0.0 - Tertiary education (s)",0.78971172
+"PHILIPPINES","10.5 - EDUCATION NOT DEFINED BY LEVEL (S)",0.01618409
+"PHILIPPINES","10.5.0 - Education not defined by level (s)",0.01618409
+"PHILIPPINES","10.5.0.2 - Review classes for professional and licensure examination (S)",0.01390825
+"PHILIPPINES","10.5.0.9 - Other education not defined by level (S)",0.00227584
+"PHILIPPINES","11 - RESTAURANTS AND ACCOMMODATION SERVICES",9.61733058
+"PHILIPPINES","11.1 - FOOD AND BEVERAGE SERVING SERVICES",9.46771106
+"PHILIPPINES","11.1.1 - Restaurants, café and the like (S)",9.46771106
+"PHILIPPINES","11.1.1.1 - Restaurants, café and the like - with full service (S)",9.46771106
+"PHILIPPINES","11.2 - ACCOMMODATION SERVICES",0.14961952
+"PHILIPPINES","11.2.0 - Accommodation services (S)",0.14961952
+"PHILIPPINES","11.2.0.1 - Hotels, motels, inns and similar accommodation services (S)",0.14961952
+"PHILIPPINES","12 - FINANCIAL SERVICES",0.03386201
+"PHILIPPINES","12.2 - FINANCIAL SERVICES",0.03386201
+"PHILIPPINES","12.2.1 - Financial intermediation services indirectly measured (S)",0.03127442
+"PHILIPPINES","12.2.1.0 - Financial intermediation services indirectly measured (S)",0.03127442
+"PHILIPPINES","12.2.9 - Other financial services (S)",0.00258759
+"PHILIPPINES","12.2.9.1 - Remittances fees (S)",0.00258759
+"PHILIPPINES","13 - PERSONAL CARE, AND MISCELLANEOUS GOODS AND SERVICES",4.45917839
+"PHILIPPINES","13.1 - PERSONAL CARE",3.91417836
+"PHILIPPINES","13.1.1 - Electric appliances for personal care (SD)",0.00168450
+"PHILIPPINES","13.1.1.1 - Electric appliances for personal care (SD)",0.00168450
+"PHILIPPINES","13.1.2 - Other appliances, articles and products for personal care (ND)",3.37350604
+"PHILIPPINES","13.1.2.0 - Other appliances, articles and products for personal care (ND)",3.37350604
+"PHILIPPINES","13.1.3 - Hairdressing salons and personal grooming establishments (S)",0.53898782
+"PHILIPPINES","13.1.3.1 - Hairdressing (S)",0.27369395
+"PHILIPPINES","13.1.3.2 - Personal grooming treatments (S)",0.26529387
+"PHILIPPINES","13.2 - OTHER PERSONAL EFFECTS",0.50986402
+"PHILIPPINES","13.2.1 - Jewellery and watches (D)",0.11085901
+"PHILIPPINES","13.2.1.1 - Jewellery and watches (D)",0.07637043
+"PHILIPPINES","13.2.1.2 - Repair and hire of jewellery, clocks and watches (S)",0.03448858
+"PHILIPPINES","13.2.9 - Other personal effects n.e.c. (SD)",0.39900501
+"PHILIPPINES","13.2.9.1 - Travel goods and articles for babies and other personal effects n.e.c. (SD)",0.39900501
+"PHILIPPINES","13.9 - OTHER SERVICES",0.03513601
+"PHILIPPINES","13.9.0 - Other services (S)",0.03513601
+"PHILIPPINES","13.9.0.9 - Other services n.e.c. (S)",0.03513601

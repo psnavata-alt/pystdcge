@@ -1,0 +1,60 @@
+# Briones, R.M., et al. (2023), "Food affordability of Filipinos to 2030" (PIDS Discussion Paper 2023-23), Table 5 "LES elasticities for AMPLE-CGE" (pp. 19-20; source line: "Authors' imputation"), and Table 4 (p. 19; quadratic AIDS estimates of Briones et al. 2022) for "Other cereals", which Table 5 does not list.
+# The food values come from Briones et al. (2022) QAIDS estimates (Table 4); the non-food values are the authors' imputations (manufactures 1.00, services 1.10-1.20, own-price -0.90). Rice/corn and palay/maize income elasticity 0.10 per Bouis and Haddad (1992); chemicals & plastics 1.49 set by the authors so weighted elasticities sum to one.
+# Copied from the PDF's text layer by Claude Code on 2 Oct 2026 (docs/references/philippine_cge/Briones_et_al_2023_PIDS_DP2023-23_Food_affordability_Filipinos_2030.pdf).
+group,income_elasticity,own_price_elasticity,table
+Palay,0.10,-0.69,5
+Maize,0.10,-0.69,5
+Coconut,1.69,-0.90,5
+Sugarcane,1.69,-0.90,5
+Banana,0.98,-2.27,5
+Mango,0.98,-2.27,5
+Pineapple,0.98,-2.27,5
+Coffee,0.98,-1.34,5
+Cassava,1.09,-1.34,5
+Sweet potato,1.09,-1.34,5
+Other fruits,0.98,-1.34,5
+Leafy & stem vegetables,1.09,-0.96,5
+Fruit vegetables,0.98,-0.96,5
+Onion,1.09,-0.96,5
+Other crops,1.00,-1.34,5
+Hog,1.22,-0.82,5
+Cattle,1.22,-0.82,5
+Chicken,0.73,-0.61,5
+Other livestock,1.22,-0.82,5
+Eggs,0.73,-0.61,5
+Fishing,0.98,-0.83,5
+Seaweed aquaculture,0.98,-0.96,5
+Other aquaculture,0.98,-0.83,5
+Other agri-related activity,1.00,-0.90,5
+Mining,1.00,-0.90,5
+Meat fresh and processed,1.22,-0.82,5
+Processed fish,0.98,-0.83,5
+Processed fruit & vegetables,1.09,-0.96,5
+Fats & oil,1.69,-0.38,5
+Milk & dairy,1.66,-0.89,5
+Rice & corn,0.10,-0.69,5
+Other food,0.10,-1.34,5
+Sugar & sugar products,1.77,-1.34,5
+Beverages,1.77,-1.34,5
+Animal feeds,0.10,-0.90,5
+Alcoholic beverages,1.77,-0.90,5
+Tobacco,1.00,-0.90,5
+"Textiles, apparel, footwear",1.00,-0.90,5
+"Wood, paper, printing",1.00,-0.90,5
+Chemicals & plastics,1.49,-0.90,5
+Fertilizers,1.00,-0.90,5
+Mineral & metal products,1.00,-0.90,5
+"Electronic & electrical equipment, devices",1.00,-0.90,5
+Machinery & vehicles,1.00,-0.90,5
+Other manufacturing,1.00,-0.90,5
+"Electricity, gas & water",1.10,-0.90,5
+Construction,1.10,-0.90,5
+Trade,1.20,-0.90,5
+Transport & logistics,1.20,-0.90,5
+Food & accommodation,1.20,-0.90,5
+Information & communications,1.20,-0.90,5
+Finance & real estate,1.20,-0.90,5
+Professional & technical,1.10,-0.90,5
+Public sector,1.20,-0.90,5
+Other services,1.20,-0.90,5
+Other cereals,1.75,-1.81,4

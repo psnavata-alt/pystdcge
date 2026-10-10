@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with Lofgren, Harris and Robinson (2002) and the IFPRI SAM you use."
+title: "pystdcge: an open-source Python implementation of the IFPRI standard CGE model"
+version: 0.3.3
+date-released: 2026-10-10
+license: MIT
+authors:
+  - family-names: "Navata"
+    given-names: "Paolo"
+    affiliation: "Independent researcher"
+repository-code: "https://github.com/psnavata-alt/pystdcge"
+keywords:
+  - computable general equilibrium
+  - social accounting matrix
+  - input-output
+  - structural VAR
+  - Philippines
+references:
+  - type: book
+    title: "A Standard Computable General Equilibrium (CGE) Model in GAMS"
+    authors:
+      - family-names: Lofgren
+        given-names: Hans
+      - family-names: Harris
+        given-names: Rebecca Lee
+      - family-names: Robinson
+        given-names: Sherman
+    year: 2002
+    publisher:
+      name: "International Food Policy Research Institute"
+  - type: dataset
+    title: "2023 Social Accounting Matrix for Philippines"
+    authors:
+      - name: "International Food Policy Research Institute"
+    year: 2025
+    doi: 10.7910/DVN/WQXUQW

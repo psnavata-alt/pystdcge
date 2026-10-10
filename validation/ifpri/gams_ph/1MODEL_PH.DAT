@@ -1,0 +1,195 @@
+$TITLE Input file: 1MODEL_PH.DAT. IFPRI Extended standard recursive dynamic CGE modeling system, Version 2.00 -- Philippine validation data
+
+$ontext
+ALTERED VERSION (GNU GPL v2, condition 2: "Altered source versions must be plainly marked").
+This file is a MODIFIED copy of IFPRI's 1model.dat (Version 2.00, July 2005; Copyright (c) 2002 IFPRI;
+GitHub copy uw-windc/IFPRI_model). Changed on 2 Oct 2026 (pystdcge
+validation, route A), with Claude Code. The original South Africa data are replaced by a condensed IFPRI 2023
+Philippine SAM (9 sectors, 10 households). Changes, all in data handling (no model equation is changed):
+ - data are loaded from ph.gdx (made by ph_data.gms) instead of the South Africa Excel workbook via gdxxrw;
+ - South Africa-specific sets and SAM adjustments removed (labour nests by race and skill, REMEXP/REMIMP,
+   wage-based employment, capital-output initialisation, flexible skilled-labour supply, fixed relative wages);
+ - factor quantities = SAM values (SWITCH 3); household demand LES with elasticities 1 and Frisch -1 (= Cobb-Douglas);
+ - tax mapping: FACTAX from the SAM account FTAX; no activity tax (the 2023 SAM has none).
+$offtext
+
+SCALAR
+ AGGREGATE       aggregate households (0 for no - 1 for yes)       / 0 /
+;
+
+*1. SET DEFINITIONS -------------------------------------------------------------------------
+$gdxin ph.gdx
+$load AC AAG A AAGR AMIN AIND ASER MAPAAGA C CAGR CMIN CIND CSER MAPA2C F FAGG FLAB FCAP FLND GOVF INS INSD INSDNG EN H HURB HRUR CTD CTE CTM R NEST
+
+ ACES(A)                = NO;
+ ALEO(A)$(NOT ACES(A))  = YES;
+ ANAGR(A)               = NOT AAGR(A);
+ CNAGR(C)               = NOT CAGR(C);
+ ACNT(AC)               = YES;
+ ACNT('TOTAL')          = NO;
+*pystdcge validation (2 Oct 2026): ACNT('HID'), ('H'), ('HSIZE'), ('WEIGHT') and HAGG('HHD') removed: not accounts in this SAM.
+
+*2. SAM -------------------------------------------------------------------------------------
+$load SAM
+
+*pystdcge validation (2 Oct 2026): GOVFSHR kept from the original (one government function, share 1)
+PARAMETER
+ GOVFSHR(C,GOVF)         government expenditure share by commodity and function
+ GOVFSHR2(GOVF,*)        government expenditure share by function
+;
+$load GOVFSHR2
+ GOVFSHR(C,GOVF)$SUM(GOVFP, GOVFSHR2(GOVFP,'GOV')) = GOVFSHR2(GOVF,'GOV')/SUM(GOVFP, GOVFSHR2(GOVFP,'GOV'));
+
+*pystdcge validation (2 Oct 2026): South Africa SAM adjustments (REMEXP, REMIMP and related moves) removed.
+
+ SAM('TOTAL',AC) = 0;
+ SAM(AC,'TOTAL') = 0;
+ SAM('TOTAL',AC) = SUM(ACNT, SAM(ACNT,AC));
+ SAM(AC,'TOTAL') = SUM(ACNT, SAM(AC,ACNT));
+
+PARAMETER
+ BALCHK(AC) column minus row total for SAM;
+ BALCHK(AC)      = SAM('TOTAL',AC) - SAM(AC,'TOTAL');
+ DISPLAY "Philippine SAM balance check", BALCHK;
+
+PARAMETER
+ SCALE           SCALING PARAMETER FOR SAM / 0.001/;
+ SAM(AC,ACP) =  SAM(AC,ACP) * SCALE;
+
+ CINV(C)$SAM(C,'S-I') = YES;
+ DISPLAY CINV;
+
+*3. ELASTICITIES ----------------------------------------------------------------------------
+SET
+ TRDELAS  trade elasticities / SIGMAQ, SIGMAT, REGIMP, REGEXP /
+ PRDELAS  production elasticities / PRODELAS, PRODELAS2 /
+;
+PARAMETER
+ TRADELAS(AC,TRDELAS)  Armington and CET elasticities by commodity
+ PRODELAS(A)     Elas of substit bt. factors - bottom of technology nest
+ PRODELASTAB(A,PRDELAS)
+ PRODELAS2(A)    Elas of substit bt. agg fac & intermed - top of tech nest
+ PRODELAS3(F,A)  Elasticity of substitution for higher layer factors
+ ELASAC(C)       Output aggregation elasticity for commodity C
+;
+$load TRADELAS PRODELASTAB
+ PRODELAS(A)        = PRODELASTAB(A,'PRODELAS');
+ PRODELAS2(A)       = PRODELASTAB(A,'PRODELAS2');
+ PRODELAS3(F,A)     = 1.2;
+ PRODELAS3(FAGG,A)  = 1.5;
+SET CNTRADE(C)   commodities with less flexible regional substitutbility / /;
+ ELASAC(C)       = 8;
+ ELASAC(CNTRADE) = 0.5;
+
+*Nested factor demand mappings (no nests in the Philippine data) ---------
+ TREE(F,FAGG)$(SMAX(FP, NEST(F,FP)) GT SMAX(FP, NEST(FP,FAGG))) = 1;
+ TREE(F,FAGG)$(NEST(F,FAGG) EQ SMAX(FP, NEST(FP,FAGG))) = 1;
+ FDIS(F)$SAM(F,'TOTAL') = YES;
+ FNEST(F,FP)$NEST(FP,F)      = YES;
+ FTREE(F,FP,FPP)$(FDIS(FPP) AND TREE(FPP,FP) AND FNEST(F,FP)) = YES;
+ FTREE(F,FP,FP)$(FDIS(FP) AND FNEST(F,FP)) = YES;
+ MFA1(F,A)$SAM(F,A) = YES;
+ MFA1(F,A)$SUM(FAGG, TREE(F,FAGG)) = NO;
+ MFA1(FAGG,A)$(SMAX(F, NEST(F,FAGG)) EQ 1) = YES;
+ MFA2(F,FP,A)$(FNEST(F,FP) AND SUM(FPP$(FTREE(F,FP,FPP) AND NOT FAGG(FPP)), SAM(FPP,A))) = YES;
+ MFA1(F,A)$(NOT SAM('TOTAL',A))    = NO;
+ MFA2(F,FP,A)$(NOT SAM('TOTAL',A)) = NO;
+
+*Household population data -----------------------------------------
+PARAMETER
+ POP(H)          Base-year population for household h (units)
+ POPTAB(AC,*)
+;
+$load POPTAB
+ POP(H) =  POPTAB(H,'SURVEY');
+
+*Household consumption elasticities -------------------------------
+PARAMETERS
+ LESELAS1(H,C)    LES demand elasticities
+ FRISCH(H)        Frisch parameter for household LES demand
+ LESELAS2(A,C,H)  Exp'e elasticity of home dem by com - act - hhd
+;
+$load LESELAS1
+*pystdcge validation (2 Oct 2026): elasticities 1 and Frisch -1 give zero subsistence quantities, i.e. Cobb-Douglas demand,
+*as in pystdcge. The original default 0.9 for missing values is kept but unused (all values supplied).
+ LESELAS1(H,C)$((NOT LESELAS1(H,C)) AND SAM(C,H)) = 1;
+ LESELAS2(A,C,H) =  1;
+ FRISCH(H)       = -1;
+
+*4. PHYSICAL FACTOR QUANTITIES AND FACTOR MARKET STRUCTURES ---------------------------------
+PARAMETER
+ SWITCH             if using wage (1) employment (2) or SAM data (3) / 3 /
+ QFBASE(F,A)        sectoral employment data
+ QFINPUT(F,AAG)     sectoral employment data
+ WFINPUT(F,AAG)     sectoral wage data
+ QFSBASE(AC)        total employment data
+ etals(F)           elasticity of labor supply
+ LABDIFFSCALE(F)    labor unit adjustment factor (kept from the original = 1)
+ CONVERGE0(F)       wage convergence parameter
+ CONVERGE(F)        wage convergence parameter
+;
+$load QFINPUT WFINPUT
+*pystdcge validation (2 Oct 2026): SWITCH 3 -- factor quantities equal SAM values (all base factor prices 1), as in pystdcge;
+*South Africa wage-based employment and capital-output initialisation removed.
+ QFBASE(F,A) = 0;
+ LABDIFFSCALE(F) = 1;
+ QFSBASE(F)  = 0;
+
+SET
+ FLS(F)          factors with flexible labor supply / /
+ LREL(F)         factor groups with fixed relative wages / /
+ MAPRELW(F,FP)   mapping between flexible and fixed factors / /
+;
+ etals(F)     = 0;
+ CONVERGE0(F) = 0.00;
+ CONVERGE(F)  = CONVERGE0(F);
+
+*5. COMMODITY VALUE SHARES FOR HOME CONSUMPTION ---------------------------------------------
+PARAMETER
+ shrhome(A,C,H) value share for comm'y c in home cons of hhd h from act a
+;
+ shrhome(A,C,H) = 0;
+
+*6. INITIALIZATION OF TAX DATA --------------------------------------------------------------
+SET
+ TX  taxes in the model
+ /
+ INSTAX         direct taxes on domestic institutions
+ FACTAX         direct factor taxes
+ IMPTAX         import taxes
+ EXPTAX         export taxes
+ VATAX          value-added taxes
+ ACTTAX         taxes on activity revenue
+ COMTAX         taxes on commodity sales in domestic market
+ /
+;
+PARAMETER
+ TAXPAR(TX,AC)   payment by account ac to tax account tx
+ ;
+ TAXPAR('INSTAX',INSD)  = SAM('DTAX',INSD);
+*pystdcge validation (2 Oct 2026): the 2023 SAM has a factor tax on capital (account FTAX) and no activity tax.
+ TAXPAR('FACTAX',F)     = SAM('FTAX',F);
+ TAXPAR('IMPTAX',C)     = SAM('MTAX',C);
+ TAXPAR('EXPTAX',C)     = 0;
+ TAXPAR('VATAX',A)      = 0;
+ TAXPAR('ACTTAX',A)     = 0;
+ TAXPAR('COMTAX',C)     = SAM('STAX',C);
+
+*Regional trade (one region: the rest of the world) ------------------
+PARAMETER
+ REGCUTOFF       minimum regional trade share                / 0.00 /
+ REGIMP(C,R)     regional imports values
+ REGTAR(C,R)     regional tariff values
+ REGEXP(C,R)     regional imports values
+ REGETX(C,R)     regional tariff values
+;
+$load REGIMP REGTAR REGEXP REGETX
+ REGIMP(C,R)$(NOT SAM('ROW',C)) = 0;
+ REGIMP(C,R)$SUM(RP, REGIMP(C,RP)) = REGIMP(C,R) / SUM(RP, REGIMP(C,RP));
+ REGTAR(C,R)$(NOT REGIMP(C,R))  = 0;
+ REGTAR(C,R)$SUM(RP, REGTAR(C,RP)) = REGTAR(C,R) / SUM(RP, REGTAR(C,RP));
+ REGEXP(C,R)$(NOT SAM('ROW',C)) = 0;
+ REGEXP(C,R)$SUM(RP, REGEXP(C,RP)) = REGEXP(C,R) / SUM(RP, REGEXP(C,RP));
+ REGETX(C,R)$(NOT REGEXP(C,R))  = 0;
+ REGETX(C,R)$SUM(RP, REGETX(C,RP)) = REGETX(C,R) / SUM(RP, REGETX(C,RP));
+DISPLAY REGIMP, REGTAR, REGEXP, REGETX;

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+outputs/
+.pystdcge_build_output
+# data you download yourself and may not redistribute
+data/raw/io/*.xlsx
+data/raw/io/*.csv
+data/raw/fies/*.csv
+data/raw/fies/*.dta
+data/raw/lfs/LFS_2025_employed_by_major_industry.csv
+# GAMS outputs
+*.lst
+*.log
+*.gdx

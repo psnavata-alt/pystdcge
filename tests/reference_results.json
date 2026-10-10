@@ -1,0 +1,23 @@
+{
+ "sam_2023_household_multiplier_rural_q1": 2.2077259717209117,
+ "cge_long_run_oil20_real_gdp_pct": -0.3906508178947221,
+ "cge_long_run_oil20_household_consumption_pct": -2.165095797807315,
+ "cge_long_run_remit_m10_real_gdp_pct": -0.030060056842917682,
+ "cge_long_run_remit_m10_household_consumption_pct": -0.811087650240716,
+ "cge_long_run_cons_inv_m10_real_gdp_pct": 0.07594239019319549,
+ "cge_long_run_cons_inv_m10_household_consumption_pct": 1.9419457453333067,
+ "cge_savings_oil20_real_gdp_pct": -0.3828189885902167,
+ "cge_savings_oil20_household_consumption_pct": -1.7274127855986587,
+ "cge_savings_remit_m10_real_gdp_pct": -0.02705355991750036,
+ "cge_savings_remit_m10_household_consumption_pct": -0.659066397159791,
+ "cge_savings_cons_inv_m10_real_gdp_pct": 0.040472101435096164,
+ "cge_savings_cons_inv_m10_household_consumption_pct": -0.018428686047922138,
+ "cge_short_run_oil20_real_gdp_pct": -0.363476855796685,
+ "cge_short_run_oil20_household_consumption_pct": -1.9632903799117751,
+ "cge_short_run_remit_m10_real_gdp_pct": -0.07237084290767637,
+ "cge_short_run_remit_m10_household_consumption_pct": -0.6090080669622022,
+ "cge_short_run_cons_inv_m10_real_gdp_pct": -0.48257351399478843,
+ "cge_short_run_cons_inv_m10_household_consumption_pct": -1.12404605455928,
+ "dynamic_construction_m10_2025_cumulative_gdp_gap_bn": -531.6201053557343,
+ "dynamic_baseline_real_gdp_2030": 36661.23993506092
+}

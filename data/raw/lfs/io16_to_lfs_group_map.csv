@@ -1,0 +1,25 @@
+# Map from the 19 LFS major industry groups (2009 PSIC sections, as in LFS_2025_employed_by_major_industry.csv)
+# to the 16 industries of PSA's 2018 I-O table (Table A.1). Each LFS group belongs to exactly one I-O industry.
+# Built 8 Oct 2026 by matching the PSIC section names; the three combined pairs follow the
+# 16-industry table's own titles: agriculture includes fishing; "Electricity, steam, water and waste management" =
+# PSIC D + E; "Other services" = PSIC R + S (and T/U, which the LFS file folds into "Other service activities").
+lfs_group,io16_industry
+Agriculture and forestry,"Agriculture, forestry, and fishing"
+Fishing and aquaculture,"Agriculture, forestry, and fishing"
+Mining and quarrying,Mining and quarrying
+Manufacturing,Manufacturing
+"Electricity, gas, steam and air-con supply","Electricity, steam, water and waste management"
+"Water supply, sewerage, waste mgt","Electricity, steam, water and waste management"
+Construction,Construction
+Wholesale and retail trade; repair of vehicles,Wholesale and retail trade; repair of motor vehicles and motorcycles
+Transportation and storage,Transportation and storage
+Accommodation and food services,Accommodation and food service activities
+Information and communication,Information and communication
+Financial and insurance,Financial and insurance activities
+Real estate,Real estate and ownership of dwellings
+"Professional, admin and support services",Professional and business services
+Public administration and defense,Public Administration and Defense; Compulsory social security
+Education,Education
+Human health and social work,Human health and social work activities
+"Arts, entertainment and recreation",Other services
+Other service activities,Other services

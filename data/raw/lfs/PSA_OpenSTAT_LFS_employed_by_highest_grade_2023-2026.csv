@@ -1,0 +1,887 @@
+# Source: PSA OpenSTAT table 0141B3FEMP7, Number of Employed Persons by Highest Grade Completed (2017 PSCED), Labor Force Survey, January 2023 to July 2026. https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/1B/LFS/0141B3FEMP7.px
+# Downloaded 2026-10-02 about 3:25 PM by Claude (AI assistant) through the PXWeb API in a web browser. Table updated by PSA 2026-09-08. Thousands of persons. PSA's '.' (not yet available: Aug-Dec 2026 and 2026 annual) is left blank. Raw file: PSA_OpenSTAT_0141B3FEMP7_LFS_employed_by_highest_grade_RAW.csv (SHA-256 edfd5406bee3e2f46ae1cc08f716635090266967041637789348aabf9eb96436).
+year,month,highest_grade_completed,employed_thousands
+2023,January,"Total",47351.759
+2023,January,"No grade completed",537.618
+2023,January,"Elementary",10109.142
+2023,January,"Elementary Undergraduate",4989.025
+2023,January,"Elementary Graduate",5120.117
+2023,January,"Junior High School",19170.220
+2023,January,"Junior High Undergraduate",5154.283
+2023,January,"Junior High Completed",14015.938
+2023,January,"Senior High School",1628.583
+2023,January,"Senior High Undergraduate",479.359
+2023,January,"Senior High Graduate",1149.224
+2023,January,"Post Secondary",1853.450
+2023,January,"Post Secondary Undergraduate",82.943
+2023,January,"Post Secondary Graduate",1770.507
+2023,January,"College",14052.746
+2023,January,"College Undergraduate",4409.880
+2023,January,"College Graduate",9642.865
+2023,February,"Total",48796.881
+2023,February,"No grade completed",567.518
+2023,February,"Elementary",10857.018
+2023,February,"Elementary Undergraduate",5354.233
+2023,February,"Elementary Graduate",5502.785
+2023,February,"Junior High School",19590.484
+2023,February,"Junior High Undergraduate",5403.816
+2023,February,"Junior High Completed",14186.668
+2023,February,"Senior High School",1671.052
+2023,February,"Senior High Undergraduate",527.188
+2023,February,"Senior High Graduate",1143.864
+2023,February,"Post Secondary",2336.860
+2023,February,"Post Secondary Undergraduate",46.933
+2023,February,"Post Secondary Graduate",2289.927
+2023,February,"College",13773.949
+2023,February,"College Undergraduate",4158.374
+2023,February,"College Graduate",9615.576
+2023,March,"Total",48581.266
+2023,March,"No grade completed",536.710
+2023,March,"Elementary",11123.810
+2023,March,"Elementary Undergraduate",5200.128
+2023,March,"Elementary Graduate",5923.682
+2023,March,"Junior High School",19684.268
+2023,March,"Junior High Undergraduate",5705.933
+2023,March,"Junior High Completed",13978.336
+2023,March,"Senior High School",1665.891
+2023,March,"Senior High Undergraduate",502.563
+2023,March,"Senior High Graduate",1163.328
+2023,March,"Post Secondary",2102.060
+2023,March,"Post Secondary Undergraduate",64.538
+2023,March,"Post Secondary Graduate",2037.523
+2023,March,"College",13468.526
+2023,March,"College Undergraduate",4163.742
+2023,March,"College Graduate",9304.785
+2023,April,"Total",48058.081
+2023,April,"No grade completed",532.038
+2023,April,"Elementary",10573.317
+2023,April,"Elementary Undergraduate",5106.641
+2023,April,"Elementary Graduate",5466.676
+2023,April,"Junior High School",19272.842
+2023,April,"Junior High Undergraduate",5381.865
+2023,April,"Junior High Completed",13890.977
+2023,April,"Senior High School",1702.320
+2023,April,"Senior High Undergraduate",550.298
+2023,April,"Senior High Graduate",1152.022
+2023,April,"Post Secondary",1835.569
+2023,April,"Post Secondary Undergraduate",49.026
+2023,April,"Post Secondary Graduate",1786.544
+2023,April,"College",14141.994
+2023,April,"College Undergraduate",4307.097
+2023,April,"College Graduate",9834.897
+2023,May,"Total",48260.497
+2023,May,"No grade completed",462.802
+2023,May,"Elementary",11346.147
+2023,May,"Elementary Undergraduate",5437.459
+2023,May,"Elementary Graduate",5908.688
+2023,May,"Junior High School",19439.330
+2023,May,"Junior High Undergraduate",5563.898
+2023,May,"Junior High Completed",13875.433
+2023,May,"Senior High School",1569.505
+2023,May,"Senior High Undergraduate",410.698
+2023,May,"Senior High Graduate",1158.807
+2023,May,"Post Secondary",2143.605
+2023,May,"Post Secondary Undergraduate",45.576
+2023,May,"Post Secondary Graduate",2098.030
+2023,May,"College",13299.107
+2023,May,"College Undergraduate",3859.035
+2023,May,"College Graduate",9440.072
+2023,June,"Total",48841.400
+2023,June,"No grade completed",612.009
+2023,June,"Elementary",10857.596
+2023,June,"Elementary Undergraduate",5290.448
+2023,June,"Elementary Graduate",5567.147
+2023,June,"Junior High School",19942.589
+2023,June,"Junior High Undergraduate",5751.031
+2023,June,"Junior High Completed",14191.558
+2023,June,"Senior High School",1528.350
+2023,June,"Senior High Undergraduate",457.930
+2023,June,"Senior High Graduate",1070.420
+2023,June,"Post Secondary",1934.683
+2023,June,"Post Secondary Undergraduate",42.890
+2023,June,"Post Secondary Graduate",1891.792
+2023,June,"College",13966.174
+2023,June,"College Undergraduate",4453.432
+2023,June,"College Graduate",9512.742
+2023,July,"Total",44555.975
+2023,July,"No grade completed",528.519
+2023,July,"Elementary",9930.602
+2023,July,"Elementary Undergraduate",5126.382
+2023,July,"Elementary Graduate",4804.220
+2023,July,"Junior High School",18066.802
+2023,July,"Junior High Undergraduate",5064.298
+2023,July,"Junior High Completed",13002.503
+2023,July,"Senior High School",1349.652
+2023,July,"Senior High Undergraduate",394.812
+2023,July,"Senior High Graduate",954.840
+2023,July,"Post Secondary",1441.608
+2023,July,"Post Secondary Undergraduate",23.088
+2023,July,"Post Secondary Graduate",1418.520
+2023,July,"College",13238.793
+2023,July,"College Undergraduate",4197.501
+2023,July,"College Graduate",9041.292
+2023,August,"Total",48073.184
+2023,August,"No grade completed",609.618
+2023,August,"Elementary",11331.899
+2023,August,"Elementary Undergraduate",5437.007
+2023,August,"Elementary Graduate",5894.892
+2023,August,"Junior High School",19091.190
+2023,August,"Junior High Undergraduate",4889.621
+2023,August,"Junior High Completed",14201.569
+2023,August,"Senior High School",1737.309
+2023,August,"Senior High Undergraduate",538.809
+2023,August,"Senior High Graduate",1198.500
+2023,August,"Post Secondary",1694.878
+2023,August,"Post Secondary Undergraduate",24.492
+2023,August,"Post Secondary Graduate",1670.387
+2023,August,"College",13608.290
+2023,August,"College Undergraduate",4301.259
+2023,August,"College Graduate",9307.031
+2023,September,"Total",47665.918
+2023,September,"No grade completed",427.416
+2023,September,"Elementary",10150.087
+2023,September,"Elementary Undergraduate",4715.601
+2023,September,"Elementary Graduate",5434.486
+2023,September,"Junior High School",19402.339
+2023,September,"Junior High Undergraduate",5035.654
+2023,September,"Junior High Completed",14366.686
+2023,September,"Senior High School",1504.783
+2023,September,"Senior High Undergraduate",383.892
+2023,September,"Senior High Graduate",1120.891
+2023,September,"Post Secondary",1733.665
+2023,September,"Post Secondary Undergraduate",25.009
+2023,September,"Post Secondary Graduate",1708.656
+2023,September,"College",14447.628
+2023,September,"College Undergraduate",4420.221
+2023,September,"College Graduate",10027.407
+2023,October,"Total",47788.260
+2023,October,"No grade completed",518.868
+2023,October,"Elementary",10263.425
+2023,October,"Elementary Undergraduate",5039.443
+2023,October,"Elementary Graduate",5223.982
+2023,October,"Junior High School",19442.295
+2023,October,"Junior High Undergraduate",5115.161
+2023,October,"Junior High Completed",14327.134
+2023,October,"Senior High School",1435.308
+2023,October,"Senior High Undergraduate",353.722
+2023,October,"Senior High Graduate",1081.586
+2023,October,"Post Secondary",1519.390
+2023,October,"Post Secondary Undergraduate",31.916
+2023,October,"Post Secondary Graduate",1487.473
+2023,October,"College",14608.974
+2023,October,"College Undergraduate",4515.346
+2023,October,"College Graduate",10093.629
+2023,November,"Total",49635.249
+2023,November,"No grade completed",621.816
+2023,November,"Elementary",11707.490
+2023,November,"Elementary Undergraduate",5584.860
+2023,November,"Elementary Graduate",6122.630
+2023,November,"Junior High School",20238.516
+2023,November,"Junior High Undergraduate",5356.437
+2023,November,"Junior High Completed",14882.079
+2023,November,"Senior High School",1698.030
+2023,November,"Senior High Undergraduate",398.780
+2023,November,"Senior High Graduate",1299.251
+2023,November,"Post Secondary",1513.265
+2023,November,"Post Secondary Undergraduate",68.630
+2023,November,"Post Secondary Graduate",1444.635
+2023,November,"College",13856.132
+2023,November,"College Undergraduate",4340.941
+2023,November,"College Graduate",9515.190
+2023,December,"Total",50524.688
+2023,December,"No grade completed",447.050
+2023,December,"Elementary",11518.065
+2023,December,"Elementary Undergraduate",5290.220
+2023,December,"Elementary Graduate",6227.846
+2023,December,"Junior High School",21123.614
+2023,December,"Junior High Undergraduate",5560.938
+2023,December,"Junior High Completed",15562.676
+2023,December,"Senior High School",1741.227
+2023,December,"Senior High Undergraduate",436.543
+2023,December,"Senior High Graduate",1304.684
+2023,December,"Post Secondary",1604.227
+2023,December,"Post Secondary Undergraduate",0.000
+2023,December,"Post Secondary Graduate",1604.227
+2023,December,"College",14090.504
+2023,December,"College Undergraduate",4269.901
+2023,December,"College Graduate",9820.603
+2023,Annual,"Total",48177.763
+2023,Annual,"No grade completed",533.499
+2023,Annual,"Elementary",10814.050
+2023,Annual,"Elementary Undergraduate",5214.287
+2023,Annual,"Elementary Graduate",5599.763
+2023,Annual,"Junior High School",19538.707
+2023,Annual,"Junior High Undergraduate",5331.911
+2023,Annual,"Junior High Completed",14206.796
+2023,Annual,"Senior High School",1602.668
+2023,Annual,"Senior High Undergraduate",452.883
+2023,Annual,"Senior High Graduate",1149.785
+2023,Annual,"Post Secondary",1809.438
+2023,Annual,"Post Secondary Undergraduate",42.087
+2023,Annual,"Post Secondary Graduate",1767.352
+2023,Annual,"College",13879.401
+2023,Annual,"College Undergraduate",4283.061
+2023,Annual,"College Graduate",9596.341
+2024,January,"Total",45902.161
+2024,January,"No grade completed",553.867
+2024,January,"Elementary",10142.097
+2024,January,"Elementary Undergraduate",5153.983
+2024,January,"Elementary Graduate",4988.114
+2024,January,"Junior High School",18668.629
+2024,January,"Junior High Undergraduate",5097.029
+2024,January,"Junior High Completed",13571.600
+2024,January,"Senior High School",1491.478
+2024,January,"Senior High Undergraduate",400.808
+2024,January,"Senior High Graduate",1090.670
+2024,January,"Post Secondary",1437.775
+2024,January,"Post Secondary Undergraduate",19.730
+2024,January,"Post Secondary Graduate",1418.045
+2024,January,"College",13608.316
+2024,January,"College Undergraduate",4156.187
+2024,January,"College Graduate",9452.128
+2024,February,"Total",48950.548
+2024,February,"No grade completed",610.227
+2024,February,"Elementary",10193.500
+2024,February,"Elementary Undergraduate",4958.423
+2024,February,"Elementary Graduate",5235.077
+2024,February,"Junior High School",20685.999
+2024,February,"Junior High Undergraduate",5154.914
+2024,February,"Junior High Completed",15531.085
+2024,February,"Senior High School",1676.368
+2024,February,"Senior High Undergraduate",417.201
+2024,February,"Senior High Graduate",1259.167
+2024,February,"Post Secondary",1845.904
+2024,February,"Post Secondary Undergraduate",89.716
+2024,February,"Post Secondary Graduate",1756.188
+2024,February,"College",13938.550
+2024,February,"College Undergraduate",4298.402
+2024,February,"College Graduate",9640.148
+2024,March,"Total",49152.984
+2024,March,"No grade completed",407.227
+2024,March,"Elementary",10072.542
+2024,March,"Elementary Undergraduate",4741.616
+2024,March,"Elementary Graduate",5330.927
+2024,March,"Junior High School",19997.859
+2024,March,"Junior High Undergraduate",5431.066
+2024,March,"Junior High Completed",14566.793
+2024,March,"Senior High School",1691.191
+2024,March,"Senior High Undergraduate",495.068
+2024,March,"Senior High Graduate",1196.123
+2024,March,"Post Secondary",1680.904
+2024,March,"Post Secondary Undergraduate",57.078
+2024,March,"Post Secondary Graduate",1623.826
+2024,March,"College",15303.261
+2024,March,"College Undergraduate",4553.180
+2024,March,"College Graduate",10750.081
+2024,April,"Total",48354.356
+2024,April,"No grade completed",485.216
+2024,April,"Elementary",10336.156
+2024,April,"Elementary Undergraduate",4910.482
+2024,April,"Elementary Graduate",5425.674
+2024,April,"Junior High School",20231.918
+2024,April,"Junior High Undergraduate",5192.177
+2024,April,"Junior High Completed",15039.741
+2024,April,"Senior High School",1757.990
+2024,April,"Senior High Undergraduate",443.286
+2024,April,"Senior High Graduate",1314.704
+2024,April,"Post Secondary",1600.813
+2024,April,"Post Secondary Undergraduate",50.653
+2024,April,"Post Secondary Graduate",1550.160
+2024,April,"College",13942.263
+2024,April,"College Undergraduate",4325.367
+2024,April,"College Graduate",9616.896
+2024,May,"Total",48865.478
+2024,May,"No grade completed",444.513
+2024,May,"Elementary",10587.087
+2024,May,"Elementary Undergraduate",4897.070
+2024,May,"Elementary Graduate",5690.017
+2024,May,"Junior High School",20752.035
+2024,May,"Junior High Undergraduate",5521.880
+2024,May,"Junior High Completed",15230.155
+2024,May,"Senior High School",1670.797
+2024,May,"Senior High Undergraduate",431.968
+2024,May,"Senior High Graduate",1238.829
+2024,May,"Post Secondary",1665.457
+2024,May,"Post Secondary Undergraduate",47.003
+2024,May,"Post Secondary Graduate",1618.453
+2024,May,"College",13745.589
+2024,May,"College Undergraduate",4343.022
+2024,May,"College Graduate",9402.567
+2024,June,"Total",50278.082
+2024,June,"No grade completed",473.897
+2024,June,"Elementary",10813.271
+2024,June,"Elementary Undergraduate",4944.885
+2024,June,"Elementary Graduate",5868.386
+2024,June,"Junior High School",21052.803
+2024,June,"Junior High Undergraduate",5183.439
+2024,June,"Junior High Completed",15869.364
+2024,June,"Senior High School",1868.935
+2024,June,"Senior High Undergraduate",437.200
+2024,June,"Senior High Graduate",1431.736
+2024,June,"Post Secondary",1677.553
+2024,June,"Post Secondary Undergraduate",66.561
+2024,June,"Post Secondary Graduate",1610.992
+2024,June,"College",14391.623
+2024,June,"College Undergraduate",4783.165
+2024,June,"College Graduate",9608.459
+2024,July,"Total",47683.861
+2024,July,"No grade completed",599.989
+2024,July,"Elementary",10217.423
+2024,July,"Elementary Undergraduate",5019.322
+2024,July,"Elementary Graduate",5198.101
+2024,July,"Junior High School",19091.497
+2024,July,"Junior High Undergraduate",4957.372
+2024,July,"Junior High Completed",14134.125
+2024,July,"Senior High School",1988.244
+2024,July,"Senior High Undergraduate",511.497
+2024,July,"Senior High Graduate",1476.747
+2024,July,"Post Secondary",1605.331
+2024,July,"Post Secondary Undergraduate",29.010
+2024,July,"Post Secondary Graduate",1576.321
+2024,July,"College",14181.378
+2024,July,"College Undergraduate",4715.005
+2024,July,"College Graduate",9466.373
+2024,August,"Total",49153.883
+2024,August,"No grade completed",440.051
+2024,August,"Elementary",9524.023
+2024,August,"Elementary Undergraduate",4378.928
+2024,August,"Elementary Graduate",5145.095
+2024,August,"Junior High School",20705.456
+2024,August,"Junior High Undergraduate",4861.157
+2024,August,"Junior High Completed",15844.299
+2024,August,"Senior High School",1812.863
+2024,August,"Senior High Undergraduate",398.044
+2024,August,"Senior High Graduate",1414.819
+2024,August,"Post Secondary",1676.569
+2024,August,"Post Secondary Undergraduate",57.833
+2024,August,"Post Secondary Graduate",1618.736
+2024,August,"College",14994.921
+2024,August,"College Undergraduate",4785.732
+2024,August,"College Graduate",10209.189
+2024,September,"Total",49872.280
+2024,September,"No grade completed",399.182
+2024,September,"Elementary",10002.769
+2024,September,"Elementary Undergraduate",4660.800
+2024,September,"Elementary Graduate",5341.969
+2024,September,"Junior High School",20266.964
+2024,September,"Junior High Undergraduate",4844.309
+2024,September,"Junior High Completed",15422.655
+2024,September,"Senior High School",1838.279
+2024,September,"Senior High Undergraduate",373.692
+2024,September,"Senior High Graduate",1464.586
+2024,September,"Post Secondary",1842.329
+2024,September,"Post Secondary Undergraduate",27.601
+2024,September,"Post Secondary Graduate",1814.728
+2024,September,"College",15522.758
+2024,September,"College Undergraduate",4829.786
+2024,September,"College Graduate",10692.971
+2024,October,"Total",48156.894
+2024,October,"No grade completed",509.636
+2024,October,"Elementary",10187.756
+2024,October,"Elementary Undergraduate",4821.159
+2024,October,"Elementary Graduate",5366.596
+2024,October,"Junior High School",19809.376
+2024,October,"Junior High Undergraduate",4879.431
+2024,October,"Junior High Completed",14929.945
+2024,October,"Senior High School",1455.346
+2024,October,"Senior High Undergraduate",296.247
+2024,October,"Senior High Graduate",1159.098
+2024,October,"Post Secondary",1477.713
+2024,October,"Post Secondary Undergraduate",44.482
+2024,October,"Post Secondary Graduate",1433.231
+2024,October,"College",14717.068
+2024,October,"College Undergraduate",4342.727
+2024,October,"College Graduate",10374.341
+2024,November,"Total",49541.469
+2024,November,"No grade completed",487.814
+2024,November,"Elementary",10130.469
+2024,November,"Elementary Undergraduate",4604.178
+2024,November,"Elementary Graduate",5526.291
+2024,November,"Junior High School",20820.138
+2024,November,"Junior High Undergraduate",4983.178
+2024,November,"Junior High Completed",15836.960
+2024,November,"Senior High School",1948.385
+2024,November,"Senior High Undergraduate",428.480
+2024,November,"Senior High Graduate",1519.905
+2024,November,"Post Secondary",1711.802
+2024,November,"Post Secondary Undergraduate",85.113
+2024,November,"Post Secondary Graduate",1626.688
+2024,November,"College",14442.862
+2024,November,"College Undergraduate",4618.109
+2024,November,"College Graduate",9824.753
+2024,December,"Total",50185.471
+2024,December,"No grade completed",621.260
+2024,December,"Elementary",10171.038
+2024,December,"Elementary Undergraduate",4571.165
+2024,December,"Elementary Graduate",5599.873
+2024,December,"Junior High School",21064.604
+2024,December,"Junior High Undergraduate",5010.473
+2024,December,"Junior High Completed",16054.130
+2024,December,"Senior High School",1871.823
+2024,December,"Senior High Undergraduate",403.435
+2024,December,"Senior High Graduate",1468.389
+2024,December,"Post Secondary",1711.168
+2024,December,"Post Secondary Undergraduate",57.904
+2024,December,"Post Secondary Graduate",1653.264
+2024,December,"College",14745.578
+2024,December,"College Undergraduate",4866.528
+2024,December,"College Graduate",9879.050
+2024,Annual,"Total",48841.456
+2024,Annual,"No grade completed",502.740
+2024,Annual,"Elementary",10198.178
+2024,Annual,"Elementary Undergraduate",4805.168
+2024,Annual,"Elementary Graduate",5393.010
+2024,Annual,"Junior High School",20262.273
+2024,Annual,"Junior High Undergraduate",5093.035
+2024,Annual,"Junior High Completed",15169.238
+2024,Annual,"Senior High School",1755.975
+2024,Annual,"Senior High Undergraduate",419.744
+2024,Annual,"Senior High Graduate",1336.231
+2024,Annual,"Post Secondary",1661.110
+2024,Annual,"Post Secondary Undergraduate",52.724
+2024,Annual,"Post Secondary Graduate",1608.386
+2024,Annual,"College",14461.181
+2024,Annual,"College Undergraduate",4551.434
+2024,Annual,"College Graduate",9909.746
+2025,January,"Total",48486.641
+2025,January,"No grade completed",512.475
+2025,January,"Elementary",9998.452
+2025,January,"Elementary Undergraduate",4725.521
+2025,January,"Elementary Graduate",5272.931
+2025,January,"Junior High School",20087.783
+2025,January,"Junior High Undergraduate",4937.986
+2025,January,"Junior High Completed",15149.797
+2025,January,"Senior High School",1678.679
+2025,January,"Senior High Undergraduate",329.063
+2025,January,"Senior High Graduate",1349.616
+2025,January,"Post Secondary",1619.632
+2025,January,"Post Secondary Undergraduate",37.352
+2025,January,"Post Secondary Graduate",1582.280
+2025,January,"College",14589.620
+2025,January,"College Undergraduate",4620.320
+2025,January,"College Graduate",9969.300
+2025,February,"Total",49155.132
+2025,February,"No grade completed",438.149
+2025,February,"Elementary",9781.011
+2025,February,"Elementary Undergraduate",4495.731
+2025,February,"Elementary Graduate",5285.280
+2025,February,"Junior High School",20746.459
+2025,February,"Junior High Undergraduate",5147.559
+2025,February,"Junior High Completed",15598.899
+2025,February,"Senior High School",1826.800
+2025,February,"Senior High Undergraduate",403.714
+2025,February,"Senior High Graduate",1423.086
+2025,February,"Post Secondary",1775.859
+2025,February,"Post Secondary Undergraduate",35.840
+2025,February,"Post Secondary Graduate",1740.019
+2025,February,"College",14586.854
+2025,February,"College Undergraduate",4342.136
+2025,February,"College Graduate",10244.719
+2025,March,"Total",48022.300
+2025,March,"No grade completed",375.168
+2025,March,"Elementary",9586.248
+2025,March,"Elementary Undergraduate",4491.177
+2025,March,"Elementary Graduate",5095.071
+2025,March,"Junior High School",19685.061
+2025,March,"Junior High Undergraduate",5093.180
+2025,March,"Junior High Completed",14591.881
+2025,March,"Senior High School",1818.799
+2025,March,"Senior High Undergraduate",338.859
+2025,March,"Senior High Graduate",1479.940
+2025,March,"Post Secondary",1950.561
+2025,March,"Post Secondary Undergraduate",57.849
+2025,March,"Post Secondary Graduate",1892.712
+2025,March,"College",14606.462
+2025,March,"College Undergraduate",4545.637
+2025,March,"College Graduate",10060.825
+2025,April,"Total",48671.648
+2025,April,"No grade completed",507.399
+2025,April,"Elementary",9903.874
+2025,April,"Elementary Undergraduate",4663.556
+2025,April,"Elementary Graduate",5240.318
+2025,April,"Junior High School",19976.817
+2025,April,"Junior High Undergraduate",4833.570
+2025,April,"Junior High Completed",15143.246
+2025,April,"Senior High School",1860.495
+2025,April,"Senior High Undergraduate",404.067
+2025,April,"Senior High Graduate",1456.429
+2025,April,"Post Secondary",1660.010
+2025,April,"Post Secondary Undergraduate",61.096
+2025,April,"Post Secondary Graduate",1598.915
+2025,April,"College",14763.053
+2025,April,"College Undergraduate",4655.479
+2025,April,"College Graduate",10107.574
+2025,May,"Total",50289.761
+2025,May,"No grade completed",417.452
+2025,May,"Elementary",9860.744
+2025,May,"Elementary Undergraduate",4504.930
+2025,May,"Elementary Graduate",5355.813
+2025,May,"Junior High School",19981.045
+2025,May,"Junior High Undergraduate",4990.449
+2025,May,"Junior High Completed",14990.596
+2025,May,"Senior High School",2212.944
+2025,May,"Senior High Undergraduate",465.396
+2025,May,"Senior High Graduate",1747.548
+2025,May,"Post Secondary",2247.580
+2025,May,"Post Secondary Undergraduate",63.634
+2025,May,"Post Secondary Graduate",2183.946
+2025,May,"College",15569.996
+2025,May,"College Undergraduate",4852.082
+2025,May,"College Graduate",10717.914
+2025,June,"Total",50474.715
+2025,June,"No grade completed",464.507
+2025,June,"Elementary",10547.135
+2025,June,"Elementary Undergraduate",4915.729
+2025,June,"Elementary Graduate",5631.406
+2025,June,"Junior High School",20152.773
+2025,June,"Junior High Undergraduate",5120.213
+2025,June,"Junior High Completed",15032.560
+2025,June,"Senior High School",2210.854
+2025,June,"Senior High Undergraduate",490.854
+2025,June,"Senior High Graduate",1720.001
+2025,June,"Post Secondary",1939.734
+2025,June,"Post Secondary Undergraduate",34.336
+2025,June,"Post Secondary Graduate",1905.398
+2025,June,"College",15159.712
+2025,June,"College Undergraduate",4659.729
+2025,June,"College Graduate",10499.984
+2025,July,"Total",46051.092
+2025,July,"No grade completed",501.604
+2025,July,"Elementary",9321.467
+2025,July,"Elementary Undergraduate",4646.318
+2025,July,"Elementary Graduate",4675.149
+2025,July,"Junior High School",18400.836
+2025,July,"Junior High Undergraduate",4640.570
+2025,July,"Junior High Completed",13760.265
+2025,July,"Senior High School",1761.997
+2025,July,"Senior High Undergraduate",344.472
+2025,July,"Senior High Graduate",1417.525
+2025,July,"Post Secondary",1435.052
+2025,July,"Post Secondary Undergraduate",31.351
+2025,July,"Post Secondary Graduate",1403.701
+2025,July,"College",14630.137
+2025,July,"College Undergraduate",4386.791
+2025,July,"College Graduate",10243.347
+2025,August,"Total",50096.151
+2025,August,"No grade completed",383.735
+2025,August,"Elementary",10416.488
+2025,August,"Elementary Undergraduate",4948.484
+2025,August,"Elementary Graduate",5468.004
+2025,August,"Junior High School",20797.631
+2025,August,"Junior High Undergraduate",5151.901
+2025,August,"Junior High Completed",15645.730
+2025,August,"Senior High School",2067.648
+2025,August,"Senior High Undergraduate",380.807
+2025,August,"Senior High Graduate",1686.841
+2025,August,"Post Secondary",1630.476
+2025,August,"Post Secondary Undergraduate",27.446
+2025,August,"Post Secondary Graduate",1603.030
+2025,August,"College",14800.172
+2025,August,"College Undergraduate",4386.062
+2025,August,"College Graduate",10414.111
+2025,September,"Total",49601.878
+2025,September,"No grade completed",425.586
+2025,September,"Elementary",10347.055
+2025,September,"Elementary Undergraduate",4679.215
+2025,September,"Elementary Graduate",5667.840
+2025,September,"Junior High School",19772.855
+2025,September,"Junior High Undergraduate",4830.666
+2025,September,"Junior High Completed",14942.189
+2025,September,"Senior High School",1891.372
+2025,September,"Senior High Undergraduate",431.304
+2025,September,"Senior High Graduate",1460.067
+2025,September,"Post Secondary",1665.815
+2025,September,"Post Secondary Undergraduate",37.315
+2025,September,"Post Secondary Graduate",1628.499
+2025,September,"College",15499.196
+2025,September,"College Undergraduate",4726.049
+2025,September,"College Graduate",10773.147
+2025,October,"Total",48619.468
+2025,October,"No grade completed",464.595
+2025,October,"Elementary",9714.437
+2025,October,"Elementary Undergraduate",4614.954
+2025,October,"Elementary Graduate",5099.483
+2025,October,"Junior High School",19757.436
+2025,October,"Junior High Undergraduate",4685.604
+2025,October,"Junior High Completed",15071.832
+2025,October,"Senior High School",1896.881
+2025,October,"Senior High Undergraduate",343.125
+2025,October,"Senior High Graduate",1553.756
+2025,October,"Post Secondary",1582.555
+2025,October,"Post Secondary Undergraduate",39.991
+2025,October,"Post Secondary Graduate",1542.564
+2025,October,"College",15203.562
+2025,October,"College Undergraduate",4572.325
+2025,October,"College Graduate",10631.238
+2025,November,"Total",49264.782
+2025,November,"No grade completed",398.130
+2025,November,"Elementary",10032.121
+2025,November,"Elementary Undergraduate",4494.166
+2025,November,"Elementary Graduate",5537.955
+2025,November,"Junior High School",19611.473
+2025,November,"Junior High Undergraduate",5024.141
+2025,November,"Junior High Completed",14587.332
+2025,November,"Senior High School",1908.255
+2025,November,"Senior High Undergraduate",358.550
+2025,November,"Senior High Graduate",1549.705
+2025,November,"Post Secondary",1848.291
+2025,November,"Post Secondary Undergraduate",50.651
+2025,November,"Post Secondary Graduate",1797.640
+2025,November,"College",15466.513
+2025,November,"College Undergraduate",4432.147
+2025,November,"College Graduate",11034.366
+2025,December,"Total",49427.024
+2025,December,"No grade completed",462.103
+2025,December,"Elementary",9824.387
+2025,December,"Elementary Undergraduate",4198.485
+2025,December,"Elementary Graduate",5625.902
+2025,December,"Junior High School",19668.228
+2025,December,"Junior High Undergraduate",4625.075
+2025,December,"Junior High Completed",15043.153
+2025,December,"Senior High School",2046.624
+2025,December,"Senior High Undergraduate",322.501
+2025,December,"Senior High Graduate",1724.123
+2025,December,"Post Secondary",1596.211
+2025,December,"Post Secondary Undergraduate",60.787
+2025,December,"Post Secondary Graduate",1535.424
+2025,December,"College",15829.471
+2025,December,"College Undergraduate",4664.208
+2025,December,"College Graduate",11165.263
+2025,Annual,"Total",49013.170
+2025,Annual,"No grade completed",445.900
+2025,Annual,"Elementary",9944.343
+2025,Annual,"Elementary Undergraduate",4615.025
+2025,Annual,"Elementary Graduate",5329.318
+2025,Annual,"Junior High School",19888.364
+2025,Annual,"Junior High Undergraduate",4924.652
+2025,Annual,"Junior High Completed",14963.712
+2025,Annual,"Senior High School",1931.214
+2025,Annual,"Senior High Undergraduate",384.541
+2025,Annual,"Senior High Graduate",1546.674
+2025,Annual,"Post Secondary",1745.986
+2025,Annual,"Post Secondary Undergraduate",44.901
+2025,Annual,"Post Secondary Graduate",1701.086
+2025,Annual,"College",15057.363
+2025,Annual,"College Undergraduate",4565.965
+2025,Annual,"College Graduate",10491.397
+2026,January,"Total",47937.598
+2026,January,"No grade completed",511.833
+2026,January,"Elementary",9405.561
+2026,January,"Elementary Undergraduate",4661.988
+2026,January,"Elementary Graduate",4743.573
+2026,January,"Junior High School",18939.621
+2026,January,"Junior High Undergraduate",4798.318
+2026,January,"Junior High Completed",14141.303
+2026,January,"Senior High School",2055.687
+2026,January,"Senior High Undergraduate",384.743
+2026,January,"Senior High Graduate",1670.944
+2026,January,"Post Secondary",1587.234
+2026,January,"Post Secondary Undergraduate",29.175
+2026,January,"Post Secondary Graduate",1558.059
+2026,January,"College",15437.661
+2026,January,"College Undergraduate",4570.078
+2026,January,"College Graduate",10867.583
+2026,February,"Total",49425.915
+2026,February,"No grade completed",400.908
+2026,February,"Elementary",9278.264
+2026,February,"Elementary Undergraduate",4275.941
+2026,February,"Elementary Graduate",5002.323
+2026,February,"Junior High School",19970.227
+2026,February,"Junior High Undergraduate",4503.831
+2026,February,"Junior High Completed",15466.396
+2026,February,"Senior High School",2105.853
+2026,February,"Senior High Undergraduate",395.675
+2026,February,"Senior High Graduate",1710.179
+2026,February,"Post Secondary",1972.033
+2026,February,"Post Secondary Undergraduate",26.677
+2026,February,"Post Secondary Graduate",1945.356
+2026,February,"College",15698.629
+2026,February,"College Undergraduate",4513.904
+2026,February,"College Graduate",11184.725
+2026,March,"Total",49068.998
+2026,March,"No grade completed",429.024
+2026,March,"Elementary",9188.987
+2026,March,"Elementary Undergraduate",4237.050
+2026,March,"Elementary Graduate",4951.936
+2026,March,"Junior High School",20009.135
+2026,March,"Junior High Undergraduate",4775.724
+2026,March,"Junior High Completed",15233.411
+2026,March,"Senior High School",2212.545
+2026,March,"Senior High Undergraduate",408.985
+2026,March,"Senior High Graduate",1803.560
+2026,March,"Post Secondary",1655.825
+2026,March,"Post Secondary Undergraduate",66.766
+2026,March,"Post Secondary Graduate",1589.059
+2026,March,"College",15573.483
+2026,March,"College Undergraduate",4580.584
+2026,March,"College Graduate",10992.898
+2026,April,"Total",48889.464
+2026,April,"No grade completed",480.020
+2026,April,"Elementary",9550.586
+2026,April,"Elementary Undergraduate",4577.836
+2026,April,"Elementary Graduate",4972.750
+2026,April,"Junior High School",19085.884
+2026,April,"Junior High Undergraduate",4725.580
+2026,April,"Junior High Completed",14360.304
+2026,April,"Senior High School",2522.852
+2026,April,"Senior High Undergraduate",487.624
+2026,April,"Senior High Graduate",2035.228
+2026,April,"Post Secondary",1645.259
+2026,April,"Post Secondary Undergraduate",55.990
+2026,April,"Post Secondary Graduate",1589.269
+2026,April,"College",15604.864
+2026,April,"College Undergraduate",4730.845
+2026,April,"College Graduate",10874.019
+2026,May,"Total",49627.233
+2026,May,"No grade completed",313.581
+2026,May,"Elementary",9314.783
+2026,May,"Elementary Undergraduate",4359.406
+2026,May,"Elementary Graduate",4955.377
+2026,May,"Junior High School",19905.851
+2026,May,"Junior High Undergraduate",4886.033
+2026,May,"Junior High Completed",15019.818
+2026,May,"Senior High School",2430.554
+2026,May,"Senior High Undergraduate",443.596
+2026,May,"Senior High Graduate",1986.958
+2026,May,"Post Secondary",1827.700
+2026,May,"Post Secondary Undergraduate",44.189
+2026,May,"Post Secondary Graduate",1783.511
+2026,May,"College",15834.764
+2026,May,"College Undergraduate",5037.332
+2026,May,"College Graduate",10797.432
+2026,June,"Total",50658.256
+2026,June,"No grade completed",359.567
+2026,June,"Elementary",9534.025
+2026,June,"Elementary Undergraduate",4281.295
+2026,June,"Elementary Graduate",5252.730
+2026,June,"Junior High School",19880.661
+2026,June,"Junior High Undergraduate",4778.112
+2026,June,"Junior High Completed",15102.550
+2026,June,"Senior High School",2447.068
+2026,June,"Senior High Undergraduate",413.583
+2026,June,"Senior High Graduate",2033.485
+2026,June,"Post Secondary",2001.274
+2026,June,"Post Secondary Undergraduate",42.549
+2026,June,"Post Secondary Graduate",1958.725
+2026,June,"College",16435.660
+2026,June,"College Undergraduate",5154.507
+2026,June,"College Graduate",11281.153
+2026,July,"Total",49214.496
+2026,July,"No grade completed",473.291
+2026,July,"Elementary",9788.009
+2026,July,"Elementary Undergraduate",4804.879
+2026,July,"Elementary Graduate",4983.131
+2026,July,"Junior High School",18809.928
+2026,July,"Junior High Undergraduate",4781.272
+2026,July,"Junior High Completed",14028.656
+2026,July,"Senior High School",2557.170
+2026,July,"Senior High Undergraduate",369.452
+2026,July,"Senior High Graduate",2187.719
+2026,July,"Post Secondary",1852.112
+2026,July,"Post Secondary Undergraduate",68.254
+2026,July,"Post Secondary Graduate",1783.857
+2026,July,"College",15733.985
+2026,July,"College Undergraduate",4760.600
+2026,July,"College Graduate",10973.385
+2026,August,"Total",
+2026,August,"No grade completed",
+2026,August,"Elementary",
+2026,August,"Elementary Undergraduate",
+2026,August,"Elementary Graduate",
+2026,August,"Junior High School",
+2026,August,"Junior High Undergraduate",
+2026,August,"Junior High Completed",
+2026,August,"Senior High School",
+2026,August,"Senior High Undergraduate",
+2026,August,"Senior High Graduate",
+2026,August,"Post Secondary",
+2026,August,"Post Secondary Undergraduate",
+2026,August,"Post Secondary Graduate",
+2026,August,"College",
+2026,August,"College Undergraduate",
+2026,August,"College Graduate",
+2026,September,"Total",
+2026,September,"No grade completed",
+2026,September,"Elementary",
+2026,September,"Elementary Undergraduate",
+2026,September,"Elementary Graduate",
+2026,September,"Junior High School",
+2026,September,"Junior High Undergraduate",
+2026,September,"Junior High Completed",
+2026,September,"Senior High School",
+2026,September,"Senior High Undergraduate",
+2026,September,"Senior High Graduate",
+2026,September,"Post Secondary",
+2026,September,"Post Secondary Undergraduate",
+2026,September,"Post Secondary Graduate",
+2026,September,"College",
+2026,September,"College Undergraduate",
+2026,September,"College Graduate",
+2026,October,"Total",
+2026,October,"No grade completed",
+2026,October,"Elementary",
+2026,October,"Elementary Undergraduate",
+2026,October,"Elementary Graduate",
+2026,October,"Junior High School",
+2026,October,"Junior High Undergraduate",
+2026,October,"Junior High Completed",
+2026,October,"Senior High School",
+2026,October,"Senior High Undergraduate",
+2026,October,"Senior High Graduate",
+2026,October,"Post Secondary",
+2026,October,"Post Secondary Undergraduate",
+2026,October,"Post Secondary Graduate",
+2026,October,"College",
+2026,October,"College Undergraduate",
+2026,October,"College Graduate",
+2026,November,"Total",
+2026,November,"No grade completed",
+2026,November,"Elementary",
+2026,November,"Elementary Undergraduate",
+2026,November,"Elementary Graduate",
+2026,November,"Junior High School",
+2026,November,"Junior High Undergraduate",
+2026,November,"Junior High Completed",
+2026,November,"Senior High School",
+2026,November,"Senior High Undergraduate",
+2026,November,"Senior High Graduate",
+2026,November,"Post Secondary",
+2026,November,"Post Secondary Undergraduate",
+2026,November,"Post Secondary Graduate",
+2026,November,"College",
+2026,November,"College Undergraduate",
+2026,November,"College Graduate",
+2026,December,"Total",
+2026,December,"No grade completed",
+2026,December,"Elementary",
+2026,December,"Elementary Undergraduate",
+2026,December,"Elementary Graduate",
+2026,December,"Junior High School",
+2026,December,"Junior High Undergraduate",
+2026,December,"Junior High Completed",
+2026,December,"Senior High School",
+2026,December,"Senior High Undergraduate",
+2026,December,"Senior High Graduate",
+2026,December,"Post Secondary",
+2026,December,"Post Secondary Undergraduate",
+2026,December,"Post Secondary Graduate",
+2026,December,"College",
+2026,December,"College Undergraduate",
+2026,December,"College Graduate",
+2026,Annual,"Total",
+2026,Annual,"No grade completed",
+2026,Annual,"Elementary",
+2026,Annual,"Elementary Undergraduate",
+2026,Annual,"Elementary Graduate",
+2026,Annual,"Junior High School",
+2026,Annual,"Junior High Undergraduate",
+2026,Annual,"Junior High Completed",
+2026,Annual,"Senior High School",
+2026,Annual,"Senior High Undergraduate",
+2026,Annual,"Senior High Graduate",
+2026,Annual,"Post Secondary",
+2026,Annual,"Post Secondary Undergraduate",
+2026,Annual,"Post Secondary Graduate",
+2026,Annual,"College",
+2026,Annual,"College Undergraduate",
+2026,Annual,"College Graduate",
