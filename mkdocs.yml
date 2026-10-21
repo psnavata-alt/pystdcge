@@ -1,0 +1,40 @@
+site_name: pystdcge
+site_description: Open-source Python implementation of the IFPRI standard CGE model, validated against IFPRI's GAMS code
+site_url: https://psnavata-alt.github.io/pystdcge/
+repo_url: https://github.com/psnavata-alt/pystdcge
+repo_name: psnavata-alt/pystdcge
+edit_uri: ""
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue grey
+
+nav:
+  - Home: index.md
+  - The model: model.md
+  - Equations, line by line: equations.md
+  - Parameters and sources: parameters.md
+  - Use of AI: ai_use.md
+  - API reference: reference.md
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: false
+            members_order: source
+            show_root_heading: true
+            heading_level: 2
+
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true

@@ -1,5 +1,7 @@
 # pystdcge
 
+[![tests](https://github.com/psnavata-alt/pystdcge/actions/workflows/tests.yml/badge.svg)](https://github.com/psnavata-alt/pystdcge/actions/workflows/tests.yml) [![docs](https://github.com/psnavata-alt/pystdcge/actions/workflows/docs.yml/badge.svg)](https://psnavata-alt.github.io/pystdcge/) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![ReScience C](https://img.shields.io/badge/ReScience%20C-under%20review-orange)](https://github.com/ReScience/submissions/issues/144)
+
 **An open-source Python implementation of the IFPRI standard computable general equilibrium (CGE) model, validated against IFPRI's own GAMS code, with SAM and input-output multipliers, a recursive-dynamic extension, structural VARs and a link from VAR results to CGE shocks. Calibrated to the Philippines (IFPRI 2023 and 2018 social accounting matrices).**
 
 > Version 0.3.3. Licence: MIT (see `LICENSE`), except IFPRI's GAMS files in `validation/*/gams_ph/` (GNU GPL v2) and data files with their own licences: see `NOTICE.md`.
@@ -89,6 +91,8 @@ The code, tests and documentation were written with an AI coding assistant (Clau
 See `CITATION.cff`. Please also cite Lofgren, Harris and Robinson (2002) for the model and IFPRI for the SAMs.
 
 ## Contributing
+
+Documentation: https://psnavata-alt.github.io/pystdcge/ (the model, the equation concordance, parameters and sources, the API reference). This project follows the [Contributor Covenant code of conduct](CODE_OF_CONDUCT.md).
 
 Issues and pull requests are welcome (`CONTRIBUTING.md`). Every change must keep `python -m pytest` passing; new features must be opt-in, so the regression test R0 is unchanged.
 
