@@ -1,0 +1,8 @@
+# Data files are checksummed byte for byte (test D1): keep them LF on every platform.
+data/**/*.csv text eol=lf
+data/**/*.txt text eol=lf
+data/**/*.md text eol=lf
+*.xlsx binary
+*.xls binary
+*.npy binary
+*.gdx binary
