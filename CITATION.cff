@@ -8,6 +8,7 @@ authors:
   - family-names: "Navata"
     given-names: "Paolo"
     affiliation: "Independent researcher"
+    orcid: "https://orcid.org/0009-0001-9476-1868"
 repository-code: "https://github.com/psnavata-alt/pystdcge"
 keywords:
   - computable general equilibrium

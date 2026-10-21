@@ -2,7 +2,7 @@
 
 **An open-source Python implementation of the IFPRI standard computable general equilibrium (CGE) model, validated against IFPRI's own GAMS code, with SAM and input-output multipliers, a recursive-dynamic extension, structural VARs and a link from VAR results to CGE shocks. Calibrated to the Philippines (IFPRI 2023 and 2018 social accounting matrices).**
 
-> Version 0.3.3. Licence: MIT (see `LICENSE`), except IFPRI's GAMS files in `validation/*/gams_ph/` (GNU GPL v2, see `validation/ifpri/gams_ph/NOTICE.md`).
+> Version 0.3.3. Licence: MIT (see `LICENSE`), except IFPRI's GAMS files in `validation/*/gams_ph/` (GNU GPL v2) and data files with their own licences: see `NOTICE.md`.
 
 ## Why
 

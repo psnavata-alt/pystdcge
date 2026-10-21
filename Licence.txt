@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-Exceptions
-- validation/ifpri/gams_ph/ and validation/ifpri_home/gams_ph/ contain IFPRI's
-  standard CGE model code (GAMS), modified as marked in the files. Those files
-  are distributed under the GNU General Public License, version 2, as IFPRI
-  released them (see validation/ifpri/gams_ph/NOTICE.md).
-- Data files keep their own licences (data/DATA_SOURCES.md).
