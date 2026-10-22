@@ -31,6 +31,14 @@ The IFPRI standard CGE model (Lofgren, Harris and Robinson 2002) is the most wid
 
 Python 3.11 or later.
 
+From PyPI (release 0.3.3):
+
+```
+python -m pip install pystdcge
+```
+
+The PyPI package holds the code only; the quick start, the examples, and the tests read the data in the repository's `data/` folder, so for those clone the repository:
+
 ```
 git clone <repository URL>
 cd pystdcge
