@@ -1,0 +1,87 @@
+name: publish
+
+# Builds the sdist and wheel from a release tag and uploads them to PyPI through trusted publishing (OpenID Connect:
+# no API token or password is stored anywhere). It runs when a GitHub release is published, or by hand for an existing
+# tag: Actions > publish > Run workflow, with ref = the tag (for example v0.3.3). The upload stops if the version in
+# pyproject.toml differs from the tag without its "v", and PyPI never accepts the same version twice.
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Tag to build and publish (for example v0.3.3)"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: build the sdist and wheel
+    runs-on: ubuntu-latest
+    env:
+      TAG: ${{ github.event_name == 'workflow_dispatch' && inputs.ref || github.event.release.tag_name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: refs/tags/${{ env.TAG }}
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build
+        run: |
+          python -m pip install --upgrade pip build
+          python -m build
+      - name: Check that the built version equals the tag without its "v"
+        run: |
+          python - <<'EOF'
+          import os, pathlib, sys, tarfile, zipfile
+          from email.parser import HeaderParser
+
+          tag = os.environ["TAG"]
+          if not tag.startswith("v"):
+              sys.exit(f"The tag {tag!r} does not start with 'v'")
+          want = tag[1:]
+          dist = pathlib.Path("dist")
+          files = sorted(p.name for p in dist.iterdir())
+          print("built:", files)
+          wheels, sdists = sorted(dist.glob("*.whl")), sorted(dist.glob("*.tar.gz"))
+          if len(files) != 2 or len(wheels) != 1 or len(sdists) != 1:
+              sys.exit("Expected exactly one wheel and one sdist in dist/")
+          with zipfile.ZipFile(wheels[0]) as z:
+              meta = next(n for n in z.namelist() if n.endswith(".dist-info/METADATA"))
+              wheel_version = HeaderParser().parsestr(z.read(meta).decode("utf-8"))["Version"]
+          with tarfile.open(sdists[0]) as t:
+              info = next(m for m in t.getmembers() if m.name.count("/") == 1 and m.name.endswith("/PKG-INFO"))
+              sdist_version = HeaderParser().parsestr(t.extractfile(info).read().decode("utf-8"))["Version"]
+          print(f"tag {tag}: wheel version {wheel_version}, sdist version {sdist_version}")
+          if not (wheel_version == sdist_version == want):
+              sys.exit(f"Version mismatch: the tag says {want}, the wheel {wheel_version}, the sdist {sdist_version}")
+          EOF
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+          if-no-files-found: error
+
+  publish:
+    name: upload to PyPI
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: pypi
+      url: https://pypi.org/project/pystdcge/
+    permissions:
+      id-token: write        # trusted publishing: PyPI checks this repository, workflow and environment
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          print-hash: true
